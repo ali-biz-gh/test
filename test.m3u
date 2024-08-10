@@ -1,1 +1,1140 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.aptv.app/xml,https://epg.aptv.app/pp.xml.gz,http://epg.51zmt.top:8000/e.xml.gz,https://epg.v1.mk/fy.xml"
+
+
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="综合", 翡翠台
+https://docker.mytvsuper.us.kg/stream/tvb/null-33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="综合", 翡翠台（推流）
+https://docker.mytvsuper.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="综合", 翡翠台 4K
+https://docker.mytvsuper.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp" group-title="戲劇電影", 功夫台
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", 明珠台
+https://docker.mytvsuper.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB Plus
+https://docker.mytvsuper.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
+https://docker.mytvsuper.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="戲劇電影", 華語劇台
+https://docker.mytvsuper.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="综合", 鳳凰衛視中文台
+https://docker.mytvsuper.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="新聞財經", 鳳凰衛視資訊台
+https://docker.mytvsuper.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="综合", 鳳凰衛視香港台
+https://docker.mytvsuper.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影", 黃金翡翠台
+https://docker.mytvsuper.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="戲劇電影", 黃金華劇台
+https://docker.mytvsuper.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="戲劇電影", 亞洲劇台
+https://docker.mytvsuper.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="新聞財經", 亞洲新聞台
+https://docker.mytvsuper.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", 千禧經典台
+https://docker.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/94bae399b66709dcb932d90adc95e0d7.png" group-title="戲劇電影", 緯來电影
+https://sxj.btjson.us.kg/ziyong?id=videoland-movie
+
+
+
+
+#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="综合", 星河台
+https://docker.mytvsuper.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", 天映經典頻道
+https://docker.mytvsuper.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="新聞財經", 娛樂新聞台
+https://docker.mytvsuper.us.kg/stream/tvb/null-9/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="戲劇電影", 戲曲台
+https://docker.mytvsuper.us.kg/stream/tvb/null-10/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="综合", 東方衛視國際頻道
+https://docker.mytvsuper.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#EXTINF:-1 tvg-id="旅チャンネル ＨＤ" tvg-name="旅チャンネル ＨＤ" tvg-logo="https://www.dussl.icu/image/旅チャンネル.jpg" group-title="综合", 旅チャンネル ＨＤ1
+https://stream1.freetv.fun/lu-chiyanneru-1.m3u8
+#EXTINF:-1 tvg-id="旅チャンネル ＨＤ" tvg-name="旅チャンネル ＨＤ" tvg-logo="https://www.dussl.icu/image/旅チャンネル.jpg" group-title="综合", 旅チャンネル ＨＤ2
+https://stream1.freetv.fun/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8
+
+
+
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="新聞財經", 無線衛星亞洲台
+https://docker.mytvsuper.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戲劇電影", myTV SUPER 18台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="myTV SUPER Olympics 801" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="香港MyTV奧運", 奧運801台
+https://docker.mytvsuper.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="myTV SUPER Olympics 802" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="香港MyTV奧運", 奧運802台
+https://docker.mytvsuper.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="myTV SUPER Olympics 803" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="香港MyTV奧運", 奧運803台
+https://docker.mytvsuper.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="myTV SUPER Olympics 804" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="香港MyTV奧運", 奧運804台
+https://docker.mytvsuper.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="myTV SUPER Olympics 805" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="香港MyTV奧運", 奧運805台
+https://docker.mytvsuper.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="myTV SUPER Olympics 806" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="香港MyTV奧運", 奧運806台
+https://docker.mytvsuper.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="myTV SUPER Olympics 807" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="香港MyTV奧運", 奧運807台
+https://docker.mytvsuper.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="myTV SUPER Olympics 808" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="香港MyTV奧運", 奧運808台
+https://docker.mytvsuper.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="myTV SUPER Olympics 809" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="香港MyTV奧運", 奧運809台
+https://docker.mytvsuper.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="myTV SUPER Olympics 810" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="香港MyTV奧運", 奧運810台
+https://docker.mytvsuper.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="myTV SUPER Olympics 811" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="香港MyTV奧運", 奧運811台
+https://docker.mytvsuper.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="myTV SUPER Olympics 812" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="香港MyTV奧運", 奧運812台
+https://docker.mytvsuper.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="myTV SUPER Olympics 813" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="香港MyTV奧運", 奧運813台
+https://docker.mytvsuper.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="myTV SUPER Olympics 814" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="香港MyTV奧運", 奧運814台
+https://docker.mytvsuper.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="myTV SUPER Olympics 815" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="香港MyTV奧運", 奧運815台
+https://docker.mytvsuper.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="myTV SUPER Olympics 816" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="香港MyTV奧運", 奧運816台
+https://docker.mytvsuper.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="myTV SUPER Olympics News" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="香港MyTV奧運", 奧運817台
+https://docker.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="戲劇電影", 創世電視
+https://docker.mytvsuper.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png" group-title="其他", 港台电视33
+https://docker.mytvsuper.us.kg/stream/tvb/33-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="港台电视34" tvg-name="港台电视34" tvg-logo="https://i.postimg.cc/Tw1wW3Xq/34.png" group-title="其他", 港台电视34
+https://docker.mytvsuper.us.kg/stream/tvb/34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="港台电视35" tvg-name="港台电视35" tvg-logo="https://i.postimg.cc/j51j6YxV/35.png" group-title="其他", 港台电视35
+https://docker.mytvsuper.us.kg/stream/tvb/35/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="港台电视36" tvg-name="港台电视36" tvg-logo="https://i.postimg.cc/FHpNGQvN/36.png" group-title="其他", 港台电视36
+https://docker.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="新聞財經", 無線衛星新聞台
+https://docker.mytvsuper.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="新聞財經", 神州新聞台
+https://docker.mytvsuper.us.kg/stream/tvb/null-21/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="戲劇電影", 粵語片台
+https://docker.mytvsuper.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影", 美亞電影台
+https://docker.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="戲劇電影", 中國電影頻道
+https://docker.mytvsuper.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戲劇電影", Animax
+https://docker.mytvsuper.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="综合", Arirang TV
+https://docker.mytvsuper.us.kg/stream/tvb/arirangtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="其他", AXN
+https://docker.mytvsuper.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Now 新闻台" tvg-name="Now 新闻台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="新聞財經", Now 新闻台(推流)
+https://docker.mytvsuper.us.kg/stream/tvb/null-29/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+#EXTINF:-1 tvg-id="Now 直播台" tvg-name="Now 直播台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/d7bf718bda6a93e07185e8edc72b4261.png" group-title="其他", Now 直播台
+https://docker.mytvsuper.us.kg/stream/tvb/now/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中國環球電視網 記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="综合", CGTN (中國環球電視網)英語頻道
+https://docker.mytvsuper.us.kg/stream/tvb/cgtn-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中國環球電視網 英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="综合", CGTN (中國環球電視網)記錄頻道
+https://docker.mytvsuper.us.kg/stream/tvb/cgtn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="新聞財經", NHK World-Japan
+https://docker.mytvsuper.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="少兒", Nick Jr.
+https://docker.mytvsuper.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="少兒", Nickelodeon
+https://docker.mytvsuper.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="戲劇電影", PopC
+https://docker.mytvsuper.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="戲劇電影", ROCK Action
+https://docker.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="戲劇電影", ROCK 綜藝娛樂
+https://docker.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", SUPER Kids
+https://docker.mytvsuper.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
+#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks-夢工廠動畫" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="少兒", DreamWorks 夢工廠動畫(安博)
+http://z1.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="戲劇電影", Thrill
+https://docker.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戲劇電影", tvN
+https://docker.mytvsuper.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="少兒", ZooMoo
+https://docker.mytvsuper.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="中央電視台综合頻道-港澳版" tvg-name="中央電視台综合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台综合頻道-港澳版.png" group-title="综合", 中央電視台综合頻道 (港澳版)
+https://docker.mytvsuper.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="新聞財經", 半島電視台英語頻道
+https://docker.mytvsuper.us.kg/stream/tvb/null-24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="新聞財經", DW
+https://docker.mytvsuper.us.kg/stream/tvb/dw/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="時尚", FashionBox
+https://docker.mytvsuper.us.kg/stream/tvb/fashionbox/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="新聞財經", France 24
+https://docker.mytvsuper.us.kg/stream/tvb/france24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="探索自然", Global Trekker
+https://docker.mytvsuper.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="戲劇電影", KIX
+https://docker.mytvsuper.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Love-Nature-HD" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="探索自然", Love Nature HD
+https://docker.mytvsuper.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="探索自然", Love Nature 4K
+https://docker.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝", Mezzo Live HD
+https://docker.mytvsuper.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-24/c65bed2b10345b876ddafe81f979e48f.webp" group-title="其他", MovieMovie
+https://sxj.btjson.us.kg/ziyong?id=moviemovie
+
+#EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY 资讯台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c9887a22769a3efd48eed67bdb4cb071.png" group-title="新聞財經", HOY 资讯台
+https://sxj.btjson.us.kg/ziyong?id=hoy-info
+
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a40676e3892cb653fe17391534ccacfe.png" group-title="新聞財經", HOY TV
+https://sxj.btjson.us.kg/ziyong?id=hoytv
+
+#EXTINF:-1 tvg-id="HOY国际财经" tvg-name="HOY国际财经" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/79add1b9977b00819f290e96cb343fc9.webp" group-title="新聞財經", HOY国际财经
+https://sxj.btjson.us.kg/ziyong?id=hoy-ibc
+
+#EXTINF:-1 tvg-id="Now HBO Hits" tvg-name="Now HBO Hits" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/59dbfcb6b8a276f528270bbac8cd599a.webp" group-title="其他", Now HBO Hits
+https://sxj.btjson.us.kg/ziyong?id=now-hbo-hits
+
+#EXTINF:-1 tvg-id="Now HBO Signature" tvg-name="Now HBO Signature" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/48d41c0b479d665d5710e17cbf522734.webp" group-title="其他", Now HBO Signature
+https://sxj.btjson.us.kg/ziyong?id=now-hbo-signature
+
+
+#EXTINF:-1 tvg-id="Now HBO Family" tvg-name="Now HBO Family" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/f78ea2c2be0182786680504258cb6ded.webp" group-title="其他", Now HBO Family
+https://sxj.btjson.us.kg/ziyong?id=now-hbof-amily
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://assets.livednow.com/logo/广东体育.png" group-title="体育", 广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", 互動窗 1
+https://docker.mytvsuper.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", 互動窗 2
+https://docker.mytvsuper.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", myTV SUPER 直播足球3台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", myTV SUPER 直播足球4台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", myTV SUPER 直播足球5台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", myTV SUPER 直播足球6台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视", CCTV 8K
+https://sxg.btjson.us.kg/ysp/cctv8k
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
+https://livednow.com/migu/608807420?sign=gAAAAABmsk8xIJKREC9x3nktiDHnGjggVjCYHifok-5eOD9w5MZUpZ6qkg8C3SbHGJ8CFXh0_vn1wrhgnIRDDMRnkEzFadQyRrNP_s9h85OsFr4SqzjS51KOf0hb8N4U8MXTp2EApePouTMhrlffeshGvVjX2g3cFJqaJF24Tmf3KZ0-L8YrnERVhOJGxGblIQqBPDIkqjH9g-HXaxGp1RRUcpDmH9eOMw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV2 财经
+https://livednow.com/migu/631780532?sign=gAAAAABmsk8xeSktZmWOf2zkrtqGMB5D1ly7kVZfHDN6XpBmhvflGkfYlCQCK57nr--IR09-uvGADttUCs0ETgSIPeAorOYvw3ibLU1LkxMp-JtUY7N5KhqOkz72q4AYBcvNI5VudxhUIGHC70TTRaQbYSLg-5szKHc3XulBBHW57oe5DDGO-Rm5GQ6k9KWWhdBTzS-JiPLd5ca17K5EQjnKwwEF-S69qg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV3 综艺
+https://livednow.com/migu/624878271?sign=gAAAAABmsk8x8R_8A4EgikPm0LrLLSNe3v7aeLOlWz1dX9ZuraAAO3BR8uueuzDbrparckq0Iwwtdrm2skNc3FEUTQMemSjX9CaO4cZZFCjZv0q_sbGUp2Qi0JMeNxtGOYdcwYtnNlXNzfVkYdGFybFeArCed3KY9kv5ZGjcqgRVnItqhUpEcxZg73eEaCqGPy9emnVCH2aY3i8kTv0QUkl1ihlE6EXHMw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV4 中文国际
+https://livednow.com/migu/631780421?sign=gAAAAABmsk8xolbYCi8llLhFQ_nrif1xGjjC3fBlCsDesTZfYUrfhpoVBiT77o0LxyD8ucFNadCQwiRces2IE4NrUjTa95UfoweVaRVPL6L1jm1AsTKYrk6q5Owk9Sn_8xUsyTpuQMpXcHBbznLskSurmexSRNYGM-okaHHLlu6AY7v8XW0MuGVizEVLyBbRl_8Y0qasj_2tlrujLETuWyr1oq5ujRWZ1g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV5 体育
+https://livednow.com/migu/641886683?sign=gAAAAABmsk8x-wiWjLO3w_EImmEB2nFy0-m6onD3j2vTweVnBvD2WkYBXl2gB62jtzHqdxdZi6BKblGGbboqDqO27EVE1GQRnGi4gBXF0AKtipcqjUuonJLq4ynAhXcyAA9VB1PDfWqI2uobCKY_d-4NsyCCd5pVEJgLk3sHheE73TBwOmWuoqWl80SCT8HqR44Ka45JkfWQl4ufhtxvo85NRdrog4Xb4Q%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV5+ 体育赛事
+https://livednow.com/migu/641886773?sign=gAAAAABmsk8xVIgGZQcX9mfE0l1Tzr36_-iQPBYrooPqV0GomBmK_jQ4kE_-OCcorLdNbRnFombiWpR7wdNwmXAi8lIT8agIIs_wc6cHMHaoKwRS5rLMJXcNygz0trm3NQ4YB71dgnUUJlX7KfeVxpn0XGEw2x3Gt-0rJkViM9iBwc4a6CsL18SNEopivRyRb-FFQDu4SHi4hVlKg0W00jT2Jn1RM4tVxw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV6 电影
+https://livednow.com/migu/624878396?sign=gAAAAABmsk8xbBkLjug9Gt49xShdmOOfwE5FUVNMiW0wQxIMh5xdlYFOcvQJxz_bNjPThA6KG7b57-ReHahZoC1EeFuHqtLpox158_qOm0XMiHUTwv9HxZzuIiRJufybIiKP1ktGM_Dcf5d8xbOSwbKvy2er_17Miz9FgdcRcJz0rstJroiinEuYMBzPUljg_2haPLuj7cntiO91B1b9qufOfi2q-nlQFg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV7 国防军事
+https://livednow.com/migu/673168121?sign=gAAAAABmsk8xDH1g4LKRkE7pkxCg_bxJx9B0zYBODwsOxmCMn51bmAX0e5Kfyk9vtjRfAPkHVBXSbUTfDXHKkYYFriqxOqwEzJfBVK9CKpMK2xLD6SF4u3vBULU-yHWnX7ZVnKnH0PmfDRTCdLPQ8NNH1VZM9hCvHuCw1EMY-PbTWhJbDOBGN884P-GAeDbKyy8bz7QpWmICpN26Wg8u-1mM1YjhmU_pcA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV8 电视剧
+https://livednow.com/migu/624878356?sign=gAAAAABmsk8xS46CZaLPVzBKO2yevcdfTASyHB8pebic4SVtqPUVv1HVUuZdkaue7W2fcDJh8F-WnOPDB785e0Pxaxk7aZrqgvKNhGBLxr-QWk2mN3V6_DDrkAH0EqUOBX0Qx_YUhqGJUq5ca_vE-kR9ERfsECYu3RiRqsfVKkWbn1S6TvpACN27x8vWgoXK-rgIUsM8lAEW_9YlsnWfkOxTH5c1hrn-TQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV9 纪录
+https://livednow.com/migu/673168140?sign=gAAAAABmsk8xFspax3ABb-rgATn9Roa_Pvga7HLH9heI_DUU0H6L45IjjVuCuwGvETZbIuaRwaAXKXoLHdMQ_dDmTr6SchCzG36qJFZe3U-FMuKRlJV5OTBcAQzRLTiDPfsbcizZmgRCKYDerfDGV_sxso5o03Smttt8dVM85vYuWDOhIsrletoQmVntjGOyQHsJne9Az9k-7n8730Phc-uEdDDMIIdZ2g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV10 科教
+https://livednow.com/migu/624878405?sign=gAAAAABmsk8xl2yySWPnFTPW17E_9mYAAYXMsbtsJerZDHI4RjcqNl-Vc62K2saAm7oT8jVI2lROXH8bvxokobzj6prstCvAxK0alX1YhfFTpiWBSmWbSohgmTPK0MWdxKNf9i-wqqBw8lIYtdObOgX6cWZOo2ucV33XMtwfq7RRaz0EBfXi2wRx309lJFo-FQJNb03HPttZiMO7wzVL4YUpsU22SgJ47Q%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV11 戏曲
+https://livednow.com/migu/667987558?sign=gAAAAABmsk8xp9l254jo4ivJlwGSJ9tetk6xnCf6DXzGAjRf7Ju0reBul7faBU8ku6jBZKMObkla3d3Om9s9Li-tGbypSw_tv_dEyQjxfAWPdBOr44GJmoxBnr3dKzfT1Ymp0pqwu3mZPcn86OBKZWQV0Ya8Gjm8qprk_MBIR1S5gGEOw953d6B9M55qbguQ9W0DXTcX8U_iKhM5ISzFB82BtYgHYTUt7g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV12 社会与法
+https://livednow.com/migu/673168185?sign=gAAAAABmsk8x80Og4oAHNVzxHk5aEKkiD7FtEeH4TzUUqQ-CUiAkw48HI5JTvWZlLw9FPixrD00XdUXby6pPl-XBEiv2RmQ8iy6LDrxTZ2cQHAsMGOfpf_xxvWg1Zm_wQzMGvFGzD4AQgXMRr96SD7glkoaeAZaeWJcfDxVGRnUThcHYBGvS04ENwUnZLXJN47getkxGvchDfDYNjPoCKVSYPsB5vg7QNA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13 新闻
+https://livednow.com/migu/608807423?sign=gAAAAABmsk8xEbKME-yGlwFMSmq6pxpPf0rKTaKooQb0yCth3aJOVPa1ee7lp-KADJMBAhpFWEDl-44tZ7KxmChMqlQphS4a7X-dWH0CXswu1fjCToFp20Kv7LAu27fotlYXSML-OkLSjfob34n43_6_63j0SPmDzY0OgMQoqShNHAWiCZqYzKEzYaKA145K_e4Qsaw4wYGOnTEmgHUc4yMWmpj-Qf0qEA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV14 少儿
+https://livednow.com/migu/624878440?sign=gAAAAABmsk8xGVxqVnE0iG4-IVDhNOwlaafMfuoVvnnwwMOG9WkRwdVDWaT4TmkUc5QPev5A4O06VmU-qduR2J2ZCWQVfpEj_kLBsK0ADmi-AojVrdRz3aKwemm20uB0-nIpEBB46kHeBPnLOPLgbvj834CIlRJSKflOWzM1omhYvtU1V5mTfNgPQsmg1Jg4ySb9vhBX1CGO6UOj3IKwE3YLpKMTT3OqZw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV15 音乐
+https://livednow.com/migu/673168223?sign=gAAAAABmsk8xiVP7omDsAqmTaWmpdrc0kKIXK4ny0oCY7DSpInOpvAmUJkvlXwPft3lyeGqvaxqhUvKLt3BvN0OsxZGIAsa8AKkU5I6y5w1GbFdLjS8E4Gl1HXM1QEP85FmUzMVc7xdcUHEgB32ooNXBWP4Oaa61XFv3MDst78lMThAAslgUy_HCvXHKwtvU60sQvIdf52deGItc8zFfaoEsKgQshsPBIA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
+https://livednow.com/migu/673168256?sign=gAAAAABmsk8xa4a9SIIAOyryV5ur96Ei6z7rYcz6y0IvXy5LDdhPyut75NWPp_7zWlns8FO2kIJCkEhfD4g5EnSS4pHOaohUkIgcd_jHYtnOYmTuwTECTrmMGoAZgeQZmN7voF0HG96ZSi_WgunIrlXfk9o4tbZngxhWkSYQso-sqwR-uZbCBSotF8BhqWNNb_F87k_w_9bhRyD4o4Gfie3pjwAECsYgJw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png" group-title="央视",CCTV4 欧洲
+https://livednow.com/migu/608807419?sign=gAAAAABmsk8xu-B43QPT4rUHylVVHypT_6EUv2XpNY1G5BhE8lWVQqFC8381SLwOEuvDQbIuZaQoKKIVtrtJGjtQuBMI21L9nHtYM26o_h_G597rh9DSQl_Vwzsq4BRVsCd9PrkoGiYJB9Oumz84qKCAIuJnnU4_C-fcf8C3j5obY1txco4zlKRn_dRk7ZcBdBwpzcK4mWdYVCB5uDpGEOD9mg3Gu8vg4w%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
+https://livednow.com/migu/608807416?sign=gAAAAABmsk8x3KqcoxFTFjN2XD6V7YGT5WwyxZmgyVTeRf1VgWaf2lGmZM08QlL8ZQGSia7B3C2TUwFxC9IvSjKiPMa5J87h29eTY_3B8LF1FHnzHAqH3aXniUfhruDRVqB0PEVTg210T2QIUbxkB0szKjUdanXrMDholVPxbVA0rrooUHsodaXiSqw1R2aos7Kd44O-4-1RK4LWp1vXIJ72zcnFmbjsoQ%3D%3D
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://livednow.com/migu/623899368?sign=gAAAAABmsk8xY5ZlnuiP01HlvysSwzcsIomwNO80BuacHusNJfz8M-59jPFqqmsyDNLvRQmsFPccEqSy8O2OwOQMIfQ1SrUlOXtIGVfiHqTi_BGSknH7YFg4XN8BqhiiXnHeqSCeEZV9aeD3qME8getvC9T6jw7U3jZXxIdbI5rJutqvKW5fk0hh4gce94r7p88wa_Mbnyl9bEjjVTkwBZXdg0UQABs4BA%3D%3D
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视",广东卫视
+https://livednow.com/migu/608831231?sign=gAAAAABmsk8xbD7RmJxcCFGBoH9YUCfKYe2W_NQ_QiqT6RXDVRUQs56iRZfbfM6EczxhNhAp2d7vfFIKTGbowSmvXv9e-T5ehIzw0b8Xkthn2XjASj3QokbLMFCOGiw80rMGNrhu3Ikmq6wHJa0PAb8ZCFuwRxhy-xuxErzFueUbDmvF15tc5xvw-luz0VzgUo5wbX_bgpvFN6MugO8bEz0soyIUJvWqRA%3D%3D
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视",江西卫视
+https://livednow.com/migu/783847495?sign=gAAAAABmsk8x1dKefxhVTEP09H-I1YHm6Hz-za43CRTr-jYHEf3Qny4DvKb3Sa0gPy1kqBqVr6U6RvA4Xq4aP_TI9WZ79Wof3KK8rDTVhIe0nbsx9OC_jsf7uPN7eZ5pCyLkqwPtaMzlFMp2kCLZx0ybFw5qw9VUOHnTxaZbQNBXeQbTLKaLMmY7ygHPj5i1reXBmmxRLxJ5WCgSXHWqOOrZ1jGwhsuzTg%3D%3D
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
+https://livednow.com/migu/738910838?sign=gAAAAABmsk8x2HDmErKIlxLep9PS7kpAilipXmBFIb6mqdLlPdPpBrxlvBFuvuOWTxAVdBfPcgsVO6xEQDZcHIddqNzfFgP9F-i5UQHNJFjzEQwWQZ3wMGjOjXsZGXBAz0mJQdLGDTFlHvId2WKXzfahUn2vr7HdOs2xORBMOyJFSEepaa0Omyy7slcDjxGWnsYNB2Y6KVnmNyepZ3u3nJ1syf_HYf05IA%3D%3D
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://livednow.com/migu/738906825?sign=gAAAAABmsk8x8Oj_VQLt-12qEpDJtNTUsA9bxnTD1Y3A9S47l99sOxzpRtLNBeupH8_HM3aZBayXDLYf3LwZUnf--SRyfg5VCMSe8B_GLlaVbNhjmAlzIqJAG2231qbx7u_ZE-9_j6RHotGVV5i4LA9XfrehCQ4TyGv7qfAK7Q48JsRoFfnKDG8CRQxZHgbhDQuBkemh11gft-4trf22q32dDACiG1vnUQ%3D%3D
+
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://assets.livednow.com/logo/海峡卫视.png" group-title="卫视",海峡卫视
+https://livednow.com/migu/849119120?sign=gAAAAABmsk8xoIcU-teZjySAGXQQPn4FHNU4Rt2hrmVgA3xbc3nHlfGkLbh1S5TippWeiFQ9emBVIXmxbzXu3p7hVBE8JhxK2H47y8aPGftciAyd_TSp_CG9uUJYhzfSyFvDq4M6NPru8-wb-aK5shycsqw-6sYyniMXLo_B9S7HWZAgAMTQRsI1P4jsVb0Y0yAwMjtPQNwPNWXyIVLxTQTqDXxEdRWolw%3D%3D
+
+#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="体育",NBA 经典
+https://livednow.com/migu/788815380?sign=gAAAAABmsk8xpRG4_Qik5Id3U0OQ0IRtPJN8uy62oJ3LliBYImuAQhXRcqE-sCZkenXuLRSNgKmNcrpejhcjGeL1RRAtNQ1KdDr-8s9ghlaAbCNY3aRyEqi0MA0bfs9yd40caW_N125EzfxXgLBEaGOeqUoeYlCW59yU1ywkK00bwFe23Kw-k2YfFodv4aLD9f5J7N9WeHeiexOSV1abku84hx8tXjLM_A%3D%3D
+
+#EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="体育",五大联赛经典
+https://livednow.com/migu/780288994?sign=gAAAAABmsk8xas2jY3twsMQiYWDqmABHQk2tqJaXHhrexgH9VBFmu0aAZrcbbTzTdR3qKuKSP-MJSyrDzGCjMah_As5JhFxx0gkgZqioM64EazwaAI3xlrcfOFDs_fkbdIHWpvhMdR0BSTYNJwKrBfUKZdmfnEi2anvX2bf6N0j_9HTvM8x-KOXPYfe2A2v0PzanENmaDBHXJ3GTfu6JOAuGgi5dKaGrQA%3D%3D
+
+#EXTINF:-1 tvg-id="CBA经典" tvg-name="CBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/526/202304201400_1681962688794_H169_1080.jpg" group-title="体育",CBA 经典
+https://livednow.com/migu/788813182?sign=gAAAAABmsk8xSaAPs9l1WtflFEJgw6q4fEGOZHCsFQ-H-ifiXdJAm0hyPK0HfV_zTEMP1_0qwGSpnHT-FriR8j-h9xuAuNtigONU8CumpWTGeNcORO6A3iccqinoDOgGFwqyVmE-xxPIw4rrJ3KvO3FAnstOr2Y8uBjucRtTfGmXnU25GjBz4GlTIK9EZENXwVlRsZwy5gNhQjyV33HQAzwDtiOkWM0KWQ%3D%3D
+
+#EXTINF:-1 tvg-id="中国足球风云" tvg-name="中国足球风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="体育",中国足球风云
+https://livednow.com/migu/788816794?sign=gAAAAABmsk8xwAUJ9GrBFUwsPD_HjUxCL7qI6rUAle25lDUAulZj2Iu51i0akjUz6vDe-8FegWX6SzeGSnerecf7rhecYvqncvt_Fi4sxbEQrn9Ez4XRMvEE84YyH_nRalN-1BEsEMg2yTuVihyOqwqcU-hAdj7nD6RpATN845E5pT7Ah3F8hSe69BcMV4X6HYgHJ3GoJKgb6c8wE03E5OS3QJAqOu2IHQ%3D%3D
+
+#EXTINF:-1 tvg-id="UFC格斗精选" tvg-name="UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="体育",UFC 格斗精选
+https://livednow.com/migu/788818804?sign=gAAAAABmsk8xgZ3-dh2REDgAqKfkKgxDfEFhPzvqHnFqPlc9iNPosAr2aZz9Qww1PmfEgqyKf1DOF6ea2r0pqAA3j9-SPM5GxZjOVIxod9_4PsEgy0bZwjNXq5KDdx3gEY0XNblHQvzxjHo0U3tKKrrzsmxEXoIJqUqbtG4eQObaT50DK64D7lIz2PDOTu6Zhem1qskfVZEpV53H8QO9CrKcDXd5yPOcrQ%3D%3D
+
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://assets.livednow.com/logo/劲爆体育.png" group-title="体育",劲爆体育
+https://livednow.com/migu/796071336?sign=gAAAAABmsk8x7p2W9RKvkRo0One5iFG2gyaOmu4kHiwrN4V8tXYfBGuCpO9Y788zfXx5i_QRciCeZ_0fIsDlu3F6w57MumV9lBWqm4CgOUX3Odkkr0xXj-CnPLNa8UpfHqNQAbYUANRWrGygQbFrBfDTAjcy6AhFyTpSLolJ0rjpxf9oTlpf6Ukw8cdNCnU5sy3IlS3sJt0A0kJWf5o1S20R9LuiURfH-A%3D%3D
+
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://assets.livednow.com/logo/魅力足球.png" group-title="体育",魅力足球
+https://livednow.com/migu/796070308?sign=gAAAAABmsk8xgz0dAOVKckDMC5cbRfd3iLDbwtOVJkKTBGVgJR5vEgcSPmryMalPQU-IDtQSArhHROzfK4z6vJsA7htiKmJ38N_lzuRqlErigY8y9Mw10jqiOegKI1q1kTT6VXZ7VGUsBLqOkbYGKus0mBrxk6A1cikK-GVKyKJnKUcZSaOr9q1nnAgjvx4G2ooex0hbbb_S3IS0A6QgvqvipH9asRf5Mg%3D%3D
+
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="体育",赛事最经典
+https://livednow.com/migu/646596895?sign=gAAAAABmsk8xC9hWnpHmA_a9pT7dvccE9F9Tb7ZwNzfUVtNYiwJfO1R82sOkFhmuxw3WEzFGsH1mihCeP9G4CiJIkaMAkDFO5pICftMVyZbYLgeGQwmTR3bVYywR0fEbAmXQ67a6fokYAfwX-NsK48dZ-m1Eyrp7_dJi0YMSGCTeLjz9BhaIBoIk_JDOuhSN-TMHIurEfwH8Dd4atXBmVLC4-sYYiQf_1A%3D%3D
+
+#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="体育",掼蛋精英赛
+https://livednow.com/migu/631354620?sign=gAAAAABmsk8xaAh7PUoipIfFFoLQ8DZAbd5LG8iez0AS-euo2TSEi5jQR9583bP9Ge8pYRTCjWEip365jSme7pDOAMWO83njMSW-xgi908uQjmE_kdjXL7nyXz4y02RHn1oVAVWTrG9BA5Uuo3htNvStOdSVQCm0w4WOfKdvl059exp6VVN2QBeSrczqjMFexjmi-3PtpHuKjnWAAEnfwgPLxSyifyXlZg%3D%3D
+
+#EXTINF:-1 tvg-id="全民乒乓" tvg-name="全民乒乓" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/532/202304201408_1681970854549_H169_1080.jpg" group-title="体育",全民乒乓
+https://livednow.com/migu/788818045?sign=gAAAAABmsk8xgyBl2H9Dq_F_UFiDmC_RwBFD-IsWkGrvfFPilNoyuwkM7MtklY2l-3gZQIad2Mz1O_-MZUZKHVLY3G-JD3mgmFrHXhNkf4ltzWrAlUo3xUmfFf_N7ooHNNjQA_vuKkv5pcXdy5k6nPim7oekAzS8OgFsr4-WbPatit3b8cP6TR-V5GB_rUvKz_UROqEpbGtheBqvy1dc5uLBEfUKEUhAEQ%3D%3D
+
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="体育",体坛名栏汇
+https://livednow.com/migu/629943305?sign=gAAAAABmsk8xXS3x2gVT6NzgC-JpA7pmW-J06ZpC1LVNMZ7pvKt-s1qtIl5--luJlgU8sBOh1eFgQltMD2eRvBd8bNRiJzAFM70rHR0Jck6xn5uphVsKRwltA2DquC9PhPkHjUvN40pTHtzxaEQ-NZkAr0cEPrx6wG_iVo6DDBiqNLeJXdef9pghpT542rIx7Jnqc0A5nwmj_ls-3-b8ykiiEftbvgkIYA%3D%3D
+
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
+https://livednow.com/migu/895358641?sign=gAAAAABmsk8xkS4NUVeRB6AYMqMahO4lfdDJ0FlW8vIhR973mMrx2EwvfU6dPGpj88oYeLK5BPJItMGdBGUUiNydMJlFbBPvwOa9O6MLbcQf_MpGILSbJifGq86Fsl0a7TkyploWvL50NF67OG7-MvhWoKw3j2QKFZLdB_Xj0_QYeVesLgc83aXE3mYEBVxbCB95krVpiAemC28ls6AYqB5-yqn63gv7cA%3D%3D
+
+#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="体育",咪咕24小时体育台
+https://livednow.com/migu/654102378?sign=gAAAAABmsk8xh-dM_JCREyEUY7s5XTs0oAup-bW8B4Owbjm31ehxHp8s2pq9lERjq9TVRlVey8Tj2YNKMsp9GSHtNu3u0r4tFDCkZa0G9RJHIGMrKEz1uM3m3Mdz9kzs6P3j1VtGyXNIjP7lmWlpiH5Mtwe3PfJSxWw3MyygsLOjz3KZybl-FpTGGqjefOfM0hqXL24E_D0Ez5JxRE9AqxzLxPYCaD3YZg%3D%3D
+
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/587/202304031402_1679995024774_H169_1080.jpg" group-title="体育",游戏风云
+https://livednow.com/migu/790188417?sign=gAAAAABmsk8xwnxcienjQzq6jCLd5vYrkzjdXeedP_TWCYnQFa0TPcXc_oRu1yTWZ3A1fhPOdCzv15KBgSEFVYtB9gUiuVlSPWJJQ2A9BwSnWazWksH97XmstqUrDZ7pghPXmNXq-Pyd07D4ae3nvPbKXfYna4WSg91glTdPBZy9qq7gGKQiUNWMW4PvkxMxHmYwX4xPrBrQAyeXgjJtHUtC7H0MlBMGAQ%3D%3D
+
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方",上海东方影视
+https://livednow.com/migu/617290047?sign=gAAAAABmsk8xphkqMmpH5OQtx6blzB2BLP1wQDGg9Uqne8Mr6J-mx46YJI0i4QNJIG1JHz7qf05Uu8COMN0ndsjt3AldTjfTtNsN6Zcb4QzQ1Ko5SNbItdaj7SrnGSmSE8Vb8rZsIfDqOLQQl9dUS-GluCYQqZiKOn4z8I5BjBfXk-2-QNV1yxwNM35-_ejrXuwmIYcClfAGM_dTuihxFgp9OxtzlxH4CQ%3D%3D
+
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方",上海纪实人文
+https://livednow.com/migu/617289997?sign=gAAAAABmsk8x954-tyoCmrDWX8pO28LT3_F3dW4FUMeQPt0QrZ9xclzTx0au65WYgJJ9EZhNV8wuwb2uAEL4ne9-EWMG1qDFfnX4GaTMx22SQ21wn2R7qBLGOVB8k7Fk1LVA0WNt5c-llWTIk3qBc71yBHv84FDym4d_R12gkCZdsm6qiC7wBRid1sToChxW0l_MZSzN3iOUUncXwYKCnqQn8nkr09THxw%3D%3D
+
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://assets.livednow.com/logo/七彩戏剧.png" group-title="地方",七彩戏剧
+https://livednow.com/migu/796071456?sign=gAAAAABmsk8xQo57do9ms-SG-sg0K0v7L46eb5Go0O9mryCiX-lgRbBK5AxL6guDQsGOox2vE7uLOl9np42uIxwTth0ekY8XfSyo7RmW4HMUP6Au2svPswe3r_VwWftwOu31Et7fqzV8SWftDEe1SYux-_8fqV6OcPfYcQwnssvoUjKyvo_jhum0jRCDYRtuSpMFJ0_BvbWZHML2SMp2d-vCH6lEvfOHug%3D%3D
+
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="影视",经典香港电影
+https://livednow.com/migu/625703337?sign=gAAAAABmsk8xzjz2wEDwCxVZWpqqUxzkazAXnIlAusu1EDDk4cQPSPqQrCDoGJ7R_kjivo4VGb0z7YDfy681FvdPgBe3j-mo0GBXanoCZzSTtDp6JT-r5bL5mLlIZTNMfzOmGZ7fpUffcIsOUb-A7mJI1XtgSyGcf0Jzyq5vdo8tEmWbiB3gvjmiuJKdhWci5Mo_n_dy4Ifr3MRcMUGhTYyhz5r8vEVHGQ%3D%3D
+
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="影视",新片放映厅
+https://livednow.com/migu/619495952?sign=gAAAAABmsk8xjeoRAdFbL-r8M7Z1H8M1EqXNkA_N8a4wHp717y3F5IDuybiRQGWMLZgwXHJGnCmyWTyqKsBM_d378Cz7ltXtoD03Ul_9vPpg50vt2PnQTqURGGdM3cF18TbzZjyrWBnVMriLQFdaaXuDvclDlmVcPGZSZJuQSFjsKF0jZqs16pYnGqEt_xGTBrE6qt1Aehk3ADvz5AtN7Pd9v87CbO8qDw%3D%3D
+
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="影视",CHC 家庭影院
+https://livednow.com/migu/644368373?sign=gAAAAABmsk8xkgipeV5mzvQR5scV9Czal0MEmixwHhdPzRlOlaKfS7ajgBAzHU3p2j9qAVnTNwxVqCwmp-s5pRA6ocMBE6ZX9p2YAYkMNkoyI93mGBpNO81IObObw5-khj1tBfsGZUPGPAasArjKhSLyYtbAYT-SFCNnbS2HIqxmzZzmHXr2YD6qjTlFbfsKIs2gEN9ci-uyIwMMs-Hwgy2iAiOUpft1Iw%3D%3D
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://assets.livednow.com/logo/欢笑剧场.png" group-title="影视",欢笑剧场
+https://livednow.com/migu/790187880?sign=gAAAAABmsk8xsIq1LBcfwTcxcvWAyh2JYwcE3LjzK3fovWo8Hqc0ArAq6MYOe5-egfgLYvHM9iim6Yt7KOIiY6aoawkAR3zAKXSEKj1fNVU06WcIm1zPMpVmtq9ZkuCvk5UrshnQSLjkMaLn5hxKk1Hru8IgYQhA8oAr1WoClksvthfjiN5A4ePdR2nEQzg8QmsXXfW-nlI5CbNX9psEUlH93F2iGnwftg%3D%3D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://assets.livednow.com/logo/AE.png" group-title="综合", A&E
+https://sxg.btjson.us.kg/thetv/ae
+
+#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="综合", ACC Network
+https://sxg.btjson.us.kg/thetv/acc-network
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/AMC.png" group-title="综合", AMC
+https://sxg.btjson.us.kg/thetv/amc
+
+#EXTINF:-1 tvg-id="American-Heroes-Channel" tvg-name="American Heroes Channel" tvg-logo="https://assets.livednow.com/logo/American-Heroes-Channel.png" group-title="综合", American Heroes Channel
+https://sxg.btjson.us.kg/thetv/american-heroes-channel
+
+#EXTINF:-1 tvg-id="Animal-Planet" tvg-name="Animal Planet" tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png" group-title="综合", Animal Planet
+https://sxg.btjson.us.kg/thetv/animal-planet
+
+#EXTINF:-1 tvg-id="BBC-America" tvg-name="BBC America" tvg-logo="https://assets.livednow.com/logo/BBC-America.png" group-title="综合", BBC America
+https://sxg.btjson.us.kg/thetv/bbc-america
+
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="综合", BBC World News
+https://sxg.btjson.us.kg/thetv/bbc-world-news-hd
+
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://assets.livednow.com/logo/BET.png" group-title="综合", BET
+https://sxg.btjson.us.kg/thetv/bet
+
+#EXTINF:-1 tvg-id="BET-Her" tvg-name="BET Her" tvg-logo="https://assets.livednow.com/logo/BET-Her.png" group-title="综合", BET Her
+https://sxg.btjson.us.kg/thetv/bet-her
+
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="综合", Bloomberg TV
+https://sxg.btjson.us.kg/thetv/bloomberg-tv
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://assets.livednow.com/logo/Boomerang.png" group-title="综合", Boomerang
+https://sxg.btjson.us.kg/thetv/boomerang
+
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://assets.livednow.com/logo/Bravo.png" group-title="综合", Bravo
+https://sxg.btjson.us.kg/thetv/bravo
+
+#EXTINF:-1 tvg-id="Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/Cartoon-Network.png" group-title="综合", Cartoon Network
+https://sxg.btjson.us.kg/thetv/cartoon-network
+
+#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="综合", CBS Sports Network
+https://sxg.btjson.us.kg/thetv/cbs-sports-network
+
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="综合", Cinemax
+https://sxg.btjson.us.kg/thetv/cinemax
+
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://assets.livednow.com/logo/CMT.png" group-title="综合", CMT
+https://sxg.btjson.us.kg/thetv/cmt
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="综合", CNBC
+https://sxg.btjson.us.kg/thetv/cnbc
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="综合", CNN
+https://sxg.btjson.us.kg/thetv/cnn
+
+#EXTINF:-1 tvg-id="Comedy-Central" tvg-name="Comedy Central" tvg-logo="https://assets.livednow.com/logo/Comedy-Central.png" group-title="综合", Comedy Central
+https://sxg.btjson.us.kg/thetv/comedy-central
+
+#EXTINF:-1 tvg-id="Cooking-Channel" tvg-name="Cooking Channel" tvg-logo="https://assets.livednow.com/logo/Cooking-Channel.png" group-title="综合", Cooking Channel
+https://sxg.btjson.us.kg/thetv/cooking-channel
+
+#EXTINF:-1 tvg-id="Crime-And-Investigation" tvg-name="Crime & Investigation" tvg-logo="https://assets.livednow.com/logo/Crime-And-Investigation.png" group-title="综合", Crime & Investigation
+https://sxg.btjson.us.kg/thetv/crime-investigation-hd
+
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="CSPAN" tvg-logo="https://assets.livednow.com/logo/CSPAN.png" group-title="综合", CSPAN
+https://sxg.btjson.us.kg/thetv/cspan
+
+#EXTINF:-1 tvg-id="CSPAN-2" tvg-name="CSPAN 2" tvg-logo="https://assets.livednow.com/logo/CSPAN-2.png" group-title="综合", CSPAN 2
+https://sxg.btjson.us.kg/thetv/cspan-2
+
+#EXTINF:-1 tvg-id="Destination-America" tvg-name="Destination America" tvg-logo="https://assets.livednow.com/logo/Destination-America.png" group-title="综合", Destination America
+https://sxg.btjson.us.kg/thetv/destination-america
+
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="综合", Discovery
+https://sxg.btjson.us.kg/thetv/discovery
+
+#EXTINF:-1 tvg-id="Discovery-Family-Channel" tvg-name="Discovery Family Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Family-Channel.png" group-title="综合", Discovery Family Channel
+https://sxg.btjson.us.kg/thetv/discovery-family-channel
+
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="综合", Discovery Life
+https://sxg.btjson.us.kg/thetv/discovery-life
+
+#EXTINF:-1 tvg-id="Disney-Channel" tvg-name="Disney Channel (East)" tvg-logo="https://assets.livednow.com/logo/Disney-Channel.png" group-title="综合", Disney Channel (East)
+https://sxg.btjson.us.kg/thetv/disney-channel-east
+
+#EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://assets.livednow.com/logo/Disney-Junior.png" group-title="综合", Disney Junior
+https://sxg.btjson.us.kg/thetv/disney-junior
+
+#EXTINF:-1 tvg-id="Disney-XD" tvg-name="Disney XD" tvg-logo="https://assets.livednow.com/logo/Disney-XD.png" group-title="综合", Disney XD
+https://sxg.btjson.us.kg/thetv/disney-xd
+
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://assets.livednow.com/logo/E.png" group-title="综合", E!
+https://sxg.btjson.us.kg/thetv/e
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="综合", ESPN
+https://sxg.btjson.us.kg/thetv/espn
+
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="综合", ESPN2
+https://sxg.btjson.us.kg/thetv/espn2
+
+#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPNews" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="综合", ESPNews
+https://sxg.btjson.us.kg/thetv/espnews
+
+#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPNU" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="综合", ESPNU
+https://sxg.btjson.us.kg/thetv/espnu
+
+#EXTINF:-1 tvg-id="Food-Network" tvg-name="Food Network" tvg-logo="https://assets.livednow.com/logo/Food-Network.png" group-title="综合", Food Network
+https://sxg.btjson.us.kg/thetv/food-network
+
+#EXTINF:-1 tvg-id="Fox-Business-Network" tvg-name="Fox Business Network" tvg-logo="https://assets.livednow.com/logo/Fox-Business-Network.png" group-title="综合", Fox Business Network
+https://sxg.btjson.us.kg/thetv/fox-business-network
+
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="Fox News Channel" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="综合", Fox News Channel
+https://sxg.btjson.us.kg/thetv/fox-news-channel
+
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="综合", Fox Sports 1
+https://sxg.btjson.us.kg/thetv/fox-sports-1
+
+#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="综合", Fox Sports 2
+https://sxg.btjson.us.kg/thetv/fox-sports-2
+
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://assets.livednow.com/logo/Freeform.png" group-title="综合", Freeform
+https://sxg.btjson.us.kg/thetv/freeform
+
+#EXTINF:-1 tvg-id="Fuse-HD" tvg-name="Fuse HD" tvg-logo="https://assets.livednow.com/logo/Fuse-HD.png" group-title="综合", Fuse HD
+https://sxg.btjson.us.kg/thetv/fuse-hd
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.livednow.com/logo/FX.png" group-title="综合", FX
+https://sxg.btjson.us.kg/thetv/fx
+
+#EXTINF:-1 tvg-id="FX-Movie" tvg-name="FX Movie" tvg-logo="https://assets.livednow.com/logo/FX-Movie.png" group-title="综合", FX Movie
+https://sxg.btjson.us.kg/thetv/fx-movie
+
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://assets.livednow.com/logo/FXX.png" group-title="综合", FXX
+https://sxg.btjson.us.kg/thetv/fxx
+
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://assets.livednow.com/logo/FYI.png" group-title="综合", FYI
+https://sxg.btjson.us.kg/thetv/fyi
+
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="综合", Golf Channel
+https://sxg.btjson.us.kg/thetv/golf-channel
+
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://assets.livednow.com/logo/Hallmark.png" group-title="综合", Hallmark
+https://sxg.btjson.us.kg/thetv/hallmark
+
+#EXTINF:-1 tvg-id="Hallmark-Drama-HD" tvg-name="Hallmark Drama HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Drama-HD.png" group-title="综合", Hallmark Drama HD
+https://sxg.btjson.us.kg/thetv/hallmark-drama-hd
+
+#EXTINF:-1 tvg-id="Hallmark-Movies-And-Mysteries-HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Movies-And-Mysteries-HD.png" group-title="综合", Hallmark Movies & Mysteries HD
+https://sxg.btjson.us.kg/thetv/hallmark-movies-mysteries-hd
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO East" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="综合", HBO East
+https://sxg.btjson.us.kg/thetv/hbo-east
+
+#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2 East" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="综合", HBO 2 East
+https://sxg.btjson.us.kg/thetv/hbo-2-east
+
+#EXTINF:-1 tvg-id="HBO-Comedy-HD" tvg-name="HBO Comedy HD" tvg-logo="https://assets.livednow.com/logo/HBO-Comedy-HD.png" group-title="综合", HBO Comedy HD
+https://sxg.btjson.us.kg/thetv/hbo-comedy-hd
+
+#EXTINF:-1 tvg-id="HBO-Family-East" tvg-name="HBO Family East" tvg-logo="https://assets.livednow.com/logo/HBO-Family-East.png" group-title="综合", HBO Family East
+https://sxg.btjson.us.kg/thetv/hbo-family-east
+
+#EXTINF:-1 tvg-id="HBO-Signature" tvg-name="HBO Signature" tvg-logo="https://assets.livednow.com/logo/HBO-Signature.png" group-title="综合", HBO Signature
+https://sxg.btjson.us.kg/thetv/hbo-signature
+
+#EXTINF:-1 tvg-id="HBO-Zone-HD" tvg-name="HBO Zone HD" tvg-logo="https://assets.livednow.com/logo/HBO-Zone-HD.png" group-title="综合", HBO Zone HD
+https://sxg.btjson.us.kg/thetv/hbo-zone-hd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV.png" group-title="综合", HGTV
+https://sxg.btjson.us.kg/thetv/hgtv
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="综合", History
+https://sxg.btjson.us.kg/thetv/history
+
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://assets.livednow.com/logo/HLN.png" group-title="综合", HLN
+https://sxg.btjson.us.kg/thetv/hln
+
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://assets.livednow.com/logo/IFC.png" group-title="综合", IFC
+https://sxg.btjson.us.kg/thetv/ifc
+
+#EXTINF:-1 tvg-id="Investigation-Discovery" tvg-name="Investigation Discovery" tvg-logo="https://assets.livednow.com/logo/Investigation-Discovery.png" group-title="综合", Investigation Discovery
+https://sxg.btjson.us.kg/thetv/investigation-discovery
+
+#EXTINF:-1 tvg-id="ION-Television-East-HD" tvg-name="ION Television East HD" tvg-logo="https://assets.livednow.com/logo/ION-Television-East-HD.png" group-title="综合", ION Television East HD
+https://sxg.btjson.us.kg/thetv/ion-television-east-hd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://assets.livednow.com/logo/Lifetime.png" group-title="综合", Lifetime
+https://sxg.btjson.us.kg/thetv/lifetime
+
+#EXTINF:-1 tvg-id="LMN" tvg-name="Lifetime Movies" tvg-logo="https://assets.livednow.com/logo/LMN.png" group-title="综合", Lifetime Movies
+https://sxg.btjson.us.kg/thetv/lmn
+
+#EXTINF:-1 tvg-id="Logo" tvg-name="Logo" tvg-logo="https://assets.livednow.com/logo/Logo.png" group-title="综合", Logo
+https://sxg.btjson.us.kg/thetv/logo
+
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="综合", MLB Network
+https://sxg.btjson.us.kg/thetv/mlb-network
+
+#EXTINF:-1 tvg-id="MoreMAX" tvg-name="More MAX" tvg-logo="https://assets.livednow.com/logo/MoreMAX.png" group-title="综合", More MAX
+https://sxg.btjson.us.kg/thetv/moremax
+
+#EXTINF:-1 tvg-id="MotorTrend-HD" tvg-name="Motor Trend HD" tvg-logo="https://assets.livednow.com/logo/MotorTrend-HD.png" group-title="综合", Motor Trend HD
+https://sxg.btjson.us.kg/thetv/motortrend-hd
+
+#EXTINF:-1 tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://assets.livednow.com/logo/MovieMAX.png" group-title="综合", MovieMAX
+https://sxg.btjson.us.kg/thetv/moviemax
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://assets.livednow.com/logo/MSNBC.png" group-title="综合", MSNBC
+https://sxg.btjson.us.kg/thetv/msnbc
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://assets.livednow.com/logo/MTV.png" group-title="综合", MTV
+https://sxg.btjson.us.kg/thetv/mtv
+
+#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://assets.livednow.com/logo/National-Geographic.png" group-title="综合", National Geographic
+https://sxg.btjson.us.kg/thetv/national-geographic
+
+#EXTINF:-1 tvg-id="National-Geographic-Wild" tvg-name="National Geographic Wild" tvg-logo="https://assets.livednow.com/logo/National-Geographic-Wild.png" group-title="综合", National Geographic Wild
+https://sxg.btjson.us.kg/thetv/nat-geo-wild
+
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="综合", NBA TV
+https://sxg.btjson.us.kg/thetv/nba-tv
+
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="综合", NFL Network
+https://sxg.btjson.us.kg/thetv/nfl-network
+
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="综合", NHL Network
+https://sxg.btjson.us.kg/thetv/nhl-network
+
+#EXTINF:-1 tvg-id="Nick-Jr-US" tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr-US.png" group-title="综合", Nick Jr.
+https://sxg.btjson.us.kg/thetv/nick-jr
+
+#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon-East.png" group-title="综合", Nickelodeon East
+https://sxg.btjson.us.kg/thetv/nickelodeon-east
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://assets.livednow.com/logo/Nicktoons.png" group-title="综合", Nicktoons
+https://sxg.btjson.us.kg/thetv/nicktoons
+
+#EXTINF:-1 tvg-id="Outdoor-Channel" tvg-name="Outdoor Channel" tvg-logo="https://assets.livednow.com/logo/Outdoor-Channel.png" group-title="综合", Outdoor Channel
+https://sxg.btjson.us.kg/thetv/outdoor-channel
+
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://assets.livednow.com/logo/OWN.png" group-title="综合", OWN
+https://sxg.btjson.us.kg/thetv/own
+
+#EXTINF:-1 tvg-id="Oxygen-True-Crime" tvg-name="Oxygen True Crime" tvg-logo="https://assets.livednow.com/logo/Oxygen-True-Crime.png" group-title="综合", Oxygen True Crime
+https://sxg.btjson.us.kg/thetv/oxygen-true-crime
+
+#EXTINF:-1 tvg-id="WNET-New-York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://assets.livednow.com/logo/WNET-New-York.png" group-title="综合", PBS 13 (WNET) New York
+https://sxg.btjson.us.kg/thetv/pbs-13-wnet-new-york
+
+#EXTINF:-1 tvg-id="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://assets.livednow.com/logo/ReelzChannel.png" group-title="综合", ReelzChannel
+https://sxg.btjson.us.kg/thetv/reelzchannel
+
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://assets.livednow.com/logo/Science.png" group-title="综合", Science
+https://sxg.btjson.us.kg/thetv/science
+
+#EXTINF:-1 tvg-id="Showtime-Extreme" tvg-name="Showtime Extreme" tvg-logo="https://assets.livednow.com/logo/Showtime-Extreme.png" group-title="综合", Showtime Extreme
+https://sxg.btjson.us.kg/thetv/showtime-e
+
+#EXTINF:-1 tvg-id="Showtime-2" tvg-name="Showtime 2" tvg-logo="https://assets.livednow.com/logo/Showtime-2.png" group-title="综合", Showtime 2
+https://sxg.btjson.us.kg/thetv/showtime-2
+
+#EXTINF:-1 tvg-id="STARZ-East" tvg-name="STARZ East" tvg-logo="https://assets.livednow.com/logo/STARZ-East.png" group-title="综合", STARZ East
+https://sxg.btjson.us.kg/thetv/starz-east
+
+#EXTINF:-1 tvg-id="Sundance-TV" tvg-name="Sundance TV" tvg-logo="https://assets.livednow.com/logo/Sundance-TV.png" group-title="综合", Sundance TV
+https://sxg.btjson.us.kg/thetv/sundancetv-hd
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://assets.livednow.com/logo/SYFY.png" group-title="综合", SYFY
+https://sxg.btjson.us.kg/thetv/syfy
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://assets.livednow.com/logo/TBS.png" group-title="综合", TBS
+https://sxg.btjson.us.kg/thetv/tbs
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://assets.livednow.com/logo/TCM.png" group-title="综合", TCM
+https://sxg.btjson.us.kg/thetv/tcm
+
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://assets.livednow.com/logo/TeenNick.png" group-title="综合", TeenNick
+https://sxg.btjson.us.kg/thetv/teennick
+
+#EXTINF:-1 tvg-id="Telemundo-East" tvg-name="Telemundo East" tvg-logo="https://assets.livednow.com/logo/Telemundo-East.png" group-title="综合", Telemundo East
+https://sxg.btjson.us.kg/thetv/telemundo-east
+
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="综合", Tennis Channel
+https://sxg.btjson.us.kg/thetv/tennis-channel
+
+#EXTINF:-1 tvg-id="WPIX-New-York" tvg-name="The CW (WPIX New York)" tvg-logo="https://assets.livednow.com/logo/WPIX-New-York.png" group-title="综合", The CW (WPIX New York)
+https://sxg.btjson.us.kg/thetv/the-cw
+
+#EXTINF:-1 tvg-id="The-Movie-Channel-East" tvg-name="The Movie Channel East" tvg-logo="https://assets.livednow.com/logo/The-Movie-Channel-East.png" group-title="综合", The Movie Channel East
+https://sxg.btjson.us.kg/thetv/the-movie-channel-east
+
+#EXTINF:-1 tvg-id="The-Weather-Channel" tvg-name="The Weather Channel" tvg-logo="https://assets.livednow.com/logo/The-Weather-Channel.png" group-title="综合", The Weather Channel
+https://sxg.btjson.us.kg/thetv/the-weather-channel
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.livednow.com/logo/TLC.png" group-title="综合", TLC
+https://sxg.btjson.us.kg/thetv/tlc
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://assets.livednow.com/logo/TNT.png" group-title="综合", TNT
+https://sxg.btjson.us.kg/thetv/tnt
+
+#EXTINF:-1 tvg-id="Travel-Channel" tvg-name="Travel Channel" tvg-logo="https://assets.livednow.com/logo/Travel-Channel.png" group-title="综合", Travel Channel
+https://sxg.btjson.us.kg/thetv/travel-channel
+
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://assets.livednow.com/logo/truTV.png" group-title="综合", truTV
+https://sxg.btjson.us.kg/thetv/trutv
+
+#EXTINF:-1 tvg-id="TV-One-HD" tvg-name="TV One HD" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="综合", TV One HD
+https://sxg.btjson.us.kg/thetv/tv-one-hd
+
+#EXTINF:-1 tvg-id="Universal-Kids" tvg-name="Universal Kids" tvg-logo="https://assets.livednow.com/logo/Universal-Kids.png" group-title="综合", Universal Kids
+https://sxg.btjson.us.kg/thetv/universal-kids
+
+#EXTINF:-1 tvg-id="Univision-East" tvg-name="Univision East" tvg-logo="https://assets.livednow.com/logo/Univision-East.png" group-title="综合", Univision East
+https://sxg.btjson.us.kg/thetv/univision-east
+
+#EXTINF:-1 tvg-id="USA-Network" tvg-name="USA Network" tvg-logo="https://assets.livednow.com/logo/USA-Network.png" group-title="综合", USA Network
+https://sxg.btjson.us.kg/thetv/usa-network
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://assets.livednow.com/logo/VH1.png" group-title="综合", VH1
+https://sxg.btjson.us.kg/thetv/vh1
+
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://assets.livednow.com/logo/VICE.png" group-title="综合", VICE
+https://sxg.btjson.us.kg/thetv/vice
+
+#EXTINF:-1 tvg-id="WABC-New-York-ABC-East" tvg-name="WABC (New York) ABC East" tvg-logo="https://assets.livednow.com/logo/WABC-New-York-ABC-East.png" group-title="综合", WABC (New York) ABC East
+https://sxg.btjson.us.kg/thetv/wabc-new-york-abc-east
+
+#EXTINF:-1 tvg-id="WCBS-New-York-CBS-East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://assets.livednow.com/logo/WCBS-New-York-CBS-East.png" group-title="综合", WCBS (New York) CBS East
+https://sxg.btjson.us.kg/thetv/wcbs-new-york-cbs-east
+
+#EXTINF:-1 tvg-id="WE-tv" tvg-name="WE tv" tvg-logo="https://assets.livednow.com/logo/WE-tv.png" group-title="综合", WE tv
+https://sxg.btjson.us.kg/thetv/we-tv
+
+#EXTINF:-1 tvg-id="WNBC-New-York-NBC-East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://assets.livednow.com/logo/WNBC-New-York-NBC-East.png" group-title="综合", WNBC (New York) NBC East
+https://sxg.btjson.us.kg/thetv/wnbc-new-york-nbc-east
+
+#EXTINF:-1 tvg-id="WNYW-New-York-FOX-East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://assets.livednow.com/logo/WNYW-New-York-FOX-East.png" group-title="综合", WNYW (New York) FOX East
+https://sxg.btjson.us.kg/thetv/wnyw-new-york-fox-east
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 00:10 🏅🇨🇳摔跤男子自由式57公斤级等多项决赛、淘汰赛 张凌宇
+https://livednow.com/migu/926387691?sign=gAAAAABmtvR_O7b3upkMe7w27KgLheYBW-cZte7otKNrmzb_rreDkxhelsBD9NwnhlOkpIGxmM0Lc_R3mjirAKxGlVfkOMYtwUft3Z68oO0BdNB6wI5lX2Arvr0i14O18B0Zx7yKAhoBTeoCWDe3cajvHHG0cM0fzBCORrMXNvMFOxv7STD8xL0OKExDxGYJmb4uXGDoQvlf50Br1mx62QHglRwU2Ui1Rw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 00:10 🏅🇨🇳摔跤男子自由式57公斤级等多项决赛、淘汰赛 清流
+https://livednow.com/migu/926390264?sign=gAAAAABmtvR_Z2mCzeRAfUvZRLivp-bw-6BqmXD9ouzlEYa7CtriNKWEK6IePQWtoZX4rYhH5SDD09MES4sx8-R83VwZyIqtH0zd3zDW1a_ZfBMPSRt2knOCc5M40z8cdJ-lsLmwgT12GNYEcbKjblaOZOzIUa1onXxs8Rn6nsX_wUv8-w2Z_y_xqHuG_XXbB9-k_Yzvft1txbYDv7Hs0ROatwfpYZ1uLw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 解说
+https://livednow.com/migu/926389383?sign=gAAAAABmtvR_MAeCAt0-UlqkY2cW7MU2jsGgev-hjHaSDs1bL6GX4Ow2N-sFSjI9ivfVcbe1hZciuto458V0QHjY8ZleRQiNYkyuarfx-8r47LqM2YC69RvudtcotbCEOii50KnRitX5LTmFb2e9hOKq1GYO0Q9Uck5bEX9bfpH4bQupctGYfulIKIL1R-pqmPrk7I6FobLtZ-s6loBz-jEFt7f8EkY6tQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 男子三级跳远决赛-三级跳A场地
+https://livednow.com/migu/926390690?sign=gAAAAABmtvR_ky2Tx2Ice5knB55ADZb8MgYRgMc0XN_ZrvoIKgs1ZgZxtpIpQsWmkOvsKtey2K7i5pj2GEMpotRpuENYhXIUNWDaJQp0cxGDPlSAUirGvP9ZEzGTmq6143Pyjdek5utLnLvsW2Cv8VOTG4e7KwB12Hmv16qdh0FwZL7E0eIcWt8q31Iy6IiFmqRiQtH6vwNUv7HRmvlZlvgKIv_cxnUm5A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 (AVS3）（陈晨）
+https://livednow.com/migu/926389457?sign=gAAAAABmtvR_Uu490K63fcv2ICRoxQH7MZvy6bmzQM1WTPvvH1AOQ1UAbWTySNCJIpN2qHNq5WP__36N5MSLnAuCd_Jqg6s66iLzazgsaCiS_CLoipacDA5of8yGmobzUQtc7QEoIMiyVFkuCk0Ruv8U8V2rTOrYNgjYIkfTnxSYkDU_NDNGHLTZ-r-kgtcpY5lSXDrKXUZ2txeb2RN_8sRVY_bbyNYonQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 CCTV5+
+https://livednow.com/migu/750410939?sign=gAAAAABmtvR_J9YJbUXS47ijh1b72GEL6hYalQfEaNfLfSZ3NwpN0ciNRhXRz-uPOY87tpPZ6QvdhYE903Kd4WaPsloB-FZ69VOug3KGkhUOWttvbBq6ZIlRE2KpLC0XSNLAEBr5IM7BTFrYUwi4q6a75GCT1MYdYY4JaR3day6jkFyhdsrxTVJf17R8KLGUCGVtZMVhBdRcl0Op4_gYMM-5FPvuBOPZMA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 01:25 水球男子半决赛：匈牙利 VS 克罗地亚 叶蕾 解说
+https://livednow.com/migu/926388087?sign=gAAAAABmtvR_vCm28om2Y4O6fMOK95zpd-DnuVqbFS4ZJB7hP9urCJh9H2hASUYyrQKRN5OIjGfexT9lYJqWmi3n9eNCPC1N6XOXa2bGGfJb-BXB31Dy2zQo5HUCQszQdPMSWW8SPdVZWdGhe6FiXUWffEYIfvKPiAVkGGcc5lZyz1uHGiifs4vqeBhdWZPdFUfFQLMkcYw-I1Fi2F-Ewer0tG3CEbPA7g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 01:25 🏅🇨🇳跆拳道多项复活赛、铜牌赛、金牌赛 吴顺 解说
+https://livednow.com/migu/926388204?sign=gAAAAABmtvR_kuYbOSGXmIAHSN72nizzDOvCiLYQ6IoFzbiJIFouV76BCWOP8LUMw7q4mKx0VB-2yEj23C8QmW9J7aIyCXSSBUwmok_uZ4fsVwjcTRJQzaw-beU5HZXSZCADDfgyJSEzVySQvrkfjRV4sX8rdCTHQeInwMxPr5PXKj_QDFIpVRwV3x-8rTq76wjS0Vl3qVqEEi6xyGyLHhmYs6oxyyTJLQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/10 01:25 🇨🇳花样游泳双人技术自选 姜语桐 解说
+https://livednow.com/migu/926388678?sign=gAAAAABmtvR_L7I5jY5VC46L7PKuMbpJodgtD1g34I2vkIzLsfTHnLbqqgPX8qVbDoGTgaycHr_62xC_yOlPXuTOwqaJRnanCR2Mry_K-Gc-MoI7mmYDhOlqS6f3HnSihr93_7V080BJ92sOt_3543H83ibWeJqqOzCaRfNY9efALR5RwsLjwQ52m6ohYx_deuTwn7asFA8c5X582g1S4TaEQXlJhickiQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/10 01:25 🇨🇳花样游泳双人技术自选 清流DX05
+https://livednow.com/migu/926388998?sign=gAAAAABmtvR_RFactvqja6LDEmHDSVZU5XqrKifidjjtrdnaPKpJ9FAtuWb1lw51lIq_pvwKEEfIOig6AgJf4wNlhx4lWH8QTuPDuxw-5bzgApnPwX5ACSCIaLWXaBRrX62zW0WG5a2c9-Fn7IE02bw53krzS7fO332FoT5B5dnkzTB437Vf1PX5-8RqKvnVvp7mnR9ssIdq1RR8QcsYSUkosBFFjc9kWw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 01:25 🏅举重女子71公斤级决赛 张泽
+https://livednow.com/migu/926387807?sign=gAAAAABmtvR_31M8QFm3Y6nJQ2_-p_2pvwkpRwz9cYGOAl18cEsXWXCtoP_n6f4M8asA0nsiwctUZjGX48Ch0FLNz0GVOdBjkCf0FgYIj-3gReW_0Pixa0qm650dk7f1UcmiiFFr8qTmeQzY1p8ZN11wUGunDJ6QeSkTBL-HvHgMLDCMc-2PBQxwQV6Z4ORpww4u6_-aaoITzOwn_yHIVroGwWVx1ZRdwQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 01:25 🏅举重女子71公斤级决赛 清流
+https://livednow.com/migu/926389154?sign=gAAAAABmtvR_e2JZqp-X4oWSvg_VIGwhMk-JJc_tWGFLw9zw9qPSkPugX9Od1Iq1anTSMqfS58rc9uPglLBDPXtOfhN74-5LG8CWmwlCWnl2K-HULsX42MM1B9428ZxV3A1Cgj10-tFhJknT2Cr18X5PWXRer2hr_4Ivl33qYEivFJTmiM_Wi9nqP6805m1wySDF7fzbji2rW4dkCvMoyBSn-8bcz2dWGQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 01:25 🏅🇨🇳跆拳道多项复活赛、铜牌赛、金牌赛 清流DX30
+https://livednow.com/migu/926390573?sign=gAAAAABmtvR_t5XTLpUccNdV-ju9lyy4HYoFxrOeWM_6LH3Ls_T9LJDQwhCRmLIykq3bqukzt7kXYRA__ScIBFoW6BeWNMwkQ9327foZFhyHgp0IV0HaJ_x8bofKtXZSQwvMdYfabw2Yt55UK7fjVETsMGQwYvgRyiYu_D6uXSmsVgiMXKrdoXfRcLacA1hB3eKn5KYy07xlW3yhGNdPGwCcJEIN9JMJeg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 01:25 水球男子半决赛：匈牙利 VS 克罗地亚 2024奥运会：水球男子半决赛 匈牙利VS克罗地亚
+https://livednow.com/migu/926581064?sign=gAAAAABmtvR_4c6ijTTNIvTTafmfaOT0N39AoYjTr6_qz2GeM7EH20Uuyh2UiHcXtQ6R_dFz4ZGKaH4dbn_1VETl9w9zGzkHUyxqjHtVChCaKIiCqZQzfwBisTcuBTDUThzGEAPM0bhahrI_DAcnTzTJa0WtE2MOCeLt0wTKIAsYIP3og-774fN8WR59PMdMT-l772vChWiMEM_HT2K584HCSiVtYEFMMw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 CCTV16
+https://livednow.com/migu/861476216?sign=gAAAAABmtvR_Sg-s3JIzYmotwoKceIYjx3hAewlNZPZ_wYAS_k8Ru4RSHY6DotrAf2tcHOCh0YmRA2JqA0uQiesBiY1M1HkdaN8ilUytVCPsAFGUlm09jBD-D6MGCtTW0Bs0yLydhJm8ewO0AtGugBwtFwoWUZBODc5QQjucvH7Tjcwb8T9KnvioPdV0SKZw5lp5CeezFC7A1nlgv6Sv2fdaG9XKB9ldFQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 清流DX19
+https://livednow.com/migu/926389480?sign=gAAAAABmtvR_TSVGtreC2MJ9uIgmZA9LC0SpvtTw0q_8qdrvB2Xcjo0Avh9XLPPMkKRtZX2-TGa68kTbQPrGfoF7dzEMTFhLkgla4nGflNo8_ld1cRmZLiJHPaOm7HhQy7oS7oKOMgzCg1afS-ER8XzVqY6ZfVWhLv6twbGfUYCLJY2t0rYwI3xb9Oq4i3Boc-A5GKUAqkqKB2AyOb_p84-5kDFs7gFVtg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 SuperDD  裴东光 解说
+https://livednow.com/migu/926388604?sign=gAAAAABmtvR_RJsBSl871AIk-1x23H9UY9eOoNYO0wNm5GbioYjdj6HhTQXL1g4JNOdtRo5StrtVWgmD48Pe2DFN7z01JxXbfgLiArvzkyhNKGBnnVrpAWsPvNIbsAfERTKMgJn7vF_9kvSDMCK-go9svz4nqLXNQxpIpk92KKbeq_4rSk37zx-KpBhLpsfO71qH3c2I9kc_HoRelLkozD2sePDbQVoXTw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 AVS3
+https://livednow.com/migu/926388666?sign=gAAAAABmtvR_C7aXs3IbQFvMwzTmkYN33CsFKStOepAI6ceRvEHHlnOub2Sui2SJU2nEjWoFfAc5Kf5QSpAZ4IB2h6-wm90GfUEIKd_2vjTWGns8Z7FS40EboGpCLL5fOOYodb2simpTZxWSGOz4AbOyZR00XXNsoeZ-GZFkH-vvKiBRfZfGjjVo8j7dZFd5wPUksb18nU0rZbZunacnIuUdHixc22HtYQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 清流DX40
+https://livednow.com/migu/926389668?sign=gAAAAABmtvR_LpqBNEz568I8AND8VlXPMEGOE-tHfT8WvUQ5bRS93rC3X-RH5EP3imP7VraDZ1uCWxSmr5wlgNydvXrH6Z2Snd20JRn8B4HCH4dauvA-tSHWrCe0sKdofDXYGawGEGvSJvcgsq781RtEakxmVyjr4jLZScDjhH4Ad38sMFcqtzasGK3zHoER8s7gQaCudfQwtL4SrU0mA5qBHekJtdf1_Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 2024奥运会：曲棍球 女子金牌赛 荷兰VS中国 1号球场（孙宁智） 孙宁智
+https://livednow.com/migu/926579657?sign=gAAAAABmtvR_oVArVUGtaJL8_yW3U6TbHH9QX4bKdxQrrYPaQCfU94b9pphdP8DicyUeeUtjbnJ8-SltgN73c_qWXff4Y8xw8GPP2FUkOJkcqGX5Rao9EXfDQVh-8LPcu90XFGFfX6TTGDUMXFZSaXCVjiQD2lwf4I3yN3VRQzd8UNbV-JE8qycNGv5pAvUWN4FR9cKENROEU-NEn-YEYG6Lr8j-14B2qQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 马弋博 解说
+https://livednow.com/migu/926389235?sign=gAAAAABmtvR_LeT3xHnIXta-rdKJ0EzmrjIcQUaJEkXNnWCvVOx85nZfmdZJWY4bBB59tUTQwGQAZQbeLFwOcs1cpnGqVas81GgueO_QvYWN5ePcBXlJP1IQWugdOKmo_GENFRoSbYf7vHNWBL6KzsPDQIWjoa6q1RSODHvNhlE9rqLzQYq4VMlj3564U-jhD5L5hJlZFjYWGX1g727ksqg_uA2-FA2mXQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 02:50 篮球女子半决赛：法国 VS 比利时 原声
+https://livednow.com/migu/926389173?sign=gAAAAABmtvR_ta3ZBGWIOq7Ib55-Yi3iojjydogoRbX4mD8HklMK53smZUJvk3UNbnIalzLnq14A-7eJPlci2oSIVfyGSGF0XqfoJ-I_4dctmk3ZMu4uR-HyQx4dsqx56eaRT9vJcWuNFp6HEJeYVMmv_3_ybd1xtc-qtke1RYI-vtR6NXXBLz_VHOlXoWuAckNQOzD8coxV_zZrKCZ5FInmP8S_y-GkVQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 02:50 篮球女子半决赛：法国 VS 比利时 （远程解说）（邵化谦）
+https://livednow.com/migu/926388009?sign=gAAAAABmtvR_1hC3AVtp7ou4ZIZ4j4UXtzyuF8gO_lNxy8-c_TYF3r8nezKMqlc5zwbFyZ7-xAm_yFCAGAj96gPOlhkltCeyhxj-AFBoR6yOURTluRC3PvAC1KpwAYw6EHfDKXs90yk03cjauzPM1ry77gTiv-9ZMwnHmIYqLR42vCZ_0hHkPlTzwArQ-znYdI8a_JdfNIvIQ-D5HE-PruRxf7dQftcP2Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 乔迁
+https://livednow.com/migu/926389036?sign=gAAAAABmtvR_KnTrNinKRE9B8c8M5892fyHndXcIEiwFEEwlQ9TmY2i542kmv3z8EZEHM9GIR_4x2Uk1XCoTTfC19SFuN2iYPke4Ig5hCUqRuTtLAdw0mXvviW3VVQST0d6xWCqGMpjswZANF43DF3zj7kp80FQ73ZWlp8LwWWO1VU8g0uGqes7Vsq5c8JRbuzgrlC2N9e7cLWTCiNeFQl_MguKEnm14FA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 CCTV16
+https://livednow.com/migu/861476216?sign=gAAAAABmtvR_HUFjjGXqOLfw4_ePVf9NNMH5c6yJuXeJw401ux7HYLyoaR5SNKXUWmMsiek5pXThkor3rQu3FpE5dXg-iF573skET0ZjTx0nGJhYA7NInq5QSamc3K5xM4CchuBGDBM8QJtVO2p-ILyYODBBQJQyjra_5kFZAcHhefAJU3Tdq8LIQKj4qxwD2aqMdqMQGzh1rXtjRvGKmoePRsqqraP-iA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 清流
+https://livednow.com/migu/926389790?sign=gAAAAABmtvR_utM4VNhQMop3B2TcLfUh1qjFx1TZZ_1BTfIH83_Xp6w_kEKHVuzTmLEQ82HcgveSmwkBoMtCSBL0yFizzYnQHaxi3qRgKJanwGlXvHFj9530z7WWsvhIvlHgFKDVa28TdwRIH-r0yvSgTnWJaaLv6jhRNtt1bHYBV3ZGnditX1GTAwxMGuHX9xO6txaMe4PJkDuxOZlYNHleRA1XxtWNZA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 清流
+https://livednow.com/migu/926389761?sign=gAAAAABmtvR_67RnExNsjriPpmMWKPd0bbUDJ19uF0yRJiQ4Jg3Ipt3P8Q97MmPXVt3fki4sXSQjNGPlvDCWUwtkKLHWmsLLM3zBZlXzA6oqWAsLpJ7Snr87dUl6g6j3tenwVSK_ua6S29nMLlPJdnX-HjjrM7wq3-CB0iEtlEjMZehst4rngA-Ez6oHY4R7R8Di9iOjQt7_0K8GeE1dDqhYmpqfWuKjOg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 解说 王琰博、王腾霄
+https://livednow.com/migu/926389291?sign=gAAAAABmtvR_Sg_s0DyZWe2E2w1V5HwC4y1oEk6OzZ2ODYLE-xt5BkIZniqz7IX50KQmH7goia7aEXgKQyfw-AvILD9x0NJdjvi0mA0EPNVsWOLV2NuHQ6weeo6N60S58vAnI7gWgH0enWOnXHp9CsMJiIMGYLSYPYF49Lof2-GOcieHCkX-yoSJikxjXAvuslUl3DNUa7zl8RFJQfmQxDlF0pfU1m52Aw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 CCTV5
+https://livednow.com/migu/750409819?sign=gAAAAABmtvR_XxbCPRzBKPm0UA7YSLEBynvvvWwXuAZ8svuv-5lmei9a40vGXDck8Z9ml9XzSdVURXc_pL5xXoOpgAqHy0RID9IPIfCMou_ZIbhzOTC2QW8VQQk4wzzvrfhULNDcgtInX5OT8tTrWELNIEQQ72pfVZsG6pBfaaGwmG919jBBH1qO-Z1KwRNzE9dPdmPpxsh5tymTBxSvMqFIQe9OLpoIpA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 03:20 手球男子半决赛 斯诺文尼亚30-31丹麦 （远程高校）（杨淏淞）
+https://livednow.com/migu/926388406?sign=gAAAAABmtvR_7bLhhYuRjP4mM9nuCKSCVezdnNvZqsJI7216FJzXmbAizWTNcz4Q1S9_Gkco1-Ek8nIFX7HE8B3ClfVu2h7oHMRDOXV4ThStOGxj7FmTyMYI42FX5sxDP_8_a_QOuytIy7FY04T6Mpib8F0wMWF-Xj_Ux0LqysuGe6TzHOGy13oqfPLr7TvOZiT71swozyFa2V2lG43jIUWwIjERUx6c-Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 03:20 手球男子半决赛 斯诺文尼亚30-31丹麦 原声
+https://livednow.com/migu/926389825?sign=gAAAAABmtvR_NwrHTnjO3vdDuMwlydGwyzuelGtjAFrwgYGXPalHVGXGk3tANwJlMjk-FWM5HsTxlIVBxKwwboXdxYJD4pWAdULlcrrDPRw_VqW2wYF547-AQF3TbaH_8HV5EA9wXJlc1-T0wq0rgnqobLmRal6Sfu4EH5tqIMjhMXjBtcmz7iiUDTPsMXD_PcniVSgq5kP57b3TOQkrTkll43RTOo17yA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 13:50 🏅🇨🇳田径男子马拉松决赛 原声
+https://livednow.com/migu/926571097?sign=gAAAAABmtvR_qF13JKQ3QIYGWWOIRwK2EeuY14OSQGdLXcl0rog6LvJfHK4tD9kFZTR_ndM4_iAglYYQqvwGSwZZWXVKVIL5A2FqcZk9gHO7slmIPdf6aaCLXqIks1iQpAJNkybLdE8-OVVLKu9LMljN_C3OOA2dC_VA10rpE5yN84Dzba6bkaTIvy8gk-hyEc9C3TSpiM0AYtGVay2B6NPPldgGXawCiQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 13:50 🏅🇨🇳田径男子马拉松决赛 （远程解说）（陈晨）
+https://livednow.com/migu/926569507?sign=gAAAAABmtvR_CJsOFrIA-edBb0WrO1l6i9JYmADaow-qY_aGMCbLrpIuRoGrmRXrLpCGEQGjog1_HW89qeIB7_VsqKdBQCmwcolaYKTNEZWfEFKWp7_wBcj64hVny1k4Q4pFzEsA6d-0shRHCUx6R0QdCzgxtvXVJMRlXG4f4W-D1D5DORpVvS4JSDLvKHLmaz3gC8JDz45oIK7cz_x54gPeQi4pW4UYeA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 14:50 水球女子7-8名排名赛：希腊 VS 加拿大 郑好 解说
+https://livednow.com/migu/926566485?sign=gAAAAABmtvR_jLsYlbIxVz7fgu8iFQqnT6OLh8s83GSaJJc1xIN7f8jWdo09C4-FYzZCtPFPF5DoH3RDivcSAdkjiPNN6q7cm_lTqkHnzS8m4C1SrXC1i7S5ll9GatnVBT9bnlHgKD3lWvi-Ez1qsfrfvUJnORZuO_peTa9Z1QYZLZHl3ENpkC7aGNSBr8MzST7XeXcIcMN1hZps50xCvCARHeYwIyOEYg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033309169.png" group-title="高尔夫",08/10 14:50 🏅🇨🇳高尔夫女子第4回合 “新老”组合冲金 2024奥运会高尔夫：高尔夫女子个人赛第4轮（殷若宁、林希妤）（远程解说）（艾柯,李梓）
+https://livednow.com/migu/926568569?sign=gAAAAABmtvR_u-X_OkO6OXh_6A_rQ-ZyvwyB43NdKhBAqOOP7tVdZX4BcF88_OvW5EY8Ed61-g_s6naW4Qv6FLLbz6FaHdfMeQaa1xLQLw0hrPv723-fw0CttJSPzhSwHI9qGP_iM8e91E-k_InTYSLmKglPmDuS1uWC0uxHyYS_uoG9sdE1ErruapX_wmHwfZkN94-UgRx283o3oXHRQYC2FpSUoY03Ow%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033309169.png" group-title="高尔夫",08/10 14:50 🏅🇨🇳高尔夫女子第4回合 “新老”组合冲金 2024奥运会高尔夫：高尔夫女子个人赛第4轮（殷若宁、林希妤） 赛场原声
+https://livednow.com/migu/926567135?sign=gAAAAABmtvR_qmSkCfQIB78k6KZyoZ17h_ccWznAcqTvGKBOSNuMYp_pNbLvJuZVqd5kIrIMYVcDdvqVklIcbucNH3BDeaePaUwwiJntEG065xO634iLguYsx1iJjmtRqFhYhYyxEVDgQFhTbBl0MuLxKW42PTQl7qYTrwncR87z9DF-u1hM6CxHoe_3kZLDcRlwfT5VXSkfkM21MkWK6sLPC3FyxW5uQw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 14:50 水球女子7-8名排名赛：希腊 VS 加拿大 清流DX44
+https://livednow.com/migu/926570444?sign=gAAAAABmtvR_q0P6anl4vWeg9l9aAa1pFG5uZH3fm4-g4mW6X1N3NNqj1EEhtQT1sQoY5YRAIRcKSOTc_1M9m5fS3Cc5uUnnLuiuxweyvySXQx6fRt3UnqraGo66BPtX437pD7A1G2a2JlGehEegN8q6VHtJnveIwzxcwA9y68q29S8obddgdBnGw4QWvq16FoNvfIo7HXC02IXJTufUV068uXSkcfxXWA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 AVS3
+https://livednow.com/migu/926569631?sign=gAAAAABmtvR_srahAPYDajeBPq0ItnlhcV9T9KUgTJ8K-8O3FG6cT6mlk6g092Fm9Kbdfi5eXmskNtqVCmIxoy-oz7lBzjw1_FwtlzcuGmxEb4U56eQLrO4H_yvN0Rswwc86Mmf1YHwS_lIb_ovN3iiGZfcfPrKDWDRdb83tp2X_nrNzN44S0nt49yC-JgHh5bSnQ8GtfzXwAM4dxBnWomG6-EdXKVyaRA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 孙有哲 解说
+https://livednow.com/migu/926569434?sign=gAAAAABmtvR_dxUskRU1qC4vEhUohfh8iqTVQ4gIlFqRT9v1KfABM93FavLmE-KpfjqnllH98SPAJoiVJKraXiByEugCU8KmLmQ1Qna--m6gqLHSPR3_O87A2y2nGsBV-xekyEaclQXyri8nr7Y5omOPgLjTmMqKFMyW5N616XieQLHi_Cr64aVdiYoA8K4WPvSaWo1pmpWCErxRxhP3nsjAwJIINKaGUQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 清流DX30
+https://livednow.com/migu/926570910?sign=gAAAAABmtvR_rdi5pgKzwTscHnUhp5GA7V05CLyaiOFRHyGoz1nA8O8vzxBw7dM50FYRHQSAyoh2Qd7xGngSCWlaufoWgIk59jgmZvk2aI5-GV4e6ORZtNEmfM-iAwtBFooXq46kJGQiSjQS_Q0IlYOsdUAaCqtgdGUP2-PpiR6BIxaVkDkhUP6UVaOW5SQ1TOI1KDByrtjyWBNXY3p1r705ziiDqnVI9A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛 （远程高校）（王婧柔）
+https://livednow.com/migu/926568090?sign=gAAAAABmtvR_oncT7w4Iozpbls5HfQAbLXqLwyYToEnXPexZZ32BezMviVFHvJC85m2sGXwIDJw8QMO6lGLkooFkaQWDi29Wg4mtrn4mxuZSIie_OBn1vUKS6Cy4aeO7Hog-zNVsjYPn4zRYNNaFgaoXF0Ut1Dmom4cyyhJHzqADQ59mFM9dncG58z2yO7dHt7TuTdzjjAmuJantbZladPDMwxagNxct4A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛佐伊
+https://livednow.com/migu/926685848?sign=gAAAAABmtvR_5Hgm5VEDOxzOQqBYHVqHrTb_SvmmTnmdf-GWBhFQaKx4iZf2Nm-AgCiN62IcrCFW2pfaBKz7vNWb7u3JKghGczk-o9I-q8DseduWMIz8aCL1riHS39cVDHR3Ww9Uq7lhk0c4h_IRVM2LNm6YykBBsD92t49a6TF6r41LzjFklf7RRuAZaFs8UB7Nhtf86-EkzS15MBK6rtxML6r4BFaj-A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛 原声
+https://livednow.com/migu/926571492?sign=gAAAAABmtvR_5D00vlAIbXev1pP0JsiMTiD59U8B7VQa9sVXp2eSVrwimgsWmjTR32uhNSCfZ2fzofSFXwrqhzMnl0cScBnIK5f5f_b0ltucYIxM3uNgF0-eFqsacnW2xj59FsAkjRnsoQGNmrP0zw_-ThmkFCW91zTbDfHmuSiy9mimKkooxA_ZH0_MwjD31r2QQx3_msNHHShFwjhkZtzC-2j_6O_GMQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 15:45 乒乓球女子团体铜牌赛：韩国 VS 德国 解说 肖扬、周雨
+https://livednow.com/migu/926568269?sign=gAAAAABmtvR_mteoaHojA1LuCYbJTFHConhvOJtPCbxRgt7B5ldXwWGyGHhxzX50guJ8RC5pmQm-8b4FtYk4x-8tW1ln1Klg8YIzYDP5qIpkHhEJL0ZRvttLOV7oMbRfWVw_nMubF3Vto2VVYn8dcSsRu3QkiLUeTu07yj51z0Q3ds3T7-xuAA-vC1WcsSIzqTrk0uXDQSWYqexpHkwT3jKrnRDElTI3pA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 15:45 乒乓球女子团体铜牌赛：韩国 VS 德国 赛场原声
+https://livednow.com/migu/926569453?sign=gAAAAABmtvR_pjmyhtbVItUIl820NiUIedApSUoupkGlpY7WMBI5KGPZfvqOJ-NMAKCOM5oC_i52Xp_vScwoMB94C81CKgq3WD0l8lfW4BoNbFNgHjxgZqdsMITBhcLD3rgEX53hZCEGAn2px30n4ckQgFfIuxoOFfBLsQ-QSnSMcsmj-qQmtNgCZT5pE77lFwlplhl_NU5Y3p-vwsUHmFQ_mdNHxpXClQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 15:50 🇨🇳男子10米跳台跳水半决赛 2024奥运会跳水：跳水男子单人10米跳台半决赛
+https://livednow.com/migu/926571405?sign=gAAAAABmtvR_bCRohCZyn-FuqVDo0V9e0otIrIsoY7LlDiUU_KKumZJ-NXB6Mm8lAqfesnl66v4siYHdBhbooDpXK5_Bo2T45a4CVaAyv6QGTSFwo7ap-y4onPCJDa-KPk4kY1UYjyfhUFXFzFyD870lramuuG7tFqZvhEt_822itvuRk3081yvzY2HQhO60i2KY7ORcfb_oiK6b1r9fxtciEG-HcMyxdw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 15:50 手球女子铜牌赛 丹麦 VS 瑞典 （远程解说）（徐依婷）
+https://livednow.com/migu/926569279?sign=gAAAAABmtvR_ixYnM_Z3Q528CuMRvykQZ4pol25dhgoai3e17vpCGcACtlSqEMBoQ_ArGdenj8DT2XE3-h-XS2O84FHS4hiYE6fYl1LYdWMlBijKqwH1mi3rnQXulZMwUhSY20hSNMtqAdwyoVc9gZLRinp2F4TBHUqIcfmxRSdhP5-2q4Emnec5PT50i5EHMI7OsNwRKB2zlggNrDN5F1qNjmnnSiMi3Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 15:50 手球女子铜牌赛 丹麦 VS 瑞典 原声
+https://livednow.com/migu/926569852?sign=gAAAAABmtvR_4NFQ8RVHZdqnIpf_jGvWhem61nFnp20ELD08hPLe3v1y_hDkFNBJn7QpNPUytevR_xBtCasTisZIHzPexmVZGlzgvFzLJwwMly0PNhcutE62aOmtBNo6DbDR_i-jTPNrX3JmfYe8FDkx7wj8lSTXljsQT5LO2nFT_YykOeHocy-UcZJ4CUsdNAj6P7pl9id2d_htsL6y5ob_Ugl-dppTKA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 15:50 🇨🇳男子10米跳台跳水半决赛 柳亚鹏 解说
+https://livednow.com/migu/926570087?sign=gAAAAABmtvR_NleC6oLR9FkoTj8C1VBzJW0L7qbvxCZMDVsOJoO8V65SQd8hX5NvFwLBMXiGIp3efbqQUiS4m31UMZW0nln5ierryZELC67aj132bazZhY94NcLbQTtUhq7qzaRkwRQiVDsDLbBUvP80qV58DZr_WZZ6LUcNWFFWy6Khv42MtqvWAlBcrX3BC2Ak1E-QZqaiK1We7XwGSX0VH7KDGK3plQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333dd312.png" group-title="运动攀岩",08/10 16:10 🏅运动攀岩女子攀石和难度攀岩决赛 2024奥运会运动攀岩：运动攀岩女子两项全能-攀石决赛、难度攀岩决赛（远程解说）（赵玉燕）
+https://livednow.com/migu/926569584?sign=gAAAAABmtvR_j39E242CxvI-JZEDvp-JcYXxw3rKQbBIZLra7KLr5hp8j1WCPt2ASEP0zl2Yx2TuwVIvPLcCbAok767WPjEXh6Z6iaqISjysePRZtlPdcMV9lG8CFwqHlsrPxNo-WCo6afNlp2gyUlqxKfkYxdEx1ju8tmEe4X2cPIhlQoFDcgI7kLLT4rpHj3lNJKjzugKbMov0hWvMAWAlTcyXfJ1I-Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333dd312.png" group-title="运动攀岩",08/10 16:10 🏅运动攀岩女子攀石和难度攀岩决赛 赛场原声
+https://livednow.com/migu/926571764?sign=gAAAAABmtvR_AFwDRDXJ3SqMXXdXTVRHuK00oKA-CNgCPzF9vzUPaHviTWo9zsrfwDVXuXO7LxDBoEeB0B5lSKNyhUwXmQNWHAejHL-yaY8qaZuh-FWoZWp6wXv08o1TIhUzBXPGm8nFxWhrzYOptauogQehGvCrCObuFNIcALNZlF61dseqZ4ubA2PJrelcFTkASktSFpQv69baYzQaos_F-5RShXRz8w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 曲可乐
+https://livednow.com/migu/926569046?sign=gAAAAABmtvR_6-gU1kDIHT_72EhEW332SyH2-MWMCbZ0ySsPUZl91dS45Ih9RvpuSH2-c9KWsy80YgwQfprjBczqOuAAySL8vgiAdwBthu5SmtCD9laMw7FpGcmjlqCKNjYUjtGmkOIijqdvF9I0pVg7ofZvO90mFCWILoiEIKEBAEBHnPGsT6a3xqUfRcvU9GqIYxFbuHun_96NAZ8tdHmKHjsDXt1usA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 AVS3
+https://livednow.com/migu/926568178?sign=gAAAAABmtvR_tsP3OUbPdQ7IPUhGjzYpTpdE3SAOmO1D4oP4vKTp_PmNzHngfCnNzEQ8nVFyp37rA769LmvDe4hKV0N6alJ023L_lK-mYyz4_V5XvbZK-qrjB13-YSXoY4JVmNmxAR5_5fxlhCjYJ4kocQUQ_a11QqBc-BQ8HLoBbMV75CxQvqrmPcOLjl0tfMyHBJxZL2SfM58BeCFVKW97y7tx9EqdKg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 清流
+https://livednow.com/migu/926569419?sign=gAAAAABmtvR_hjbraBweCvwTx7SIv8jhbxJHPHM2C3NuACrHZ0_sbdeSavpWBjTqRP_Bkf2Yxg2bV_XlYXLdHZp4fY1JOQ90fYcN7qLsIZEzEFRfD7xFAZBNeQo5jeycUqEuqIQo4K0YYykDsIaY9wDfOi4rU88zF1a9EXGNtNigbjRiIFvSAa5YCZCj3WwthWDOi8xwpdxlWOKdkbAXGUUwIniHeykLSQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 16:25 水球女子铜牌赛：美国 VS 荷兰 郑好 解说
+https://livednow.com/migu/926566708?sign=gAAAAABmtvR_zKbZiz4Tn6V8ZsP50DHjn2_rny4lAerRRxdFdeW_msgKADFWYABXKqolcYDHDJmv8Fqi_4MDe7SINInm92ymmIyuOtuWsW723WSucikJUzPVIxOXWeAYM3UfXcNO_RcBfd4U3d9p7wZSWdvP612ukMbngBJFw5w34AGpK1FdfJMOqJT_oxfVzagUZITQQg7NErku6wSUF4VttxsX_VDF4Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 16:25 水球女子铜牌赛：美国 VS 荷兰 清流DX44
+https://livednow.com/migu/926570622?sign=gAAAAABmtvR_Wm002aiKA3HvT9rBJ2W0yGuZ5OczYbeN-_04-nXcRSLmOWRNpM2rwIhcDV6KmSwLRD5ghykyWw-GZI5pV7P9p4AyhDkruHA3Hc3mBKYb0w-uc_8i_bvbDggPctcVvqzNPwtL7WOCtBE2yIkdYEOsA_Nuw1nzVSLXrto2KVBKhBmZHcMUEdUYtjSiMNdj1jzdrBs__azGS672lxVQ5QqcIA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 16:45 篮球男子铜牌赛：德国 VS 塞尔维亚 解说
+https://livednow.com/migu/926566872?sign=gAAAAABmtvR_WxM4Nb8piGNU9ASMUjpKoiZCLbH7KjkUx4XQG3PyaV9HoxrZDc5NKf1jpdljkjzx8evboOJUofwkIYZn9ql2DGGFSoZA4yUC6WL2F2mhuvzbvV0h4KvKAAIaqaGUO52LBkVMWNfynboumMMiluJul8FdrWbLFZtr7s9-KZQjuJEMBInUcrY6reI8ALFSsZv6nvG7Qt7PKtQKHEAGocco8A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 16:45 篮球男子铜牌赛：德国 VS 塞尔维亚 原声
+https://livednow.com/migu/926568017?sign=gAAAAABmtvR_IXl0vmtG8idmNsGeZBiDGMbOoYkPAkTo_5Frzcv5ZmYMzjl1CpDa-y4nf1J8n5ymjRoQHxRnh3SzHFXLlzgc5XWyxSBuhecnZy3fqB6T3z4WafP7Da4b3qj9Jx61ang9Ligy0B2bAMIVW40iNXyi8023XvuXaN6_iIQCb1LQ-hfDoSU2NFneJLrBosRgWoz-t96-6R8d7uOZT8OfZXl2wQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 A垫张凌宇 张凌宇
+https://livednow.com/migu/926567734?sign=gAAAAABmtvR_CwhdGtN8krXyOBa6csEi5_0l7TCh67RGFsb3B03w5DQRm9c_VFY1Fj85GEDshYuUXmfWI9dcuAOsTw4oFGStOJzIKcJextt9DdywWuy2sppvxlKnz9uNo7npWq1Sl-EFwMgy9LbGfqUUF6I6RzucRirEdvj8kTqiMqV97HnduMxeJLHxEj_inUy5HwgR8RlRr9nF9gAfhYzQyM8K861hOw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 B垫吴庭申 吴庭申
+https://livednow.com/migu/926567833?sign=gAAAAABmtvR_jOmgPy5_sR6AEEp7Ami4m5uISFwJEquIEj-EGLpXBVDdL68lyJLU97pVL6CGd_HgE1GyPBzTRS3M8FtMKArirgBN3ndx-KP5aAepLTttzsIOWpXPNY3ICilm4-JYtTBLM5htCEdertBM_xbaDOTT45T24OuQ1Hby7-kT3wS0-bxh6m7uxCMAcGbiJJq1Wstm-SiCK6buTS7EGV7Bnrz3vA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 C垫王腾霄 王腾霄
+https://livednow.com/migu/926567919?sign=gAAAAABmtvR_s7Izk3Jfb4RwsZ_csICeOoSKn_5ZEz_CZmHksGm8WBb3aC_AlBs1UL2pCVyZExw5h82cs8MAD41UnhLn78a0kGZvaCcqM3zvmNIp-BWJ34k1Jrm9StIpAqJsinz24JaOdK-J9KNmCpYjlSx3UVvcbVeUT9oHxz1NNVk3bEWejIH9kTG5rF09T_898atpzNdfIPmaaBGTNZnGpWeKYh0I8g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 A垫
+https://livednow.com/migu/926570167?sign=gAAAAABmtvR_B_MqNWZ98lc5teoQ4AJMABssuQgjSiVFWuE7v1aWKI8Ww5d_qEUCqroqaSRg0F7Me8EKdmsC85cZhNjfBpDBZsS5Qvde3Qe0cd20x6rXI0Z04CF0dTmPunPvIV4-dyRQigHaKzBikwl-ZxUgIP45QL-bbY5AVHhr0jbBmslVDGHXi76P9toUxyldactBkPE1hTRJBcEmFPHFxYnXlzB3-w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 B垫
+https://livednow.com/migu/926570216?sign=gAAAAABmtvR_QZ46nwdXRn31LdwePThh8-_OCPxN44BgJrUlDN2m68u8MITvkL_pihIltpHPf2PH-1klSfNLsM_y3PW_HKNhoLQtXvnoxo5g3UxBBhj2a2nQHuisV_pr13Gx7u_zJ7Z8bbbtU5v9QIk2gfgr4v5Mr9MGS6y46-5McvBa6pArmqXROc67saYdMd-PF-j_z2WNOAZpTHwVLhe9OzP47td5Zg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 C垫
+https://livednow.com/migu/926570368?sign=gAAAAABmtvR__K-FuLrz8Xi4sHcb3oPD-fTr1nTQ_C54TTRyiGJjGiLSx27vsnvFQP_7EExzrSJOS-GP-kS_VnODlrwYHrwMOUj1q73PfiRznKVEWYb2KnBECH3OX6szXkBRt11z2r9jhBxzVvzUTH0PlUADBwWxXXXWxBA85-rmvLXJBeHg-gmZTbvjeGt6SsqAudVUF5v_EkSYNVTSN3F_EobYZlC-lA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 解说 邢天宇、汪周雨
+https://livednow.com/migu/926566654?sign=gAAAAABmtvR_3AFfKihpix-EqOEkxcdmzjuEIOec7l84rIdFuJWZhtK1l2YnSmHIzkDJQ5yGr4oh46AMcRHkpfQwrgLpx6Z9oKtM0wiiJd2DKigW0V5jIi7pkfmLPR7fKGlJiwj3Dexcz7GqrBb6TxLWi3SHdCXv_RcBirHzubf2ewMwT4oUIVFdlxfCkaTkesXsU6pDSTmCsI_0nxUF-ydk23c6SSwkZA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 AVS3
+https://livednow.com/migu/926566742?sign=gAAAAABmtvR_w4n4DOOjVvlKj8JrnNdGjt2ucD1axQXAOnlJtqGCxDpsFam1bott0pBa3x8X46WxyI1GZi7AriIoZxQVV50LIT8ju8OeQs6pwC4KeMUuXOl96yDqPBqkh4_Uvmxg-kTTugskXRDydyTdbKr2s2b41ZxXV7WrdYBOQVjFJBmzSiRr9sdBYxiRddUgWQoJmxPLuW-LFp8AYM-fwFfY9rrQ8Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 清流
+https://livednow.com/migu/926567611?sign=gAAAAABmtvR_W0_m9y1L271mgwcBCbYSyFoyrrxMDXFk5_ssMdc7BUuFWXqpsX5dhLzLM6aoZ3rw3U50oUYy96DB2a7wmN8RwD3G1tyDFj9ASW1k3tvDmU0lk5ejDm-L0-iL-9vkIvEHYiJjNgTNa3OyMeWGSz2iLR1vjljTCdqv6OgNN8dhJwVDs4rrAppGhP1yLBbEHbULQuH1if_zoiDlguPHH1VsDQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 18:50 🏅排球男子金牌赛：法国 VS 波兰 鸿昆
+https://livednow.com/migu/926568856?sign=gAAAAABmtvR_H8oJokEwq-WzzAqOTobiiWqtAj_ks1uYqT_aRwprlV0LSdBkx5Xs99TC64Pr1h8HTBROvbVwv9jX6Y36eC7H2P7zUJ21sdfmnKLCQ9mChJIIgER_25AoB4Bx4O2gWmqbpq5is3steY70ucw6CzzyJLxnfJrAtBDhKiRrudAKTxdiFEhTj-0ZEJuN9E0-Dc47uGSSr87b5FNgGZVW_htf5g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 18:50 🏅排球男子金牌赛：法国 VS 波兰 清流
+https://livednow.com/migu/926568176?sign=gAAAAABmtvR_e-K1Sa7Vrvy8-U4QAHNDWd9XdcYCo4jnKWvUTFFtlbdDsg1oz1M1A4pTkQDdEl7qs1HTjRJ7gqo1CDt-wl2fSMlqoUd_uQHmiFvFGaVJkCrd8wq4yyPHb3t20dlvWhF5dsPEuCDA9ZciLeBCJ4-gkUC4-2XFKo93ZPAPI0kGtZtVP32JpDgbi6uN6lWLY_eDESGOLiKi78oLt-CQRMTcwQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033347f25.png" group-title="艺术体操",08/10 19:45 🏅🇨🇳艺术体操团体全能决赛 解说 魏琳、张豆豆
+https://livednow.com/migu/926570556?sign=gAAAAABmtvR_OBao8-0g7YddI1Puh94KwmnuBeOigoNeTk32Bc36yif5xFY3F12IBV2M9WlKQQj9LS1sa2C4CxEsFTfEujhmp6hwULe46Gd1UBI7nXt8D5IJ-BIWFEDnxilLovDasusThcDHFVyICcD9FmZ0H7DmQ9GEnQPPpkb1Bh_0ykjfKZ50M3gWokS1KjUU4BN4xj5IsZ6_AjFo1f1Y8Ok45_4vKA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033347f25.png" group-title="艺术体操",08/10 19:45 🏅🇨🇳艺术体操团体全能决赛 清流
+https://livednow.com/migu/926571645?sign=gAAAAABmtvR_8W-qlX4kLerfkTlqQ8YTxYTAKmZg4m3S7fXKm44fawr0VVpJ5dMHU4E5MgiS4nPyeA5DClQwslAjh_ldIiGV-4oJAS-id85ZAAr3xk-Bqq5jehhUGFdz_mQ92EYmffNx4oMyhQhsqxQ9081e_uEF1Jqm6HkNI68I5-jOp9aWt8aXEhMJspEMSxIeSuNiRq9KwsAbGhKLwVVRg-rMip5ckQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 19:50 水球女子5-6名排名赛：匈牙利 VS 意大利 清流DX44
+https://livednow.com/migu/926570693?sign=gAAAAABmtvR_NDFabNDxdbkWYOq4r2USVchDQ56mFvPqjPb5y7wEA811B4iSdytprma_qFNZeU0RGAfxtQNGvwCaWnS-MAJQT3tLLeXLHDj0cRBQdNqNNnyb3RRDQ0DOVWRklb5vVvEDaevvQ9mRT-qddUHChWiCXdJPjvyO3hK8xIniNB23CAKYQuLfWdBJdDsCK_OEP2Hu1C90mcI9F9UCFyDSrwfL7w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 19:50 水球女子5-6名排名赛：匈牙利 VS 意大利 郑好 解说
+https://livednow.com/migu/926566798?sign=gAAAAABmtvR_pxJAmm-8lPTze8cX6GJUFH6Wj6C7K3v56hfS1GrOBHXrdkcU5g1SAUNyB_IDzKTvLPQNKqdO7HApzMrbN0Ahhm3OAAP66xCHJs7BsObFftdasDkZO1qwdFZKBn_dJe8opqdfU8PwR1N-i3fI9BfIsr1QHwLI2FdnS09sBFxJ6Tjkj09sbxA-jXyehrONpxWf628VqdJj_iUv7u5RUqbIdw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 解说 周冠达、李晓霞
+https://livednow.com/migu/926568317?sign=gAAAAABmtvR_Li1OfjbMOj9dpKwkv4v9JCQXpvoF2aTy12LvG_NfB80BxsN843Y8vJoqcc9fHAZXicaXplE69IkfP8GKpSk91CuiCeSKF_rKjVua2NX7Uw4cjEo-3dmbbDiGTU4ttR41DrFSV6olABF3jKbnc6M59m_mtQZhymz87zcumWWIfCFGiFTJ1ECNUZQhyJ2XDYm5kUWWPqODPf4PDJbsfpCHkA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 AVS3
+https://livednow.com/migu/926568819?sign=gAAAAABmtvR_9F4DIfAHK5B4NmLLvb_d2kSpPNm-lNeRbWx45RBzYlin5J3SQPZPd5FNZ-zz69-NAKSlNeycgJUI18DcLkvGRKL2pnp5OLmhDYbxE-vn4kV98i9YiteWy-oZToK9AZgj238ou-TFwrKP2sgdWK2Wd49NFDBgKm0ntwW0P_6Lws6Kp_32FO2BTae4SnCeDkbaT2g0U0nhcKgiwB-z3B6hpg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 赛场原声
+https://livednow.com/migu/926569504?sign=gAAAAABmtvR_a0LlETJBLspOhBJcHFOEvmhNRNYBUi9UZAgoU5MO86eDdgxo579lRnye16xKVB3_guTweaRLllpj20F1V_oZCPX7GZwj5a_iP5Wl2Kq4YJLGz7Cx74aYx8BJpgX2NMXoPKVoC_DTzqWHLPsVjme50B2NrI0AfX_7wj0SH9W9ubHYcJj8nUNUo6zZjglf9a_3tpgkaSkYXmL4HXSbUU-Vyw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 20:25 跆拳道 多项1/4决赛、半决赛 晚间场 吴顺 解说
+https://livednow.com/migu/926569203?sign=gAAAAABmtvR_xCL-gGAUuJb-pRG4evjHLpbydWqht--n8GytEA2wT_gxKEbPEfqIPlEM-ktjmm5cpObLfiodNRcFRyZicvDArQEQhX_t7zMUgYLIUvcaBOADNwV-YLauzEmKo8y5N3-SXMq58-Ofc3xZmS9BPRvgV9HlQkCJENpE2tKdSwXwxtNJG33p7cRgsTZU1cq1MqRNUfIkqfU2pPfagi8E91XXZQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 20:25 跆拳道 多项1/4决赛、半决赛 晚间场 2024奥运会跆拳道：跆拳道多项1/4决赛、半决赛晚间场
+https://livednow.com/migu/926571003?sign=gAAAAABmtvR_jysujPTIinZ12pmO162A6M2XWaRpWQbki5JxXHHCegLZGvKBj1ODXfU401iexfE5h1_VYIXCnwlmDal74vj5lq1tU2koUpHzKON2TyG0H_0Gc-G7e79AP3XydENkQlXn6jZYWvvDKTnLhD6Obd2loY6Cc_gTNYcjZenchJPqkWDdNNblRqsJQ8AS_4MSMOV-xmqJ8K6FT1SGKIYBmLq2JQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 柳亚鹏  张家齐 解说
+https://livednow.com/migu/926570181?sign=gAAAAABmtvR_ky3i4sHW-aaAKwFXX2I2iRbYTw6K3mq94PaGDMQWWT5BWrrx78m-qr5ZP4fXh_3rrnrAqlswdVEMBvNqW0bqS8RMCFdv5RiQvJ7FrfjdxnpGN3-FujgaMmCUtT6qf4TBohxCeB4ukZsd_nf5TquB57CYzTvfKQZOjX0ePiT_XavB-W5Zne-nuLpWBvkYZIZPzXAVShRytCuyyCcd2khqJQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 AVS3
+https://livednow.com/migu/926570415?sign=gAAAAABmtvR_M6EEg89oVZiQHpsLj7yslXaFJ3JJaOb2WL7AAoXeYTr1hk1v3e6E9f6N1kU7LufSbKthJXuTqdp0y4mbpCpJmtIN7UFh0li-VgsQuu4ejMgMJV5p5xvA3Rg4aeVguTtaTS_4xpLOycJ8BeE7JgW6EiU2QhP8S9z6gS0cklq7xZXAbWqrOrBb8EKVao7ROhdEizalizISVUP3a8QGp0_SNg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 清流DX05
+https://livednow.com/migu/926571430?sign=gAAAAABmtvR_JFIgyQvLOQGPVjkoY_1B5SDx9lPhSf2k-Fa6XOcR5rfWlXke_GLgS58apfcNdXQjXgDDvTgeMRrFXKPmkYJAY8XH7Dvps2JDe_qaheuU4kqS0x9_OpuKUUABBUkXJmdXC5dej3UaPsnARQDSkMu9mZLBgHEdqcT-TActhrobY45CqiL-acsQwyK-_7SzRd18OkZfsUpsn7CJtNBP0eiU_Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 20:50 🏅手球女子金牌赛 挪威 VS 法国 2024奥运会手球：手球女子金牌赛（远程解说）（石伟）
+https://livednow.com/migu/926569374?sign=gAAAAABmtvR_mdY8LRLQKgGJVEwRi2Ay4tKqy3snVIKJfGD0Q2Lj3JY1ZlU6-iBMO_DoxhN9Rv4KilrunugtCp7-DiwOsRm7U5DJ7FOLouBWlG2AbY6C4X8ItfBYoBBv1hLbg75LIDw1GXu9u9drn-LF9lfzJEeS37L0VbOivxrcXOnn8pT2XRjyCslYQRs74aUTBXCaVx6OBuIGr7gUmDz9IzjeKxWOng%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 20:50 🏅手球女子金牌赛 挪威 VS 法国 原声
+https://livednow.com/migu/926569898?sign=gAAAAABmtvR_8TuoqC-jhizNnnXBBUHiJJ8atXRFU5J2xrbtYXkiJ0dbpgY_32Z6rtxs0HXEHW3OkmyBcDOK5mdxlPNeoyPrNZuhniHR9hwFqYpI0539fJSRJqoy6hVN7dG32hRw1TAnKSC47yamMke7MoJH7yYGBYY_Fei4lsYTIpSqgd2znTYA5MtlEW4xQ8gtZSl6GSEIH2ex_GRc3cZzpK9YDjFMIA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 21:25 🏅水球女子金牌赛：澳大利亚 VS 西班牙 郑好 解说
+https://livednow.com/migu/926566903?sign=gAAAAABmtvR_Dnmnotj89GgdOq72RkAute-PeOBRHZROu6sUZov2tN1HNIFcTzGiq6uJQ0ShjbKSrQ_ie41XBQEPZ3CWmrwqyBLmFMopqpCgbkzH7ikKkkzQW1aT9oeSrxq2iZjWhVNJKe0z0-_7tQOYBzG85fuXmgQQWNTJhmYEI8PskNcfYtJoBzMNkEY-SE8wHdF5mbKBNa-3Z-PbC37xHlUByUidFw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 21:25 🏅水球女子金牌赛：澳大利亚 VS 西班牙 清流DX44
+https://livednow.com/migu/926570771?sign=gAAAAABmtvR_B_NLqVNRRYO04aCQ5BL5tBFhyQhrOsGgDJ8wX7bDXmXcJpI3ydaA1PMW2JCmR5OlfFVJr543vvWKakZD85eFqcRcD1xmkzpLKckxatd41DTZ9924MSmIyS6oOq7acGHm2mkr8jTyga9rPL_zC-e4sSJjPqykUQv6T_NNpBHPSTnoopHLsbFwo-cV47U6o2omqQPAgoueq4Gag_PStlyAOg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 21:50 🇨🇳霹雳舞男子个人循环赛 SuperDD 解说
+https://livednow.com/migu/926568014?sign=gAAAAABmtvR_aYdC596jZ3OTRsKfVyVYlSPtSx-McW45uuyCYTLPr0jio1ePdhiFMpOh3k4u3E4xAn08N5GsNBoyreCtUllS9VKklNuoxZRo78fM8pb8U-7Os3vYe4S6oyN4nOq-8XPdWWQb71f5s1Y-280TKolecqKZ8VoS86F5Fvrfk7GiSUle75l3MZO92dVLC16KwKc3RdJulORGD-8DN25r-_hFVw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 21:50 🇨🇳霹雳舞男子个人循环赛 清流DX19
+https://livednow.com/migu/926568441?sign=gAAAAABmtvR_b-SAVaJmgjiFKDPjCK3bKcoN20cwyt2G5dao7jSZJtz0xbJrrAHjxWyQkqS80972TgDq_olmQL2Ak7Dt9VKFE-zK4WmlZOEhzSemda3Mvi_lt2tr7OoSHwNx37jP0roEmxRDye4oCVCcVREHgOKdaeh7jFiwIB2Ggul_20rS8IZ4c2jpuStrwnBa2TDU37C7bNe6vJYLqjUw7SxiPyHCKA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 21:55 🏅举重女子81公斤级决赛 张泽
+https://livednow.com/migu/926568716?sign=gAAAAABmtvR_2IH3urKdmxBZm-vgFFoSdWw-BOxNHRohQZzCM7Ezyjk3kl4c-vz1LVh4SZD2iBBlzvqKg9N3P092H8OwaZoOV0zrwlVkymWwAVnQzKGo1hyGqNzVC_kZhEP82PQwLp1-Hr11DwFs7qzzZMRuRvaseyudDCa0tc7ihxY2mtIAJ6-7c6JmIH4vQc19jqlEZxOKaf9wQQ8vBnrsHQFmLyhc0Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 21:55 🏅举重女子81公斤级决赛 清流
+https://livednow.com/migu/926567838?sign=gAAAAABmtvR_U2PuoHUtKFECFQzrjyHzDT581SFKIe5WcuiEctT6wfsJGw7gvHLTwfjnJFkp1_TaebMDSkxF8S12nXyGyA-kPNpM1PpRmVVU54B517a_5Jcc2R1XeDsalc-TZMmK81yR2vcNiBRPHm9L9kSKv_lF6vh8ZnCXc_f9VzlQW7yBXOGgljmAL_Ija6rbvyoGaC7axd3jRit5DgKTc5p2P1_qYw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033350a9b.png" group-title="足球",08/10 22:50 🏅足球女子金牌赛：巴西 VS 美国 梁祥宇 解说
+https://livednow.com/migu/926570842?sign=gAAAAABmtvR_PM8F7uHtwgHF_Pe8mPSkXtsGQ9nRsr5ijlsYgXaIZEiary0dvG0RE94c2PXyE7r_BNlFU3x5-_iZ7jfK7dW-e72k7xkBveKpwx7sX6JKZViiyHoGnj9D4RGMWEqcIT5Xw3uZJZDE5DrJQ_CHOZjfE7n4SiLGG64GJKegtV9Mqglsbk5bDa2A6tL-iCgr3DA2qUDMVj3wAPDOKiDBK0rp3A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033350a9b.png" group-title="足球",08/10 22:50 🏅足球女子金牌赛：巴西 VS 美国 清流DX28
+https://livednow.com/migu/926571801?sign=gAAAAABmtvR_kz2IC6MXTFQbL-xvAEQNeHiPA5HYAJFFKagrsNm2HdsdGbucBOzByAMs2VXw2FZGCLT9sKuP7XBTWhZRGXWo0Ma6Wb0njfv1wXMz6WZaf0YhRqy0l_tENI19lO3pZSkykghdOYWZVDpzDMCIhlFMnnLGN_-Cjmcd1KkDsoQAuL-MOWo8TsIKL_zs-nFQj5-eINrp3Fqn6KHq1yMFaWpvBw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/10 22:55 🏅🇨🇳场地自行车男子女子多项争先赛、凯林赛及麦迪逊赛 李陶 解说
+https://livednow.com/migu/926568524?sign=gAAAAABmtvR_E2enqLH5es-NqnsTkuBmv3MTo6HmlZ_YJPapyytJ-3izlXmfND18DD6u_mIzcxNCU8L1PPG9easlMvXL0wEf9gq6Tc2ERmYtBoO_9N0tri7Kd1ciCGryLm3cBRGBG3m-ndAY8Rkb4AOcTyOPxfb8v9alCODgEhr4hTcAEWc9hfw-xDtp3BlsTne4JyZqDYVsiK3zlh5sy9GJ2gV4k0G2Hg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/10 22:55 🏅🇨🇳场地自行车男子女子多项争先赛、凯林赛及麦迪逊赛 清流DX13
+https://livednow.com/migu/926567043?sign=gAAAAABmtvR_lHGev-IvsW-a16dWS9Kjws8wVwHp5jkCRBaa53xeJG02nADhFPR3y8n2VKBvYL4rwgig45Y-SjqwWXINLZ2m8Mbi7cVpYVB95Am56emcL67x3TW_MXwoYR6HaXJiW64lQu1PA1SENRQy46_JHBS4iHpG72ZuaFSd8-dWR6Q0_xFkJRtTFl7YjdgIGReGiP7C6G_cP-2HfNY9OrB1e403Vg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 23:05 排球女子铜牌赛：巴西 VS 土耳其 张歌
+https://livednow.com/migu/926568967?sign=gAAAAABmtvR_lnR3AHty3zZxAYT_FygtooBGtED-AYje4k6R0gNUU1GPLIvsS2c1fAAQ-FJ1lASfIAHYYIqJxUDDD0RBFdk1jHwkPkzPKMSKa8z3rXplVtbf9gB0BYR7ik_dV5ULL-CPTGQ-xnmEdKcfqFIPLHPUHRR8C_OQWBFpIb4bPUyZfMnfn1EjZq4p2-AMs2uSvgxHerUQsZJAeCOmn31URN4M6Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 23:05 排球女子铜牌赛：巴西 VS 土耳其 清流
+https://livednow.com/migu/926568341?sign=gAAAAABmtvR_L_aURHt8PCcerQ0FFF70toTTMgixKT6YK8lsRRUQXqIyiMcDvxHAZCGSwfQZwX8w8vvcUx5v6JbjlnkHZAXg97mCNLaQlGmlbIK0GYJiA0VnuWHDgGPCzqJ_Hz3ojdWOh116BuKfrnHR0O8Xvko2_9pdR3AYi9Jmc6iMhsqRa_OZyNhR2I-WyDtUT72vOi0dSIoPEpydVuNp-X23bGp5GQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 23:25 🏅现代五项男子个人决赛 2024奥运会现代五项：现代五项 多项决赛 凌晨场（佐伊）
+https://livednow.com/migu/926687201?sign=gAAAAABmtvR_vYFTx51FC4__RwF8KJp12Eg4ZIKD8RViZWQnIM65WPEshDkIE0EWt8ED8Lid_xYIureqoBTYj6M3fT6q1sQvDTqj07WiXToWvk_oFWASwIxYRs8UQgou6m_wl9uQs_-BpbF9yp3vgoVx9bfdg1hLD_BObG9uizeRwmJTLlnVlYv2UqQbqIP0AkHS8tZuxI1C8q69wlCFSlgrmXCY5ePXyg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 23:25 🏅现代五项男子个人决赛 2024奥运会现代五项：现代五项男子场地障碍赛 赛场原声
+https://livednow.com/migu/926571521?sign=gAAAAABmtvR_y65L7gaeCKVC6MFfHI8fwLRmOVAj1B8kHMCywnChcPLvIsNS05E9PsM9u9N9cZWsFnuDUCX_i9wJXKn2RvkAmeA21Qs9RuDiQ1EuD14K0UFdQauQzoVYRMHpjBM2AJRVRG2VM12eUW9UH-GVexc4S44r7aAX1m63T1NLWOm6CYtToZ9SgiAtyvKCxMnz5RXx8wvsRUo5hxfYYOWK6RAtqw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 00:10 🏅摔跤男子自由式74公斤级等多项决赛、半决赛 清流
+https://livednow.com/migu/926570242?sign=gAAAAABmtvR_FwzVbzCjVIS9LfcypGGoOGcOXyEff77TaIWlb40VIR4EfNGHoYUV2JIualDSVDSw5ST9BjIn1hc0Frg7lySVt2cgqHiQ6vL1pDtlDQafuKWXUCKEobcY2nV7ZKQq8A2hjMOotOL-58kHit01Hcx7hPNKCrtNM0uEYFUTqruBEENqR3k78K1-XLwDc0hBnibhkxPeOij1wQ3iJh7-XPkBCA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 00:10 🏅摔跤男子自由式74公斤级等多项决赛、半决赛 王腾霄
+https://livednow.com/migu/926568020?sign=gAAAAABmtvR_8IQlLhlP8y-w2SbkXwd46YRjHVOSv9xOBE_EThL43CSa0_5Qw9Zz11MpvI9HDPkepGhz8I6itBWIQ9AGya5EiyHmXMi0Nq0kNUxtNrIK6GXqPzRgZWbCzoqve16jqyqFCsslg4rUEA_GnqnTfBfXGBlyguHiZ90RihypxVIrjTBFj96cbVvqOhf0TEGjDj6IqAF2YcId-kislYdpQXTKxQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 00:55 🏅田径女子100米跨栏决赛等多项决赛 女子标枪决赛
+https://livednow.com/migu/926571250?sign=gAAAAABmtvR_eX2RGHdk9PepBObtbNBRw-n9vrIq8lY6KNy60b8-mKPhJ5IflXb15TfcFFG6oEgrCnI2t1hgbULheebnB4AaXDJ4YWeowo1ivdGZW_uCDS73tZ1u_AwUPhp7yBdhh5m8hNbNs-MgDlIIg9Jo6EqRzqVqCTuW3HbPqMFr4xLRW4L7i2qb4Z3gS38fFR7k0momqg_sJ2j8jBsybzXyG99Cig%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 00:55 🏅田径女子100米跨栏决赛等多项决赛 男子跳高决赛
+https://livednow.com/migu/926571299?sign=gAAAAABmtvR_HbhHxoczLH4HXYbudjAWVJMGov4yrmHsL_3Ftu9S1Ijv9qKTxyM-6wQ8OHyn0V1q0W4d7f4pOImZDdfM1hSEfEZvnSyidKltWK2d1pSRM4P5gXuTQb3D6H0Umu2MOwtJM-Bithx4n6l_Qpy055rnWf6Am8brcG6FhhlhcbFTzRWxDf6RMEtdi3j13AJ5AKy5e077lvgxj7-XjR4m8TDdoA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 钟宇峰  张晰 解说
+https://livednow.com/migu/926566404?sign=gAAAAABmtvR_By3bEIZJqegLytVMY7EA-QFt-0HEx5XizufJfqVn67mQ277JQGOL-qFeJ4pSL3JU2esdS63Rpcba9vQ4RrRYB0AFgtKJCgipTXsqm2Jv0zY80-lHEcubHe-K6B3oakPsGP6AdzzdOPYeSVGRV-yEecFNfLvqyTtUS-06I0NDI9Fa9hhRPW0syqE1JaMuGtTP1BEoB-5Lar12vR9nuriuHQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 AVS3
+https://livednow.com/migu/926566568?sign=gAAAAABmtvR_7fWNJxn00vkkpxp3zb9hVpOpkCp8ygFTyLCsudGlBFgphUvrdmNS_9vXgIn55O8SBcSuVL2jELQjzKo9Ez1nXeFvVKc9u8uUFPzfOkoc9ZlZ3kz5h_vuAFYFlOS6Cx3VoNW2Hi_aDqE6LbuFVH0CnaMgeZYqprxLYe4Xu7LYktCF4yrjr5msCZioBkRthCUrcIEzwNJG6nCmRDKe8JvOPg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 清流DX05
+https://livednow.com/migu/926567512?sign=gAAAAABmtvR_igptcRPydFaJZGIWyIWsae3ImiPFmceFhbKnZDJ-R6fbvRJLVgcdMBHXwGppJfuUYBNi8N0XnCcZ9UCcH9E6B-eX34BzPW84IPv-xcUnKeyJdbF903aE4wdrFVQE4Uivaf6Wko_tqACHOhbLnyz-1b_I7Kp2GMf-4uG4AG9VYbURYFedZO6AIRllb3v1Jr_JCbnqsAuZLF4O1xkQCAc8xw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 01:20 水球男子7-8名排名赛：澳大利亚 VS 意大利 郑好 解说
+https://livednow.com/migu/926567013?sign=gAAAAABmtvR_9e3f70l2PmFuUXrI18S3m5btrkya7TcwOpoGfpHnpiIJ4hFnzZ56Iza9f8V5rLQ5QPW9bV4ntiyS-BLhwXrkxKpz3vuykbd5sXNJczx5YoTgA-XKSAS9WdC2x1zDGbyrQANek0VyvskWVD18z_bqyZCZ5OmwURAKcgPqO7m4ZHZujGjuP60I8-P5IUVfM994-GB7zjERGgScWDoNMAlBGg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 01:20 水球男子7-8名排名赛：澳大利亚 VS 意大利 清流DX44
+https://livednow.com/migu/926570833?sign=gAAAAABmtvR_A6upkPWToNYSDj8nZBZHRA1TwRg6K5TAhCMQr7HimXTO1Bf-h2HQe11N_UIJ26vf5707Ck1ti8UK-LLZOV9o7s4Q1X9NmyQMjffnOVSDBYj-SC59HfpI3ydt6xtgjGjxTC81-suwFFL6leXKLxFCodV3MfADXsXu0LCAhmYdCKYXL02-SV_mvBYSIz8CpGK2Ph4x5ZJNJI8IvnKOu_qLtA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 AVS3
+https://livednow.com/migu/926569710?sign=gAAAAABmtvR_QzsfvoK8ahqTaix5lcZfnFs4CVmeBJLLY1mmL46vhKmJqmcFYtWeFBYITEzowXvGOW5cXeTUU5-S-eU1lnrsCf6btBAKbVKBrSR740HN2LVa29_CqhCAIDzjaF7jKkLiELY0dOTRL_sLhB9ENdimfiV8I9_jpPnsXgT3W6_624RJ-GaaFNB5PohnQklj8ofMxRZ-8lrGQ860wndu2HAsjA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 吴顺 解说
+https://livednow.com/migu/926569457?sign=gAAAAABmtvR_TxGa0jjKDovLgxpUq6PlCUhm0HoBFFPBa9xotr3Q4ciAyx7z8BgqhPShIB_Fj7TI5nzFAIPXlMA6EYDZS-GVYHMQSZ67HYJO2wuYaNBcdUoUBgDFpTTueKf96kET7RaXIF0IUjuOr2W94RiS5uttD2HCTPeZ0A-l6GrG7zSizan6fTb5cbam683VDLbf-iSCQn7ALUgb7o281u7gyFaqwg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 清流DX30
+https://livednow.com/migu/926571025?sign=gAAAAABmtvR_6wZqQsQYXrLIEA94IgnE1rmms3RivyHx0XWso8Tt2k530OcFlXi98RLBZNtlLFasVpBx13VW2W6DfJCkNDDKE9Cdc8Uc73In2bVH84770eQHp8P7rIvSMg-mWKHqFochmnBDD1LCyezYehU2KtA0cosi5e2yzq_lQ48cCItatJH07EgjUI-vDOCkplLeZw3uy_MU0-K6ch9aB5Toeuk6dQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/11 01:50 🏅霹雳舞男子多项1/4决赛、半决赛、铜牌赛、金牌赛 SuperDD 解说
+https://livednow.com/migu/926568050?sign=gAAAAABmtvR_RNOhnSwgp-Tfchnl-YaeQ-0f5bLJt--GKpoOsX90scZ02E79M1W-xSzwk91M__z_P1FYfuzBlTViv12THSAstmylHIkzul3TCchF3JytXSKKXvslrAyV3TFHBmxow6aMfu8JYrgIrjPxk4NftLVHkpytZw3YBJmUOu_OG2BT9hCJMlv1C8aYz1HiiJfEapz5cYX3T5606gvcyJk9TNPSiQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/11 01:50 🏅霹雳舞男子多项1/4决赛、半决赛、铜牌赛、金牌赛 清流DX19
+https://livednow.com/migu/926569321?sign=gAAAAABmtvR_hXBiILKzbbMG6KOCDAC1zZy18lrhCix6hAKMYpP4doPwdGaQgb7A_TeUObb-WRkd5pOEIF0yIUBjlJK9-z4oJscOhps1oRejuzGD-7tKEFUmzTqUgTtNk7Pu7VzYToIW-hpM-GSmL6xV2n7hMefBKPgFS71YrG00Urwyo-YH02x84EcRs4OwrAGuwb9jF8CMJXVP97Fb9MNUWxe-yCvChQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 02:25 🏅举重男子102公斤以上级决赛 张泽
+https://livednow.com/migu/926568764?sign=gAAAAABmtvR_Ca2nM0idWMO8IXW4e_gwa5w2zpiFamE0LuATGuZQwfGdQblOu9hGULYew765PTTb59ruXF222q3w7vS7IkZv2VRiaL5580qg5OYqyf1jUwKoB-_KFN9SYempCdgmtlcQo0eHzxaT-peDdkfsdTCnIJvHX66FAWDoXsxne1eAoP5yRPF-gJthUfNKhJUpn1Z3hvmMaCtxGWeNlQ-w4fvQ9w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 02:25 🏅举重男子102公斤以上级决赛 清流
+https://livednow.com/migu/926567934?sign=gAAAAABmtvR_iiRLaax21UhokEkaNTJ5jovAQYoDPrDJKSSUYMgmN9DdoWxFhRX5vCzwV2xLHWls5XY_lCFlG970tDs_Zj-HLOiwAJq4RxH4LkXhYP6hTuYiy8vzwYHPzOyTWJNbrPppXpolStRoX_Gx08-i0-SK1qfJ9JXuUZrMNLDhPy1Mv4oME0d6aO16I6ewanoay41DHN8Hsv0YmqwW9NydYA66rA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/11 02:50 🏅沙滩排球男子铜牌赛、金牌赛 乔迁
+https://livednow.com/migu/926569242?sign=gAAAAABmtvR_mvWLx29fFuJdY_jJHdBwf5klTuWGWHcqpgeoUGnbpv46NcesiMdB8u-o0IO_1j4INaLBCOU6xIUK3FuxEYwdaOe__MWz7eayFYuChqp9V1lhDyfYM7zmkRmb_dKPQjGu3GYXBTGMEF3Nj51CJUSkHLBczQvKMrBXjnZh7DoQzDJkVdnPY0log_Matw-YH_64n1u0-huCCzHLOLyivUSgQQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/11 02:50 🏅沙滩排球男子铜牌赛、金牌赛 清流
+https://livednow.com/migu/926569761?sign=gAAAAABmtvR_3Dqt2jroBS6Th5bPoNYE71uFxPwwymdqkCG1eIx_J79V37Wn1SzQxVWaDPWyOkYUi4lwhBbelNXefchy_SCLzVucZ7JVAhIvjZXj4L9Pjv8CF3XTSEFApaOU8T3e6m1tc33yh6albhEhPIxFuo_tDtUJC2TGEWpli3A0uvGidbMkGLXUuKpRM7N6Ke8nWQj_E9kYyETAI435-iRHP8YaKg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 03:15 🏅篮球男子金牌赛：法国 VS 美国 （霍楠,杨鸣）
+https://livednow.com/migu/926566955?sign=gAAAAABmtvR_ak-RfuOhNVXloSomOOTM2ma8jPfV2FwNr1VGvV9a_sA5wOB40thu-JTD4Z-_90TfFY798nEK-og38ZdU1PCMdrTdAhUZJZfglQuFuBQXwIJORstOlJhw31PyUx8f2nljGlIIM841Hyk-P9epQKByv87tCeJTn7qdF4PqCvuJsKNuf29m069Vve-cm30t1BL2C_dw2Wm4Q6wJwdNdUfbBRQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 03:15 🏅篮球男子金牌赛：法国 VS 美国 原声
+https://livednow.com/migu/926568087?sign=gAAAAABmtvR_1fcy7Dd4EmsHPZqyoCrnwjz0jxXIEmAWQAH-phn5J9oPCeHey8HT0hCPl61XsacneuxD2wXzUJfEmO7DwvAuJYYMuv-lecDmJEpRPnZdULAal0hcLZ5egPCCnntOAbpa2XhrNt0hAVQ3eOnPeVeVUuMppPwrfB3hYAdlnQrTeZspUGj0pb0NJZbohzwM6Op1jWRpJJaIyNEIxlNknqSCjQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/11 03:25 🏅🇨🇳拳击女子75公斤级等多项决赛 清流
+https://livednow.com/migu/926569669?sign=gAAAAABmtvR_n5_xXaKzNUuk22GsRlG_jmilWtEECvlVqubuySc2RT5atOKu57_x-kkGgZL36Z_iV3uDEuKg4rEqmAh84Qcy84HmYC5Cni-ievnZn3dVlDURehh0lfr8DuZuHlYp3qUVexjSZmwf60mwIT3MknyYj3poO2y_1B2k0lFw-SfZoLnM8heXtQ1AUrYMhZ5-vrBAeDK-RQbZeAq3vSZwMMpWlw%3D%3D
 
