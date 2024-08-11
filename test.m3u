@@ -52,34 +52,17 @@ https://docker.mytvsuper.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541
 https://docker.mytvsuper.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="戲劇電影",Now 爆谷台
+https://sxj.btjson.us.kg/ziyong?id=baogu-movies
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="戲劇電影",Now 星影台
+https://sxj.btjson.us.kg/ziyong?id=now-baogu-superstars
 
 
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", 千禧經典台
 https://docker.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/94bae399b66709dcb932d90adc95e0d7.png" group-title="戲劇電影", 緯來电影
-https://sxj.btjson.us.kg/ziyong?id=videoland-movie
-
-
-
 
 #EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="综合", 星河台
 https://docker.mytvsuper.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-
-
 
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", 天映經典頻道
 https://docker.mytvsuper.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -298,27 +281,6 @@ https://docker.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=21
 #EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝", Mezzo Live HD
 https://docker.mytvsuper.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-24/c65bed2b10345b876ddafe81f979e48f.webp" group-title="其他", MovieMovie
-https://sxj.btjson.us.kg/ziyong?id=moviemovie
-
-#EXTINF:-1 tvg-id="HOY 资讯台" tvg-name="HOY 资讯台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c9887a22769a3efd48eed67bdb4cb071.png" group-title="新聞財經", HOY 资讯台
-https://sxj.btjson.us.kg/ziyong?id=hoy-info
-
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/a40676e3892cb653fe17391534ccacfe.png" group-title="新聞財經", HOY TV
-https://sxj.btjson.us.kg/ziyong?id=hoytv
-
-#EXTINF:-1 tvg-id="HOY国际财经" tvg-name="HOY国际财经" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/79add1b9977b00819f290e96cb343fc9.webp" group-title="新聞財經", HOY国际财经
-https://sxj.btjson.us.kg/ziyong?id=hoy-ibc
-
-#EXTINF:-1 tvg-id="Now HBO Hits" tvg-name="Now HBO Hits" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/59dbfcb6b8a276f528270bbac8cd599a.webp" group-title="其他", Now HBO Hits
-https://sxj.btjson.us.kg/ziyong?id=now-hbo-hits
-
-#EXTINF:-1 tvg-id="Now HBO Signature" tvg-name="Now HBO Signature" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/48d41c0b479d665d5710e17cbf522734.webp" group-title="其他", Now HBO Signature
-https://sxj.btjson.us.kg/ziyong?id=now-hbo-signature
-
-
-#EXTINF:-1 tvg-id="Now HBO Family" tvg-name="Now HBO Family" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-03-07/f78ea2c2be0182786680504258cb6ded.webp" group-title="其他", Now HBO Family
-https://sxj.btjson.us.kg/ziyong?id=now-hbof-amily
 
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -330,7 +292,20 @@ https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
 
 
 
-
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="体育",Now Sports Plus
+https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="体育",Now Sports 英超1
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
+#EXTINF:-1,tvg-id="NOWSPORTS英超2" tvg-name="NOWSPORTS英超2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png" group-title="体育",Now Sports 英超2
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
+#EXTINF:-1,tvg-id="NOWSPORTS英超3" tvg-name="NOWSPORTS英超3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png" group-title="体育",Now Sports 英超3
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
+#EXTINF:-1,tvg-id="NOWSPORTS英超4" tvg-name="NOWSPORTS英超4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png" group-title="体育",Now Sports 英超4
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
+#EXTINF:-1,tvg-id="NOWSPORTS英超5" tvg-name="NOWSPORTS英超5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png" group-title="体育",Now Sports 英超5
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
+#EXTINF:-1,tvg-id="NOWSPORTS英超6" tvg-name="NOWSPORTS英超6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png" group-title="体育",Now Sports 英超6
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
 
 
 
@@ -353,8 +328,6 @@ https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f
 
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育", myTV SUPER 直播足球6台
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-
 
 
 
@@ -901,240 +874,95 @@ https://sxg.btjson.us.kg/thetv/wnyw-new-york-fox-east
 
 
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 00:10 🏅🇨🇳摔跤男子自由式57公斤级等多项决赛、淘汰赛 张凌宇
-https://livednow.com/migu/926387691?sign=gAAAAABmtvR_O7b3upkMe7w27KgLheYBW-cZte7otKNrmzb_rreDkxhelsBD9NwnhlOkpIGxmM0Lc_R3mjirAKxGlVfkOMYtwUft3Z68oO0BdNB6wI5lX2Arvr0i14O18B0Zx7yKAhoBTeoCWDe3cajvHHG0cM0fzBCORrMXNvMFOxv7STD8xL0OKExDxGYJmb4uXGDoQvlf50Br1mx62QHglRwU2Ui1Rw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 00:10 🏅🇨🇳摔跤男子自由式57公斤级等多项决赛、淘汰赛 清流
-https://livednow.com/migu/926390264?sign=gAAAAABmtvR_Z2mCzeRAfUvZRLivp-bw-6BqmXD9ouzlEYa7CtriNKWEK6IePQWtoZX4rYhH5SDD09MES4sx8-R83VwZyIqtH0zd3zDW1a_ZfBMPSRt2knOCc5M40z8cdJ-lsLmwgT12GNYEcbKjblaOZOzIUa1onXxs8Rn6nsX_wUv8-w2Z_y_xqHuG_XXbB9-k_Yzvft1txbYDv7Hs0ROatwfpYZ1uLw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 解说
-https://livednow.com/migu/926389383?sign=gAAAAABmtvR_MAeCAt0-UlqkY2cW7MU2jsGgev-hjHaSDs1bL6GX4Ow2N-sFSjI9ivfVcbe1hZciuto458V0QHjY8ZleRQiNYkyuarfx-8r47LqM2YC69RvudtcotbCEOii50KnRitX5LTmFb2e9hOKq1GYO0Q9Uck5bEX9bfpH4bQupctGYfulIKIL1R-pqmPrk7I6FobLtZ-s6loBz-jEFt7f8EkY6tQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 男子三级跳远决赛-三级跳A场地
-https://livednow.com/migu/926390690?sign=gAAAAABmtvR_ky2Tx2Ice5knB55ADZb8MgYRgMc0XN_ZrvoIKgs1ZgZxtpIpQsWmkOvsKtey2K7i5pj2GEMpotRpuENYhXIUNWDaJQp0cxGDPlSAUirGvP9ZEzGTmq6143Pyjdek5utLnLvsW2Cv8VOTG4e7KwB12Hmv16qdh0FwZL7E0eIcWt8q31Iy6IiFmqRiQtH6vwNUv7HRmvlZlvgKIv_cxnUm5A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 (AVS3）（陈晨）
-https://livednow.com/migu/926389457?sign=gAAAAABmtvR_Uu490K63fcv2ICRoxQH7MZvy6bmzQM1WTPvvH1AOQ1UAbWTySNCJIpN2qHNq5WP__36N5MSLnAuCd_Jqg6s66iLzazgsaCiS_CLoipacDA5of8yGmobzUQtc7QEoIMiyVFkuCk0Ruv8U8V2rTOrYNgjYIkfTnxSYkDU_NDNGHLTZ-r-kgtcpY5lSXDrKXUZ2txeb2RN_8sRVY_bbyNYonQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 00:55 🏅🇨🇳田径男子4x100米接力、女子铅球等决赛 CCTV5+
-https://livednow.com/migu/750410939?sign=gAAAAABmtvR_J9YJbUXS47ijh1b72GEL6hYalQfEaNfLfSZ3NwpN0ciNRhXRz-uPOY87tpPZ6QvdhYE903Kd4WaPsloB-FZ69VOug3KGkhUOWttvbBq6ZIlRE2KpLC0XSNLAEBr5IM7BTFrYUwi4q6a75GCT1MYdYY4JaR3day6jkFyhdsrxTVJf17R8KLGUCGVtZMVhBdRcl0Op4_gYMM-5FPvuBOPZMA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 01:25 水球男子半决赛：匈牙利 VS 克罗地亚 叶蕾 解说
-https://livednow.com/migu/926388087?sign=gAAAAABmtvR_vCm28om2Y4O6fMOK95zpd-DnuVqbFS4ZJB7hP9urCJh9H2hASUYyrQKRN5OIjGfexT9lYJqWmi3n9eNCPC1N6XOXa2bGGfJb-BXB31Dy2zQo5HUCQszQdPMSWW8SPdVZWdGhe6FiXUWffEYIfvKPiAVkGGcc5lZyz1uHGiifs4vqeBhdWZPdFUfFQLMkcYw-I1Fi2F-Ewer0tG3CEbPA7g%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 01:25 🏅🇨🇳跆拳道多项复活赛、铜牌赛、金牌赛 吴顺 解说
-https://livednow.com/migu/926388204?sign=gAAAAABmtvR_kuYbOSGXmIAHSN72nizzDOvCiLYQ6IoFzbiJIFouV76BCWOP8LUMw7q4mKx0VB-2yEj23C8QmW9J7aIyCXSSBUwmok_uZ4fsVwjcTRJQzaw-beU5HZXSZCADDfgyJSEzVySQvrkfjRV4sX8rdCTHQeInwMxPr5PXKj_QDFIpVRwV3x-8rTq76wjS0Vl3qVqEEi6xyGyLHhmYs6oxyyTJLQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/10 01:25 🇨🇳花样游泳双人技术自选 姜语桐 解说
-https://livednow.com/migu/926388678?sign=gAAAAABmtvR_L7I5jY5VC46L7PKuMbpJodgtD1g34I2vkIzLsfTHnLbqqgPX8qVbDoGTgaycHr_62xC_yOlPXuTOwqaJRnanCR2Mry_K-Gc-MoI7mmYDhOlqS6f3HnSihr93_7V080BJ92sOt_3543H83ibWeJqqOzCaRfNY9efALR5RwsLjwQ52m6ohYx_deuTwn7asFA8c5X582g1S4TaEQXlJhickiQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/10 01:25 🇨🇳花样游泳双人技术自选 清流DX05
-https://livednow.com/migu/926388998?sign=gAAAAABmtvR_RFactvqja6LDEmHDSVZU5XqrKifidjjtrdnaPKpJ9FAtuWb1lw51lIq_pvwKEEfIOig6AgJf4wNlhx4lWH8QTuPDuxw-5bzgApnPwX5ACSCIaLWXaBRrX62zW0WG5a2c9-Fn7IE02bw53krzS7fO332FoT5B5dnkzTB437Vf1PX5-8RqKvnVvp7mnR9ssIdq1RR8QcsYSUkosBFFjc9kWw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 01:25 🏅举重女子71公斤级决赛 张泽
-https://livednow.com/migu/926387807?sign=gAAAAABmtvR_31M8QFm3Y6nJQ2_-p_2pvwkpRwz9cYGOAl18cEsXWXCtoP_n6f4M8asA0nsiwctUZjGX48Ch0FLNz0GVOdBjkCf0FgYIj-3gReW_0Pixa0qm650dk7f1UcmiiFFr8qTmeQzY1p8ZN11wUGunDJ6QeSkTBL-HvHgMLDCMc-2PBQxwQV6Z4ORpww4u6_-aaoITzOwn_yHIVroGwWVx1ZRdwQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 01:25 🏅举重女子71公斤级决赛 清流
-https://livednow.com/migu/926389154?sign=gAAAAABmtvR_e2JZqp-X4oWSvg_VIGwhMk-JJc_tWGFLw9zw9qPSkPugX9Od1Iq1anTSMqfS58rc9uPglLBDPXtOfhN74-5LG8CWmwlCWnl2K-HULsX42MM1B9428ZxV3A1Cgj10-tFhJknT2Cr18X5PWXRer2hr_4Ivl33qYEivFJTmiM_Wi9nqP6805m1wySDF7fzbji2rW4dkCvMoyBSn-8bcz2dWGQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 01:25 🏅🇨🇳跆拳道多项复活赛、铜牌赛、金牌赛 清流DX30
-https://livednow.com/migu/926390573?sign=gAAAAABmtvR_t5XTLpUccNdV-ju9lyy4HYoFxrOeWM_6LH3Ls_T9LJDQwhCRmLIykq3bqukzt7kXYRA__ScIBFoW6BeWNMwkQ9327foZFhyHgp0IV0HaJ_x8bofKtXZSQwvMdYfabw2Yt55UK7fjVETsMGQwYvgRyiYu_D6uXSmsVgiMXKrdoXfRcLacA1hB3eKn5KYy07xlW3yhGNdPGwCcJEIN9JMJeg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 01:25 水球男子半决赛：匈牙利 VS 克罗地亚 2024奥运会：水球男子半决赛 匈牙利VS克罗地亚
-https://livednow.com/migu/926581064?sign=gAAAAABmtvR_4c6ijTTNIvTTafmfaOT0N39AoYjTr6_qz2GeM7EH20Uuyh2UiHcXtQ6R_dFz4ZGKaH4dbn_1VETl9w9zGzkHUyxqjHtVChCaKIiCqZQzfwBisTcuBTDUThzGEAPM0bhahrI_DAcnTzTJa0WtE2MOCeLt0wTKIAsYIP3og-774fN8WR59PMdMT-l772vChWiMEM_HT2K584HCSiVtYEFMMw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 CCTV16
-https://livednow.com/migu/861476216?sign=gAAAAABmtvR_Sg-s3JIzYmotwoKceIYjx3hAewlNZPZ_wYAS_k8Ru4RSHY6DotrAf2tcHOCh0YmRA2JqA0uQiesBiY1M1HkdaN8ilUytVCPsAFGUlm09jBD-D6MGCtTW0Bs0yLydhJm8ewO0AtGugBwtFwoWUZBODc5QQjucvH7Tjcwb8T9KnvioPdV0SKZw5lp5CeezFC7A1nlgv6Sv2fdaG9XKB9ldFQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 清流DX19
-https://livednow.com/migu/926389480?sign=gAAAAABmtvR_TSVGtreC2MJ9uIgmZA9LC0SpvtTw0q_8qdrvB2Xcjo0Avh9XLPPMkKRtZX2-TGa68kTbQPrGfoF7dzEMTFhLkgla4nGflNo8_ld1cRmZLiJHPaOm7HhQy7oS7oKOMgzCg1afS-ER8XzVqY6ZfVWhLv6twbGfUYCLJY2t0rYwI3xb9Oq4i3Boc-A5GKUAqkqKB2AyOb_p84-5kDFs7gFVtg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 SuperDD  裴东光 解说
-https://livednow.com/migu/926388604?sign=gAAAAABmtvR_RJsBSl871AIk-1x23H9UY9eOoNYO0wNm5GbioYjdj6HhTQXL1g4JNOdtRo5StrtVWgmD48Pe2DFN7z01JxXbfgLiArvzkyhNKGBnnVrpAWsPvNIbsAfERTKMgJn7vF_9kvSDMCK-go9svz4nqLXNQxpIpk92KKbeq_4rSk37zx-KpBhLpsfO71qH3c2I9kc_HoRelLkozD2sePDbQVoXTw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 01:45 🏅🇨🇳霹雳舞女子个人1/4决赛、半决赛、铜牌赛、金牌赛 AVS3
-https://livednow.com/migu/926388666?sign=gAAAAABmtvR_C7aXs3IbQFvMwzTmkYN33CsFKStOepAI6ceRvEHHlnOub2Sui2SJU2nEjWoFfAc5Kf5QSpAZ4IB2h6-wm90GfUEIKd_2vjTWGns8Z7FS40EboGpCLL5fOOYodb2simpTZxWSGOz4AbOyZR00XXNsoeZ-GZFkH-vvKiBRfZfGjjVo8j7dZFd5wPUksb18nU0rZbZunacnIuUdHixc22HtYQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 清流DX40
-https://livednow.com/migu/926389668?sign=gAAAAABmtvR_LpqBNEz568I8AND8VlXPMEGOE-tHfT8WvUQ5bRS93rC3X-RH5EP3imP7VraDZ1uCWxSmr5wlgNydvXrH6Z2Snd20JRn8B4HCH4dauvA-tSHWrCe0sKdofDXYGawGEGvSJvcgsq781RtEakxmVyjr4jLZScDjhH4Ad38sMFcqtzasGK3zHoER8s7gQaCudfQwtL4SrU0mA5qBHekJtdf1_Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 2024奥运会：曲棍球 女子金牌赛 荷兰VS中国 1号球场（孙宁智） 孙宁智
-https://livednow.com/migu/926579657?sign=gAAAAABmtvR_oVArVUGtaJL8_yW3U6TbHH9QX4bKdxQrrYPaQCfU94b9pphdP8DicyUeeUtjbnJ8-SltgN73c_qWXff4Y8xw8GPP2FUkOJkcqGX5Rao9EXfDQVh-8LPcu90XFGFfX6TTGDUMXFZSaXCVjiQD2lwf4I3yN3VRQzd8UNbV-JE8qycNGv5pAvUWN4FR9cKENROEU-NEn-YEYG6Lr8j-14B2qQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ca88.png" group-title="曲棍球",08/10 01:50 🏅🇨🇳曲棍球女子金牌赛：荷兰 VS 中国 马弋博 解说
-https://livednow.com/migu/926389235?sign=gAAAAABmtvR_LeT3xHnIXta-rdKJ0EzmrjIcQUaJEkXNnWCvVOx85nZfmdZJWY4bBB59tUTQwGQAZQbeLFwOcs1cpnGqVas81GgueO_QvYWN5ePcBXlJP1IQWugdOKmo_GENFRoSbYf7vHNWBL6KzsPDQIWjoa6q1RSODHvNhlE9rqLzQYq4VMlj3564U-jhD5L5hJlZFjYWGX1g727ksqg_uA2-FA2mXQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 02:50 篮球女子半决赛：法国 VS 比利时 原声
-https://livednow.com/migu/926389173?sign=gAAAAABmtvR_ta3ZBGWIOq7Ib55-Yi3iojjydogoRbX4mD8HklMK53smZUJvk3UNbnIalzLnq14A-7eJPlci2oSIVfyGSGF0XqfoJ-I_4dctmk3ZMu4uR-HyQx4dsqx56eaRT9vJcWuNFp6HEJeYVMmv_3_ybd1xtc-qtke1RYI-vtR6NXXBLz_VHOlXoWuAckNQOzD8coxV_zZrKCZ5FInmP8S_y-GkVQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 02:50 篮球女子半决赛：法国 VS 比利时 （远程解说）（邵化谦）
-https://livednow.com/migu/926388009?sign=gAAAAABmtvR_1hC3AVtp7ou4ZIZ4j4UXtzyuF8gO_lNxy8-c_TYF3r8nezKMqlc5zwbFyZ7-xAm_yFCAGAj96gPOlhkltCeyhxj-AFBoR6yOURTluRC3PvAC1KpwAYw6EHfDKXs90yk03cjauzPM1ry77gTiv-9ZMwnHmIYqLR42vCZ_0hHkPlTzwArQ-znYdI8a_JdfNIvIQ-D5HE-PruRxf7dQftcP2Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 乔迁
-https://livednow.com/migu/926389036?sign=gAAAAABmtvR_KnTrNinKRE9B8c8M5892fyHndXcIEiwFEEwlQ9TmY2i542kmv3z8EZEHM9GIR_4x2Uk1XCoTTfC19SFuN2iYPke4Ig5hCUqRuTtLAdw0mXvviW3VVQST0d6xWCqGMpjswZANF43DF3zj7kp80FQ73ZWlp8LwWWO1VU8g0uGqes7Vsq5c8JRbuzgrlC2N9e7cLWTCiNeFQl_MguKEnm14FA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 CCTV16
-https://livednow.com/migu/861476216?sign=gAAAAABmtvR_HUFjjGXqOLfw4_ePVf9NNMH5c6yJuXeJw401ux7HYLyoaR5SNKXUWmMsiek5pXThkor3rQu3FpE5dXg-iF573skET0ZjTx0nGJhYA7NInq5QSamc3K5xM4CchuBGDBM8QJtVO2p-ILyYODBBQJQyjra_5kFZAcHhefAJU3Tdq8LIQKj4qxwD2aqMdqMQGzh1rXtjRvGKmoePRsqqraP-iA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/10 02:50 🏅沙滩排球女子铜牌赛、金牌赛 清流
-https://livednow.com/migu/926389790?sign=gAAAAABmtvR_utM4VNhQMop3B2TcLfUh1qjFx1TZZ_1BTfIH83_Xp6w_kEKHVuzTmLEQ82HcgveSmwkBoMtCSBL0yFizzYnQHaxi3qRgKJanwGlXvHFj9530z7WWsvhIvlHgFKDVa28TdwRIH-r0yvSgTnWJaaLv6jhRNtt1bHYBV3ZGnditX1GTAwxMGuHX9xO6txaMe4PJkDuxOZlYNHleRA1XxtWNZA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 清流
-https://livednow.com/migu/926389761?sign=gAAAAABmtvR_67RnExNsjriPpmMWKPd0bbUDJ19uF0yRJiQ4Jg3Ipt3P8Q97MmPXVt3fki4sXSQjNGPlvDCWUwtkKLHWmsLLM3zBZlXzA6oqWAsLpJ7Snr87dUl6g6j3tenwVSK_ua6S29nMLlPJdnX-HjjrM7wq3-CB0iEtlEjMZehst4rngA-Ez6oHY4R7R8Di9iOjQt7_0K8GeE1dDqhYmpqfWuKjOg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 解说 王琰博、王腾霄
-https://livednow.com/migu/926389291?sign=gAAAAABmtvR_Sg_s0DyZWe2E2w1V5HwC4y1oEk6OzZ2ODYLE-xt5BkIZniqz7IX50KQmH7goia7aEXgKQyfw-AvILD9x0NJdjvi0mA0EPNVsWOLV2NuHQ6weeo6N60S58vAnI7gWgH0enWOnXHp9CsMJiIMGYLSYPYF49Lof2-GOcieHCkX-yoSJikxjXAvuslUl3DNUa7zl8RFJQfmQxDlF0pfU1m52Aw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/10 03:15 🏅🇨🇳拳击女子50公斤级等多项决赛 CCTV5
-https://livednow.com/migu/750409819?sign=gAAAAABmtvR_XxbCPRzBKPm0UA7YSLEBynvvvWwXuAZ8svuv-5lmei9a40vGXDck8Z9ml9XzSdVURXc_pL5xXoOpgAqHy0RID9IPIfCMou_ZIbhzOTC2QW8VQQk4wzzvrfhULNDcgtInX5OT8tTrWELNIEQQ72pfVZsG6pBfaaGwmG919jBBH1qO-Z1KwRNzE9dPdmPpxsh5tymTBxSvMqFIQe9OLpoIpA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 03:20 手球男子半决赛 斯诺文尼亚30-31丹麦 （远程高校）（杨淏淞）
-https://livednow.com/migu/926388406?sign=gAAAAABmtvR_7bLhhYuRjP4mM9nuCKSCVezdnNvZqsJI7216FJzXmbAizWTNcz4Q1S9_Gkco1-Ek8nIFX7HE8B3ClfVu2h7oHMRDOXV4ThStOGxj7FmTyMYI42FX5sxDP_8_a_QOuytIy7FY04T6Mpib8F0wMWF-Xj_Ux0LqysuGe6TzHOGy13oqfPLr7TvOZiT71swozyFa2V2lG43jIUWwIjERUx6c-Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 03:20 手球男子半决赛 斯诺文尼亚30-31丹麦 原声
-https://livednow.com/migu/926389825?sign=gAAAAABmtvR_NwrHTnjO3vdDuMwlydGwyzuelGtjAFrwgYGXPalHVGXGk3tANwJlMjk-FWM5HsTxlIVBxKwwboXdxYJD4pWAdULlcrrDPRw_VqW2wYF547-AQF3TbaH_8HV5EA9wXJlc1-T0wq0rgnqobLmRal6Sfu4EH5tqIMjhMXjBtcmz7iiUDTPsMXD_PcniVSgq5kP57b3TOQkrTkll43RTOo17yA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 13:50 🏅🇨🇳田径男子马拉松决赛 原声
-https://livednow.com/migu/926571097?sign=gAAAAABmtvR_qF13JKQ3QIYGWWOIRwK2EeuY14OSQGdLXcl0rog6LvJfHK4tD9kFZTR_ndM4_iAglYYQqvwGSwZZWXVKVIL5A2FqcZk9gHO7slmIPdf6aaCLXqIks1iQpAJNkybLdE8-OVVLKu9LMljN_C3OOA2dC_VA10rpE5yN84Dzba6bkaTIvy8gk-hyEc9C3TSpiM0AYtGVay2B6NPPldgGXawCiQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/10 13:50 🏅🇨🇳田径男子马拉松决赛 （远程解说）（陈晨）
-https://livednow.com/migu/926569507?sign=gAAAAABmtvR_CJsOFrIA-edBb0WrO1l6i9JYmADaow-qY_aGMCbLrpIuRoGrmRXrLpCGEQGjog1_HW89qeIB7_VsqKdBQCmwcolaYKTNEZWfEFKWp7_wBcj64hVny1k4Q4pFzEsA6d-0shRHCUx6R0QdCzgxtvXVJMRlXG4f4W-D1D5DORpVvS4JSDLvKHLmaz3gC8JDz45oIK7cz_x54gPeQi4pW4UYeA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 14:50 水球女子7-8名排名赛：希腊 VS 加拿大 郑好 解说
-https://livednow.com/migu/926566485?sign=gAAAAABmtvR_jLsYlbIxVz7fgu8iFQqnT6OLh8s83GSaJJc1xIN7f8jWdo09C4-FYzZCtPFPF5DoH3RDivcSAdkjiPNN6q7cm_lTqkHnzS8m4C1SrXC1i7S5ll9GatnVBT9bnlHgKD3lWvi-Ez1qsfrfvUJnORZuO_peTa9Z1QYZLZHl3ENpkC7aGNSBr8MzST7XeXcIcMN1hZps50xCvCARHeYwIyOEYg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033309169.png" group-title="高尔夫",08/10 14:50 🏅🇨🇳高尔夫女子第4回合 “新老”组合冲金 2024奥运会高尔夫：高尔夫女子个人赛第4轮（殷若宁、林希妤）（远程解说）（艾柯,李梓）
-https://livednow.com/migu/926568569?sign=gAAAAABmtvR_u-X_OkO6OXh_6A_rQ-ZyvwyB43NdKhBAqOOP7tVdZX4BcF88_OvW5EY8Ed61-g_s6naW4Qv6FLLbz6FaHdfMeQaa1xLQLw0hrPv723-fw0CttJSPzhSwHI9qGP_iM8e91E-k_InTYSLmKglPmDuS1uWC0uxHyYS_uoG9sdE1ErruapX_wmHwfZkN94-UgRx283o3oXHRQYC2FpSUoY03Ow%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033309169.png" group-title="高尔夫",08/10 14:50 🏅🇨🇳高尔夫女子第4回合 “新老”组合冲金 2024奥运会高尔夫：高尔夫女子个人赛第4轮（殷若宁、林希妤） 赛场原声
-https://livednow.com/migu/926567135?sign=gAAAAABmtvR_qmSkCfQIB78k6KZyoZ17h_ccWznAcqTvGKBOSNuMYp_pNbLvJuZVqd5kIrIMYVcDdvqVklIcbucNH3BDeaePaUwwiJntEG065xO634iLguYsx1iJjmtRqFhYhYyxEVDgQFhTbBl0MuLxKW42PTQl7qYTrwncR87z9DF-u1hM6CxHoe_3kZLDcRlwfT5VXSkfkM21MkWK6sLPC3FyxW5uQw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 14:50 水球女子7-8名排名赛：希腊 VS 加拿大 清流DX44
-https://livednow.com/migu/926570444?sign=gAAAAABmtvR_q0P6anl4vWeg9l9aAa1pFG5uZH3fm4-g4mW6X1N3NNqj1EEhtQT1sQoY5YRAIRcKSOTc_1M9m5fS3Cc5uUnnLuiuxweyvySXQx6fRt3UnqraGo66BPtX437pD7A1G2a2JlGehEegN8q6VHtJnveIwzxcwA9y68q29S8obddgdBnGw4QWvq16FoNvfIo7HXC02IXJTufUV068uXSkcfxXWA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 AVS3
-https://livednow.com/migu/926569631?sign=gAAAAABmtvR_srahAPYDajeBPq0ItnlhcV9T9KUgTJ8K-8O3FG6cT6mlk6g092Fm9Kbdfi5eXmskNtqVCmIxoy-oz7lBzjw1_FwtlzcuGmxEb4U56eQLrO4H_yvN0Rswwc86Mmf1YHwS_lIb_ovN3iiGZfcfPrKDWDRdb83tp2X_nrNzN44S0nt49yC-JgHh5bSnQ8GtfzXwAM4dxBnWomG6-EdXKVyaRA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 孙有哲 解说
-https://livednow.com/migu/926569434?sign=gAAAAABmtvR_dxUskRU1qC4vEhUohfh8iqTVQ4gIlFqRT9v1KfABM93FavLmE-KpfjqnllH98SPAJoiVJKraXiByEugCU8KmLmQ1Qna--m6gqLHSPR3_O87A2y2nGsBV-xekyEaclQXyri8nr7Y5omOPgLjTmMqKFMyW5N616XieQLHi_Cr64aVdiYoA8K4WPvSaWo1pmpWCErxRxhP3nsjAwJIINKaGUQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 14:55 🇨🇳跆拳道多项资格赛、16强赛 清流DX30
-https://livednow.com/migu/926570910?sign=gAAAAABmtvR_rdi5pgKzwTscHnUhp5GA7V05CLyaiOFRHyGoz1nA8O8vzxBw7dM50FYRHQSAyoh2Qd7xGngSCWlaufoWgIk59jgmZvk2aI5-GV4e6ORZtNEmfM-iAwtBFooXq46kJGQiSjQS_Q0IlYOsdUAaCqtgdGUP2-PpiR6BIxaVkDkhUP6UVaOW5SQ1TOI1KDByrtjyWBNXY3p1r705ziiDqnVI9A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛 （远程高校）（王婧柔）
-https://livednow.com/migu/926568090?sign=gAAAAABmtvR_oncT7w4Iozpbls5HfQAbLXqLwyYToEnXPexZZ32BezMviVFHvJC85m2sGXwIDJw8QMO6lGLkooFkaQWDi29Wg4mtrn4mxuZSIie_OBn1vUKS6Cy4aeO7Hog-zNVsjYPn4zRYNNaFgaoXF0Ut1Dmom4cyyhJHzqADQ59mFM9dncG58z2yO7dHt7TuTdzjjAmuJantbZladPDMwxagNxct4A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛佐伊
-https://livednow.com/migu/926685848?sign=gAAAAABmtvR_5Hgm5VEDOxzOQqBYHVqHrTb_SvmmTnmdf-GWBhFQaKx4iZf2Nm-AgCiN62IcrCFW2pfaBKz7vNWb7u3JKghGczk-o9I-q8DseduWMIz8aCL1riHS39cVDHR3Ww9Uq7lhk0c4h_IRVM2LNm6YykBBsD92t49a6TF6r41LzjFklf7RRuAZaFs8UB7Nhtf86-EkzS15MBK6rtxML6r4BFaj-A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 15:25 🇨🇳现代五项女子个人半决赛 原声
-https://livednow.com/migu/926571492?sign=gAAAAABmtvR_5D00vlAIbXev1pP0JsiMTiD59U8B7VQa9sVXp2eSVrwimgsWmjTR32uhNSCfZ2fzofSFXwrqhzMnl0cScBnIK5f5f_b0ltucYIxM3uNgF0-eFqsacnW2xj59FsAkjRnsoQGNmrP0zw_-ThmkFCW91zTbDfHmuSiy9mimKkooxA_ZH0_MwjD31r2QQx3_msNHHShFwjhkZtzC-2j_6O_GMQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 15:45 乒乓球女子团体铜牌赛：韩国 VS 德国 解说 肖扬、周雨
-https://livednow.com/migu/926568269?sign=gAAAAABmtvR_mteoaHojA1LuCYbJTFHConhvOJtPCbxRgt7B5ldXwWGyGHhxzX50guJ8RC5pmQm-8b4FtYk4x-8tW1ln1Klg8YIzYDP5qIpkHhEJL0ZRvttLOV7oMbRfWVw_nMubF3Vto2VVYn8dcSsRu3QkiLUeTu07yj51z0Q3ds3T7-xuAA-vC1WcsSIzqTrk0uXDQSWYqexpHkwT3jKrnRDElTI3pA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 15:45 乒乓球女子团体铜牌赛：韩国 VS 德国 赛场原声
-https://livednow.com/migu/926569453?sign=gAAAAABmtvR_pjmyhtbVItUIl820NiUIedApSUoupkGlpY7WMBI5KGPZfvqOJ-NMAKCOM5oC_i52Xp_vScwoMB94C81CKgq3WD0l8lfW4BoNbFNgHjxgZqdsMITBhcLD3rgEX53hZCEGAn2px30n4ckQgFfIuxoOFfBLsQ-QSnSMcsmj-qQmtNgCZT5pE77lFwlplhl_NU5Y3p-vwsUHmFQ_mdNHxpXClQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 15:50 🇨🇳男子10米跳台跳水半决赛 2024奥运会跳水：跳水男子单人10米跳台半决赛
-https://livednow.com/migu/926571405?sign=gAAAAABmtvR_bCRohCZyn-FuqVDo0V9e0otIrIsoY7LlDiUU_KKumZJ-NXB6Mm8lAqfesnl66v4siYHdBhbooDpXK5_Bo2T45a4CVaAyv6QGTSFwo7ap-y4onPCJDa-KPk4kY1UYjyfhUFXFzFyD870lramuuG7tFqZvhEt_822itvuRk3081yvzY2HQhO60i2KY7ORcfb_oiK6b1r9fxtciEG-HcMyxdw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 15:50 手球女子铜牌赛 丹麦 VS 瑞典 （远程解说）（徐依婷）
-https://livednow.com/migu/926569279?sign=gAAAAABmtvR_ixYnM_Z3Q528CuMRvykQZ4pol25dhgoai3e17vpCGcACtlSqEMBoQ_ArGdenj8DT2XE3-h-XS2O84FHS4hiYE6fYl1LYdWMlBijKqwH1mi3rnQXulZMwUhSY20hSNMtqAdwyoVc9gZLRinp2F4TBHUqIcfmxRSdhP5-2q4Emnec5PT50i5EHMI7OsNwRKB2zlggNrDN5F1qNjmnnSiMi3Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 15:50 手球女子铜牌赛 丹麦 VS 瑞典 原声
-https://livednow.com/migu/926569852?sign=gAAAAABmtvR_4NFQ8RVHZdqnIpf_jGvWhem61nFnp20ELD08hPLe3v1y_hDkFNBJn7QpNPUytevR_xBtCasTisZIHzPexmVZGlzgvFzLJwwMly0PNhcutE62aOmtBNo6DbDR_i-jTPNrX3JmfYe8FDkx7wj8lSTXljsQT5LO2nFT_YykOeHocy-UcZJ4CUsdNAj6P7pl9id2d_htsL6y5ob_Ugl-dppTKA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 15:50 🇨🇳男子10米跳台跳水半决赛 柳亚鹏 解说
-https://livednow.com/migu/926570087?sign=gAAAAABmtvR_NleC6oLR9FkoTj8C1VBzJW0L7qbvxCZMDVsOJoO8V65SQd8hX5NvFwLBMXiGIp3efbqQUiS4m31UMZW0nln5ierryZELC67aj132bazZhY94NcLbQTtUhq7qzaRkwRQiVDsDLbBUvP80qV58DZr_WZZ6LUcNWFFWy6Khv42MtqvWAlBcrX3BC2Ak1E-QZqaiK1We7XwGSX0VH7KDGK3plQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333dd312.png" group-title="运动攀岩",08/10 16:10 🏅运动攀岩女子攀石和难度攀岩决赛 2024奥运会运动攀岩：运动攀岩女子两项全能-攀石决赛、难度攀岩决赛（远程解说）（赵玉燕）
-https://livednow.com/migu/926569584?sign=gAAAAABmtvR_j39E242CxvI-JZEDvp-JcYXxw3rKQbBIZLra7KLr5hp8j1WCPt2ASEP0zl2Yx2TuwVIvPLcCbAok767WPjEXh6Z6iaqISjysePRZtlPdcMV9lG8CFwqHlsrPxNo-WCo6afNlp2gyUlqxKfkYxdEx1ju8tmEe4X2cPIhlQoFDcgI7kLLT4rpHj3lNJKjzugKbMov0hWvMAWAlTcyXfJ1I-Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333dd312.png" group-title="运动攀岩",08/10 16:10 🏅运动攀岩女子攀石和难度攀岩决赛 赛场原声
-https://livednow.com/migu/926571764?sign=gAAAAABmtvR_AFwDRDXJ3SqMXXdXTVRHuK00oKA-CNgCPzF9vzUPaHviTWo9zsrfwDVXuXO7LxDBoEeB0B5lSKNyhUwXmQNWHAejHL-yaY8qaZuh-FWoZWp6wXv08o1TIhUzBXPGm8nFxWhrzYOptauogQehGvCrCObuFNIcALNZlF61dseqZ4ubA2PJrelcFTkASktSFpQv69baYzQaos_F-5RShXRz8w%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 曲可乐
-https://livednow.com/migu/926569046?sign=gAAAAABmtvR_6-gU1kDIHT_72EhEW332SyH2-MWMCbZ0ySsPUZl91dS45Ih9RvpuSH2-c9KWsy80YgwQfprjBczqOuAAySL8vgiAdwBthu5SmtCD9laMw7FpGcmjlqCKNjYUjtGmkOIijqdvF9I0pVg7ofZvO90mFCWILoiEIKEBAEBHnPGsT6a3xqUfRcvU9GqIYxFbuHun_96NAZ8tdHmKHjsDXt1usA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 AVS3
-https://livednow.com/migu/926568178?sign=gAAAAABmtvR_tsP3OUbPdQ7IPUhGjzYpTpdE3SAOmO1D4oP4vKTp_PmNzHngfCnNzEQ8nVFyp37rA769LmvDe4hKV0N6alJ023L_lK-mYyz4_V5XvbZK-qrjB13-YSXoY4JVmNmxAR5_5fxlhCjYJ4kocQUQ_a11QqBc-BQ8HLoBbMV75CxQvqrmPcOLjl0tfMyHBJxZL2SfM58BeCFVKW97y7tx9EqdKg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333fa94c.png" group-title="皮划艇静水",08/10 16:25 🏅🇨🇳皮划艇静水女子500米单人皮艇等半决赛、决赛 清流
-https://livednow.com/migu/926569419?sign=gAAAAABmtvR_hjbraBweCvwTx7SIv8jhbxJHPHM2C3NuACrHZ0_sbdeSavpWBjTqRP_Bkf2Yxg2bV_XlYXLdHZp4fY1JOQ90fYcN7qLsIZEzEFRfD7xFAZBNeQo5jeycUqEuqIQo4K0YYykDsIaY9wDfOi4rU88zF1a9EXGNtNigbjRiIFvSAa5YCZCj3WwthWDOi8xwpdxlWOKdkbAXGUUwIniHeykLSQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 16:25 水球女子铜牌赛：美国 VS 荷兰 郑好 解说
-https://livednow.com/migu/926566708?sign=gAAAAABmtvR_zKbZiz4Tn6V8ZsP50DHjn2_rny4lAerRRxdFdeW_msgKADFWYABXKqolcYDHDJmv8Fqi_4MDe7SINInm92ymmIyuOtuWsW723WSucikJUzPVIxOXWeAYM3UfXcNO_RcBfd4U3d9p7wZSWdvP612ukMbngBJFw5w34AGpK1FdfJMOqJT_oxfVzagUZITQQg7NErku6wSUF4VttxsX_VDF4Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 16:25 水球女子铜牌赛：美国 VS 荷兰 清流DX44
-https://livednow.com/migu/926570622?sign=gAAAAABmtvR_Wm002aiKA3HvT9rBJ2W0yGuZ5OczYbeN-_04-nXcRSLmOWRNpM2rwIhcDV6KmSwLRD5ghykyWw-GZI5pV7P9p4AyhDkruHA3Hc3mBKYb0w-uc_8i_bvbDggPctcVvqzNPwtL7WOCtBE2yIkdYEOsA_Nuw1nzVSLXrto2KVBKhBmZHcMUEdUYtjSiMNdj1jzdrBs__azGS672lxVQ5QqcIA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 16:45 篮球男子铜牌赛：德国 VS 塞尔维亚 解说
-https://livednow.com/migu/926566872?sign=gAAAAABmtvR_WxM4Nb8piGNU9ASMUjpKoiZCLbH7KjkUx4XQG3PyaV9HoxrZDc5NKf1jpdljkjzx8evboOJUofwkIYZn9ql2DGGFSoZA4yUC6WL2F2mhuvzbvV0h4KvKAAIaqaGUO52LBkVMWNfynboumMMiluJul8FdrWbLFZtr7s9-KZQjuJEMBInUcrY6reI8ALFSsZv6nvG7Qt7PKtQKHEAGocco8A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/10 16:45 篮球男子铜牌赛：德国 VS 塞尔维亚 原声
-https://livednow.com/migu/926568017?sign=gAAAAABmtvR_IXl0vmtG8idmNsGeZBiDGMbOoYkPAkTo_5Frzcv5ZmYMzjl1CpDa-y4nf1J8n5ymjRoQHxRnh3SzHFXLlzgc5XWyxSBuhecnZy3fqB6T3z4WafP7Da4b3qj9Jx61ang9Ligy0B2bAMIVW40iNXyi8023XvuXaN6_iIQCb1LQ-hfDoSU2NFneJLrBosRgWoz-t96-6R8d7uOZT8OfZXl2wQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 A垫张凌宇 张凌宇
-https://livednow.com/migu/926567734?sign=gAAAAABmtvR_CwhdGtN8krXyOBa6csEi5_0l7TCh67RGFsb3B03w5DQRm9c_VFY1Fj85GEDshYuUXmfWI9dcuAOsTw4oFGStOJzIKcJextt9DdywWuy2sppvxlKnz9uNo7npWq1Sl-EFwMgy9LbGfqUUF6I6RzucRirEdvj8kTqiMqV97HnduMxeJLHxEj_inUy5HwgR8RlRr9nF9gAfhYzQyM8K861hOw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 B垫吴庭申 吴庭申
-https://livednow.com/migu/926567833?sign=gAAAAABmtvR_jOmgPy5_sR6AEEp7Ami4m5uISFwJEquIEj-EGLpXBVDdL68lyJLU97pVL6CGd_HgE1GyPBzTRS3M8FtMKArirgBN3ndx-KP5aAepLTttzsIOWpXPNY3ICilm4-JYtTBLM5htCEdertBM_xbaDOTT45T24OuQ1Hby7-kT3wS0-bxh6m7uxCMAcGbiJJq1Wstm-SiCK6buTS7EGV7Bnrz3vA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 C垫王腾霄 王腾霄
-https://livednow.com/migu/926567919?sign=gAAAAABmtvR_s7Izk3Jfb4RwsZ_csICeOoSKn_5ZEz_CZmHksGm8WBb3aC_AlBs1UL2pCVyZExw5h82cs8MAD41UnhLn78a0kGZvaCcqM3zvmNIp-BWJ34k1Jrm9StIpAqJsinz24JaOdK-J9KNmCpYjlSx3UVvcbVeUT9oHxz1NNVk3bEWejIH9kTG5rF09T_898atpzNdfIPmaaBGTNZnGpWeKYh0I8g%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 A垫
-https://livednow.com/migu/926570167?sign=gAAAAABmtvR_B_MqNWZ98lc5teoQ4AJMABssuQgjSiVFWuE7v1aWKI8Ww5d_qEUCqroqaSRg0F7Me8EKdmsC85cZhNjfBpDBZsS5Qvde3Qe0cd20x6rXI0Z04CF0dTmPunPvIV4-dyRQigHaKzBikwl-ZxUgIP45QL-bbY5AVHhr0jbBmslVDGHXi76P9toUxyldactBkPE1hTRJBcEmFPHFxYnXlzB3-w%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 B垫
-https://livednow.com/migu/926570216?sign=gAAAAABmtvR_QZ46nwdXRn31LdwePThh8-_OCPxN44BgJrUlDN2m68u8MITvkL_pihIltpHPf2PH-1klSfNLsM_y3PW_HKNhoLQtXvnoxo5g3UxBBhj2a2nQHuisV_pr13Gx7u_zJ7Z8bbbtU5v9QIk2gfgr4v5Mr9MGS6y46-5McvBa6pArmqXROc67saYdMd-PF-j_z2WNOAZpTHwVLhe9OzP47td5Zg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/10 16:55 🇨🇳摔跤男子自由式97公斤级等多项淘汰赛 C垫
-https://livednow.com/migu/926570368?sign=gAAAAABmtvR__K-FuLrz8Xi4sHcb3oPD-fTr1nTQ_C54TTRyiGJjGiLSx27vsnvFQP_7EExzrSJOS-GP-kS_VnODlrwYHrwMOUj1q73PfiRznKVEWYb2KnBECH3OX6szXkBRt11z2r9jhBxzVvzUTH0PlUADBwWxXXXWxBA85-rmvLXJBeHg-gmZTbvjeGt6SsqAudVUF5v_EkSYNVTSN3F_EobYZlC-lA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 解说 邢天宇、汪周雨
-https://livednow.com/migu/926566654?sign=gAAAAABmtvR_3AFfKihpix-EqOEkxcdmzjuEIOec7l84rIdFuJWZhtK1l2YnSmHIzkDJQ5yGr4oh46AMcRHkpfQwrgLpx6Z9oKtM0wiiJd2DKigW0V5jIi7pkfmLPR7fKGlJiwj3Dexcz7GqrBb6TxLWi3SHdCXv_RcBirHzubf2ewMwT4oUIVFdlxfCkaTkesXsU6pDSTmCsI_0nxUF-ydk23c6SSwkZA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 AVS3
-https://livednow.com/migu/926566742?sign=gAAAAABmtvR_w4n4DOOjVvlKj8JrnNdGjt2ucD1axQXAOnlJtqGCxDpsFam1bott0pBa3x8X46WxyI1GZi7AriIoZxQVV50LIT8ju8OeQs6pwC4KeMUuXOl96yDqPBqkh4_Uvmxg-kTTugskXRDydyTdbKr2s2b41ZxXV7WrdYBOQVjFJBmzSiRr9sdBYxiRddUgWQoJmxPLuW-LFp8AYM-fwFfY9rrQ8Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 17:25 🏅🇨🇳举重男子102公斤级决赛：大级别新星刘焕华冲金 清流
-https://livednow.com/migu/926567611?sign=gAAAAABmtvR_W0_m9y1L271mgwcBCbYSyFoyrrxMDXFk5_ssMdc7BUuFWXqpsX5dhLzLM6aoZ3rw3U50oUYy96DB2a7wmN8RwD3G1tyDFj9ASW1k3tvDmU0lk5ejDm-L0-iL-9vkIvEHYiJjNgTNa3OyMeWGSz2iLR1vjljTCdqv6OgNN8dhJwVDs4rrAppGhP1yLBbEHbULQuH1if_zoiDlguPHH1VsDQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 18:50 🏅排球男子金牌赛：法国 VS 波兰 鸿昆
-https://livednow.com/migu/926568856?sign=gAAAAABmtvR_H8oJokEwq-WzzAqOTobiiWqtAj_ks1uYqT_aRwprlV0LSdBkx5Xs99TC64Pr1h8HTBROvbVwv9jX6Y36eC7H2P7zUJ21sdfmnKLCQ9mChJIIgER_25AoB4Bx4O2gWmqbpq5is3steY70ucw6CzzyJLxnfJrAtBDhKiRrudAKTxdiFEhTj-0ZEJuN9E0-Dc47uGSSr87b5FNgGZVW_htf5g%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 18:50 🏅排球男子金牌赛：法国 VS 波兰 清流
-https://livednow.com/migu/926568176?sign=gAAAAABmtvR_e-K1Sa7Vrvy8-U4QAHNDWd9XdcYCo4jnKWvUTFFtlbdDsg1oz1M1A4pTkQDdEl7qs1HTjRJ7gqo1CDt-wl2fSMlqoUd_uQHmiFvFGaVJkCrd8wq4yyPHb3t20dlvWhF5dsPEuCDA9ZciLeBCJ4-gkUC4-2XFKo93ZPAPI0kGtZtVP32JpDgbi6uN6lWLY_eDESGOLiKi78oLt-CQRMTcwQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033347f25.png" group-title="艺术体操",08/10 19:45 🏅🇨🇳艺术体操团体全能决赛 解说 魏琳、张豆豆
-https://livednow.com/migu/926570556?sign=gAAAAABmtvR_OBao8-0g7YddI1Puh94KwmnuBeOigoNeTk32Bc36yif5xFY3F12IBV2M9WlKQQj9LS1sa2C4CxEsFTfEujhmp6hwULe46Gd1UBI7nXt8D5IJ-BIWFEDnxilLovDasusThcDHFVyICcD9FmZ0H7DmQ9GEnQPPpkb1Bh_0ykjfKZ50M3gWokS1KjUU4BN4xj5IsZ6_AjFo1f1Y8Ok45_4vKA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033347f25.png" group-title="艺术体操",08/10 19:45 🏅🇨🇳艺术体操团体全能决赛 清流
-https://livednow.com/migu/926571645?sign=gAAAAABmtvR_8W-qlX4kLerfkTlqQ8YTxYTAKmZg4m3S7fXKm44fawr0VVpJ5dMHU4E5MgiS4nPyeA5DClQwslAjh_ldIiGV-4oJAS-id85ZAAr3xk-Bqq5jehhUGFdz_mQ92EYmffNx4oMyhQhsqxQ9081e_uEF1Jqm6HkNI68I5-jOp9aWt8aXEhMJspEMSxIeSuNiRq9KwsAbGhKLwVVRg-rMip5ckQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 19:50 水球女子5-6名排名赛：匈牙利 VS 意大利 清流DX44
-https://livednow.com/migu/926570693?sign=gAAAAABmtvR_NDFabNDxdbkWYOq4r2USVchDQ56mFvPqjPb5y7wEA811B4iSdytprma_qFNZeU0RGAfxtQNGvwCaWnS-MAJQT3tLLeXLHDj0cRBQdNqNNnyb3RRDQ0DOVWRklb5vVvEDaevvQ9mRT-qddUHChWiCXdJPjvyO3hK8xIniNB23CAKYQuLfWdBJdDsCK_OEP2Hu1C90mcI9F9UCFyDSrwfL7w%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 19:50 水球女子5-6名排名赛：匈牙利 VS 意大利 郑好 解说
-https://livednow.com/migu/926566798?sign=gAAAAABmtvR_pxJAmm-8lPTze8cX6GJUFH6Wj6C7K3v56hfS1GrOBHXrdkcU5g1SAUNyB_IDzKTvLPQNKqdO7HApzMrbN0Ahhm3OAAP66xCHJs7BsObFftdasDkZO1qwdFZKBn_dJe8opqdfU8PwR1N-i3fI9BfIsr1QHwLI2FdnS09sBFxJ6Tjkj09sbxA-jXyehrONpxWf628VqdJj_iUv7u5RUqbIdw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 解说 周冠达、李晓霞
-https://livednow.com/migu/926568317?sign=gAAAAABmtvR_Li1OfjbMOj9dpKwkv4v9JCQXpvoF2aTy12LvG_NfB80BxsN843Y8vJoqcc9fHAZXicaXplE69IkfP8GKpSk91CuiCeSKF_rKjVua2NX7Uw4cjEo-3dmbbDiGTU4ttR41DrFSV6olABF3jKbnc6M59m_mtQZhymz87zcumWWIfCFGiFTJ1ECNUZQhyJ2XDYm5kUWWPqODPf4PDJbsfpCHkA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 AVS3
-https://livednow.com/migu/926568819?sign=gAAAAABmtvR_9F4DIfAHK5B4NmLLvb_d2kSpPNm-lNeRbWx45RBzYlin5J3SQPZPd5FNZ-zz69-NAKSlNeycgJUI18DcLkvGRKL2pnp5OLmhDYbxE-vn4kV98i9YiteWy-oZToK9AZgj238ou-TFwrKP2sgdWK2Wd49NFDBgKm0ntwW0P_6Lws6Kp_32FO2BTae4SnCeDkbaT2g0U0nhcKgiwB-z3B6hpg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333a7b42.png" group-title="乒乓球",08/10 20:20 🏅🇨🇳乒乓球女子团体金牌赛：中国 VS 日本 李晓霞解说 赛场原声
-https://livednow.com/migu/926569504?sign=gAAAAABmtvR_a0LlETJBLspOhBJcHFOEvmhNRNYBUi9UZAgoU5MO86eDdgxo579lRnye16xKVB3_guTweaRLllpj20F1V_oZCPX7GZwj5a_iP5Wl2Kq4YJLGz7Cx74aYx8BJpgX2NMXoPKVoC_DTzqWHLPsVjme50B2NrI0AfX_7wj0SH9W9ubHYcJj8nUNUo6zZjglf9a_3tpgkaSkYXmL4HXSbUU-Vyw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 20:25 跆拳道 多项1/4决赛、半决赛 晚间场 吴顺 解说
-https://livednow.com/migu/926569203?sign=gAAAAABmtvR_xCL-gGAUuJb-pRG4evjHLpbydWqht--n8GytEA2wT_gxKEbPEfqIPlEM-ktjmm5cpObLfiodNRcFRyZicvDArQEQhX_t7zMUgYLIUvcaBOADNwV-YLauzEmKo8y5N3-SXMq58-Ofc3xZmS9BPRvgV9HlQkCJENpE2tKdSwXwxtNJG33p7cRgsTZU1cq1MqRNUfIkqfU2pPfagi8E91XXZQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/10 20:25 跆拳道 多项1/4决赛、半决赛 晚间场 2024奥运会跆拳道：跆拳道多项1/4决赛、半决赛晚间场
-https://livednow.com/migu/926571003?sign=gAAAAABmtvR_jysujPTIinZ12pmO162A6M2XWaRpWQbki5JxXHHCegLZGvKBj1ODXfU401iexfE5h1_VYIXCnwlmDal74vj5lq1tU2koUpHzKON2TyG0H_0Gc-G7e79AP3XydENkQlXn6jZYWvvDKTnLhD6Obd2loY6Cc_gTNYcjZenchJPqkWDdNNblRqsJQ8AS_4MSMOV-xmqJ8K6FT1SGKIYBmLq2JQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 柳亚鹏  张家齐 解说
-https://livednow.com/migu/926570181?sign=gAAAAABmtvR_ky3i4sHW-aaAKwFXX2I2iRbYTw6K3mq94PaGDMQWWT5BWrrx78m-qr5ZP4fXh_3rrnrAqlswdVEMBvNqW0bqS8RMCFdv5RiQvJ7FrfjdxnpGN3-FujgaMmCUtT6qf4TBohxCeB4ukZsd_nf5TquB57CYzTvfKQZOjX0ePiT_XavB-W5Zne-nuLpWBvkYZIZPzXAVShRytCuyyCcd2khqJQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 AVS3
-https://livednow.com/migu/926570415?sign=gAAAAABmtvR_M6EEg89oVZiQHpsLj7yslXaFJ3JJaOb2WL7AAoXeYTr1hk1v3e6E9f6N1kU7LufSbKthJXuTqdp0y4mbpCpJmtIN7UFh0li-VgsQuu4ejMgMJV5p5xvA3Rg4aeVguTtaTS_4xpLOycJ8BeE7JgW6EiU2QhP8S9z6gS0cklq7xZXAbWqrOrBb8EKVao7ROhdEizalizISVUP3a8QGp0_SNg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333c613b.png" group-title="跳水",08/10 20:25 🏅男子10米跳台跳水决赛 清流DX05
-https://livednow.com/migu/926571430?sign=gAAAAABmtvR_JFIgyQvLOQGPVjkoY_1B5SDx9lPhSf2k-Fa6XOcR5rfWlXke_GLgS58apfcNdXQjXgDDvTgeMRrFXKPmkYJAY8XH7Dvps2JDe_qaheuU4kqS0x9_OpuKUUABBUkXJmdXC5dej3UaPsnARQDSkMu9mZLBgHEdqcT-TActhrobY45CqiL-acsQwyK-_7SzRd18OkZfsUpsn7CJtNBP0eiU_Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 20:50 🏅手球女子金牌赛 挪威 VS 法国 2024奥运会手球：手球女子金牌赛（远程解说）（石伟）
-https://livednow.com/migu/926569374?sign=gAAAAABmtvR_mdY8LRLQKgGJVEwRi2Ay4tKqy3snVIKJfGD0Q2Lj3JY1ZlU6-iBMO_DoxhN9Rv4KilrunugtCp7-DiwOsRm7U5DJ7FOLouBWlG2AbY6C4X8ItfBYoBBv1hLbg75LIDw1GXu9u9drn-LF9lfzJEeS37L0VbOivxrcXOnn8pT2XRjyCslYQRs74aUTBXCaVx6OBuIGr7gUmDz9IzjeKxWOng%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/10 20:50 🏅手球女子金牌赛 挪威 VS 法国 原声
-https://livednow.com/migu/926569898?sign=gAAAAABmtvR_8TuoqC-jhizNnnXBBUHiJJ8atXRFU5J2xrbtYXkiJ0dbpgY_32Z6rtxs0HXEHW3OkmyBcDOK5mdxlPNeoyPrNZuhniHR9hwFqYpI0539fJSRJqoy6hVN7dG32hRw1TAnKSC47yamMke7MoJH7yYGBYY_Fei4lsYTIpSqgd2znTYA5MtlEW4xQ8gtZSl6GSEIH2ex_GRc3cZzpK9YDjFMIA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 21:25 🏅水球女子金牌赛：澳大利亚 VS 西班牙 郑好 解说
-https://livednow.com/migu/926566903?sign=gAAAAABmtvR_Dnmnotj89GgdOq72RkAute-PeOBRHZROu6sUZov2tN1HNIFcTzGiq6uJQ0ShjbKSrQ_ie41XBQEPZ3CWmrwqyBLmFMopqpCgbkzH7ikKkkzQW1aT9oeSrxq2iZjWhVNJKe0z0-_7tQOYBzG85fuXmgQQWNTJhmYEI8PskNcfYtJoBzMNkEY-SE8wHdF5mbKBNa-3Z-PbC37xHlUByUidFw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/10 21:25 🏅水球女子金牌赛：澳大利亚 VS 西班牙 清流DX44
-https://livednow.com/migu/926570771?sign=gAAAAABmtvR_B_NLqVNRRYO04aCQ5BL5tBFhyQhrOsGgDJ8wX7bDXmXcJpI3ydaA1PMW2JCmR5OlfFVJr543vvWKakZD85eFqcRcD1xmkzpLKckxatd41DTZ9924MSmIyS6oOq7acGHm2mkr8jTyga9rPL_zC-e4sSJjPqykUQv6T_NNpBHPSTnoopHLsbFwo-cV47U6o2omqQPAgoueq4Gag_PStlyAOg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 21:50 🇨🇳霹雳舞男子个人循环赛 SuperDD 解说
-https://livednow.com/migu/926568014?sign=gAAAAABmtvR_aYdC596jZ3OTRsKfVyVYlSPtSx-McW45uuyCYTLPr0jio1ePdhiFMpOh3k4u3E4xAn08N5GsNBoyreCtUllS9VKklNuoxZRo78fM8pb8U-7Os3vYe4S6oyN4nOq-8XPdWWQb71f5s1Y-280TKolecqKZ8VoS86F5Fvrfk7GiSUle75l3MZO92dVLC16KwKc3RdJulORGD-8DN25r-_hFVw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/10 21:50 🇨🇳霹雳舞男子个人循环赛 清流DX19
-https://livednow.com/migu/926568441?sign=gAAAAABmtvR_b-SAVaJmgjiFKDPjCK3bKcoN20cwyt2G5dao7jSZJtz0xbJrrAHjxWyQkqS80972TgDq_olmQL2Ak7Dt9VKFE-zK4WmlZOEhzSemda3Mvi_lt2tr7OoSHwNx37jP0roEmxRDye4oCVCcVREHgOKdaeh7jFiwIB2Ggul_20rS8IZ4c2jpuStrwnBa2TDU37C7bNe6vJYLqjUw7SxiPyHCKA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 21:55 🏅举重女子81公斤级决赛 张泽
-https://livednow.com/migu/926568716?sign=gAAAAABmtvR_2IH3urKdmxBZm-vgFFoSdWw-BOxNHRohQZzCM7Ezyjk3kl4c-vz1LVh4SZD2iBBlzvqKg9N3P092H8OwaZoOV0zrwlVkymWwAVnQzKGo1hyGqNzVC_kZhEP82PQwLp1-Hr11DwFs7qzzZMRuRvaseyudDCa0tc7ihxY2mtIAJ6-7c6JmIH4vQc19jqlEZxOKaf9wQQ8vBnrsHQFmLyhc0Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/10 21:55 🏅举重女子81公斤级决赛 清流
-https://livednow.com/migu/926567838?sign=gAAAAABmtvR_U2PuoHUtKFECFQzrjyHzDT581SFKIe5WcuiEctT6wfsJGw7gvHLTwfjnJFkp1_TaebMDSkxF8S12nXyGyA-kPNpM1PpRmVVU54B517a_5Jcc2R1XeDsalc-TZMmK81yR2vcNiBRPHm9L9kSKv_lF6vh8ZnCXc_f9VzlQW7yBXOGgljmAL_Ija6rbvyoGaC7axd3jRit5DgKTc5p2P1_qYw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033350a9b.png" group-title="足球",08/10 22:50 🏅足球女子金牌赛：巴西 VS 美国 梁祥宇 解说
-https://livednow.com/migu/926570842?sign=gAAAAABmtvR_PM8F7uHtwgHF_Pe8mPSkXtsGQ9nRsr5ijlsYgXaIZEiary0dvG0RE94c2PXyE7r_BNlFU3x5-_iZ7jfK7dW-e72k7xkBveKpwx7sX6JKZViiyHoGnj9D4RGMWEqcIT5Xw3uZJZDE5DrJQ_CHOZjfE7n4SiLGG64GJKegtV9Mqglsbk5bDa2A6tL-iCgr3DA2qUDMVj3wAPDOKiDBK0rp3A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033350a9b.png" group-title="足球",08/10 22:50 🏅足球女子金牌赛：巴西 VS 美国 清流DX28
-https://livednow.com/migu/926571801?sign=gAAAAABmtvR_kz2IC6MXTFQbL-xvAEQNeHiPA5HYAJFFKagrsNm2HdsdGbucBOzByAMs2VXw2FZGCLT9sKuP7XBTWhZRGXWo0Ma6Wb0njfv1wXMz6WZaf0YhRqy0l_tENI19lO3pZSkykghdOYWZVDpzDMCIhlFMnnLGN_-Cjmcd1KkDsoQAuL-MOWo8TsIKL_zs-nFQj5-eINrp3Fqn6KHq1yMFaWpvBw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/10 22:55 🏅🇨🇳场地自行车男子女子多项争先赛、凯林赛及麦迪逊赛 李陶 解说
-https://livednow.com/migu/926568524?sign=gAAAAABmtvR_E2enqLH5es-NqnsTkuBmv3MTo6HmlZ_YJPapyytJ-3izlXmfND18DD6u_mIzcxNCU8L1PPG9easlMvXL0wEf9gq6Tc2ERmYtBoO_9N0tri7Kd1ciCGryLm3cBRGBG3m-ndAY8Rkb4AOcTyOPxfb8v9alCODgEhr4hTcAEWc9hfw-xDtp3BlsTne4JyZqDYVsiK3zlh5sy9GJ2gV4k0G2Hg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/10 22:55 🏅🇨🇳场地自行车男子女子多项争先赛、凯林赛及麦迪逊赛 清流DX13
-https://livednow.com/migu/926567043?sign=gAAAAABmtvR_lHGev-IvsW-a16dWS9Kjws8wVwHp5jkCRBaa53xeJG02nADhFPR3y8n2VKBvYL4rwgig45Y-SjqwWXINLZ2m8Mbi7cVpYVB95Am56emcL67x3TW_MXwoYR6HaXJiW64lQu1PA1SENRQy46_JHBS4iHpG72ZuaFSd8-dWR6Q0_xFkJRtTFl7YjdgIGReGiP7C6G_cP-2HfNY9OrB1e403Vg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 23:05 排球女子铜牌赛：巴西 VS 土耳其 张歌
-https://livednow.com/migu/926568967?sign=gAAAAABmtvR_lnR3AHty3zZxAYT_FygtooBGtED-AYje4k6R0gNUU1GPLIvsS2c1fAAQ-FJ1lASfIAHYYIqJxUDDD0RBFdk1jHwkPkzPKMSKa8z3rXplVtbf9gB0BYR7ik_dV5ULL-CPTGQ-xnmEdKcfqFIPLHPUHRR8C_OQWBFpIb4bPUyZfMnfn1EjZq4p2-AMs2uSvgxHerUQsZJAeCOmn31URN4M6Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/10 23:05 排球女子铜牌赛：巴西 VS 土耳其 清流
-https://livednow.com/migu/926568341?sign=gAAAAABmtvR_L_aURHt8PCcerQ0FFF70toTTMgixKT6YK8lsRRUQXqIyiMcDvxHAZCGSwfQZwX8w8vvcUx5v6JbjlnkHZAXg97mCNLaQlGmlbIK0GYJiA0VnuWHDgGPCzqJ_Hz3ojdWOh116BuKfrnHR0O8Xvko2_9pdR3AYi9Jmc6iMhsqRa_OZyNhR2I-WyDtUT72vOi0dSIoPEpydVuNp-X23bGp5GQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 23:25 🏅现代五项男子个人决赛 2024奥运会现代五项：现代五项 多项决赛 凌晨场（佐伊）
-https://livednow.com/migu/926687201?sign=gAAAAABmtvR_vYFTx51FC4__RwF8KJp12Eg4ZIKD8RViZWQnIM65WPEshDkIE0EWt8ED8Lid_xYIureqoBTYj6M3fT6q1sQvDTqj07WiXToWvk_oFWASwIxYRs8UQgou6m_wl9uQs_-BpbF9yp3vgoVx9bfdg1hLD_BObG9uizeRwmJTLlnVlYv2UqQbqIP0AkHS8tZuxI1C8q69wlCFSlgrmXCY5ePXyg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/10 23:25 🏅现代五项男子个人决赛 2024奥运会现代五项：现代五项男子场地障碍赛 赛场原声
-https://livednow.com/migu/926571521?sign=gAAAAABmtvR_y65L7gaeCKVC6MFfHI8fwLRmOVAj1B8kHMCywnChcPLvIsNS05E9PsM9u9N9cZWsFnuDUCX_i9wJXKn2RvkAmeA21Qs9RuDiQ1EuD14K0UFdQauQzoVYRMHpjBM2AJRVRG2VM12eUW9UH-GVexc4S44r7aAX1m63T1NLWOm6CYtToZ9SgiAtyvKCxMnz5RXx8wvsRUo5hxfYYOWK6RAtqw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 00:10 🏅摔跤男子自由式74公斤级等多项决赛、半决赛 清流
-https://livednow.com/migu/926570242?sign=gAAAAABmtvR_FwzVbzCjVIS9LfcypGGoOGcOXyEff77TaIWlb40VIR4EfNGHoYUV2JIualDSVDSw5ST9BjIn1hc0Frg7lySVt2cgqHiQ6vL1pDtlDQafuKWXUCKEobcY2nV7ZKQq8A2hjMOotOL-58kHit01Hcx7hPNKCrtNM0uEYFUTqruBEENqR3k78K1-XLwDc0hBnibhkxPeOij1wQ3iJh7-XPkBCA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 00:10 🏅摔跤男子自由式74公斤级等多项决赛、半决赛 王腾霄
-https://livednow.com/migu/926568020?sign=gAAAAABmtvR_8IQlLhlP8y-w2SbkXwd46YRjHVOSv9xOBE_EThL43CSa0_5Qw9Zz11MpvI9HDPkepGhz8I6itBWIQ9AGya5EiyHmXMi0Nq0kNUxtNrIK6GXqPzRgZWbCzoqve16jqyqFCsslg4rUEA_GnqnTfBfXGBlyguHiZ90RihypxVIrjTBFj96cbVvqOhf0TEGjDj6IqAF2YcId-kislYdpQXTKxQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 00:55 🏅田径女子100米跨栏决赛等多项决赛 女子标枪决赛
-https://livednow.com/migu/926571250?sign=gAAAAABmtvR_eX2RGHdk9PepBObtbNBRw-n9vrIq8lY6KNy60b8-mKPhJ5IflXb15TfcFFG6oEgrCnI2t1hgbULheebnB4AaXDJ4YWeowo1ivdGZW_uCDS73tZ1u_AwUPhp7yBdhh5m8hNbNs-MgDlIIg9Jo6EqRzqVqCTuW3HbPqMFr4xLRW4L7i2qb4Z3gS38fFR7k0momqg_sJ2j8jBsybzXyG99Cig%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 00:55 🏅田径女子100米跨栏决赛等多项决赛 男子跳高决赛
-https://livednow.com/migu/926571299?sign=gAAAAABmtvR_HbhHxoczLH4HXYbudjAWVJMGov4yrmHsL_3Ftu9S1Ijv9qKTxyM-6wQ8OHyn0V1q0W4d7f4pOImZDdfM1hSEfEZvnSyidKltWK2d1pSRM4P5gXuTQb3D6H0Umu2MOwtJM-Bithx4n6l_Qpy055rnWf6Am8brcG6FhhlhcbFTzRWxDf6RMEtdi3j13AJ5AKy5e077lvgxj7-XjR4m8TDdoA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 钟宇峰  张晰 解说
-https://livednow.com/migu/926566404?sign=gAAAAABmtvR_By3bEIZJqegLytVMY7EA-QFt-0HEx5XizufJfqVn67mQ277JQGOL-qFeJ4pSL3JU2esdS63Rpcba9vQ4RrRYB0AFgtKJCgipTXsqm2Jv0zY80-lHEcubHe-K6B3oakPsGP6AdzzdOPYeSVGRV-yEecFNfLvqyTtUS-06I0NDI9Fa9hhRPW0syqE1JaMuGtTP1BEoB-5Lar12vR9nuriuHQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 AVS3
-https://livednow.com/migu/926566568?sign=gAAAAABmtvR_7fWNJxn00vkkpxp3zb9hVpOpkCp8ygFTyLCsudGlBFgphUvrdmNS_9vXgIn55O8SBcSuVL2jELQjzKo9Ez1nXeFvVKc9u8uUFPzfOkoc9ZlZ3kz5h_vuAFYFlOS6Cx3VoNW2Hi_aDqE6LbuFVH0CnaMgeZYqprxLYe4Xu7LYktCF4yrjr5msCZioBkRthCUrcIEzwNJG6nCmRDKe8JvOPg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339731a.png" group-title="花样游泳",08/11 01:15 🏅🇨🇳花样游泳双人自由自选 清流DX05
-https://livednow.com/migu/926567512?sign=gAAAAABmtvR_igptcRPydFaJZGIWyIWsae3ImiPFmceFhbKnZDJ-R6fbvRJLVgcdMBHXwGppJfuUYBNi8N0XnCcZ9UCcH9E6B-eX34BzPW84IPv-xcUnKeyJdbF903aE4wdrFVQE4Uivaf6Wko_tqACHOhbLnyz-1b_I7Kp2GMf-4uG4AG9VYbURYFedZO6AIRllb3v1Jr_JCbnqsAuZLF4O1xkQCAc8xw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 01:20 水球男子7-8名排名赛：澳大利亚 VS 意大利 郑好 解说
-https://livednow.com/migu/926567013?sign=gAAAAABmtvR_9e3f70l2PmFuUXrI18S3m5btrkya7TcwOpoGfpHnpiIJ4hFnzZ56Iza9f8V5rLQ5QPW9bV4ntiyS-BLhwXrkxKpz3vuykbd5sXNJczx5YoTgA-XKSAS9WdC2x1zDGbyrQANek0VyvskWVD18z_bqyZCZ5OmwURAKcgPqO7m4ZHZujGjuP60I8-P5IUVfM994-GB7zjERGgScWDoNMAlBGg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 01:20 水球男子7-8名排名赛：澳大利亚 VS 意大利 清流DX44
-https://livednow.com/migu/926570833?sign=gAAAAABmtvR_A6upkPWToNYSDj8nZBZHRA1TwRg6K5TAhCMQr7HimXTO1Bf-h2HQe11N_UIJ26vf5707Ck1ti8UK-LLZOV9o7s4Q1X9NmyQMjffnOVSDBYj-SC59HfpI3ydt6xtgjGjxTC81-suwFFL6leXKLxFCodV3MfADXsXu0LCAhmYdCKYXL02-SV_mvBYSIz8CpGK2Ph4x5ZJNJI8IvnKOu_qLtA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 AVS3
-https://livednow.com/migu/926569710?sign=gAAAAABmtvR_QzsfvoK8ahqTaix5lcZfnFs4CVmeBJLLY1mmL46vhKmJqmcFYtWeFBYITEzowXvGOW5cXeTUU5-S-eU1lnrsCf6btBAKbVKBrSR740HN2LVa29_CqhCAIDzjaF7jKkLiELY0dOTRL_sLhB9ENdimfiV8I9_jpPnsXgT3W6_624RJ-GaaFNB5PohnQklj8ofMxRZ-8lrGQ860wndu2HAsjA%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 吴顺 解说
-https://livednow.com/migu/926569457?sign=gAAAAABmtvR_TxGa0jjKDovLgxpUq6PlCUhm0HoBFFPBa9xotr3Q4ciAyx7z8BgqhPShIB_Fj7TI5nzFAIPXlMA6EYDZS-GVYHMQSZ67HYJO2wuYaNBcdUoUBgDFpTTueKf96kET7RaXIF0IUjuOr2W94RiS5uttD2HCTPeZ0A-l6GrG7zSizan6fTb5cbam683VDLbf-iSCQn7ALUgb7o281u7gyFaqwg%3D%3D
+https://livednow.com/migu/926569457?sign=gAAAAABmuEjVojnKXob4eugIzKxMN8NASu174MHImdcVTb8hdBMSzHhBgiKYMjoccoi_435sggbgU9wsIRpyxwlsym9n6lVC8QKeiaShcqT0uVa3WGukD0YE541NaDAZtCvoVtWh_n6Dc2uIEfORD7LblsHGDCqsBCvvpWpkPm1Vqvgh9vh_w7_niy_VXLz-c8gf7SfOL8H4PyKnPGx7Fu_BbgaJfeanlg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 AVS3
+https://livednow.com/migu/926569710?sign=gAAAAABmuEjVDPKD_Xr81PyvnGKfs2UgSydY6NK_9jAfHEEqhCaReSQHn_2bsCeDr8uad_jecp3HDDed7_nOXowanIrULYpQbwS-mYMH2XXVpGV7osjnLqV7ZO5PVoeMlc8eEwQAZH9erkzqChHyOwCqNrGsu4DTwmU9zJ6QFAhj26e-z8P6Uhg4aigcJK9JRXt3DUQ2x6Y4Rc8DhfVGLH9ydtjwWwf_cQ%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033315378.png" group-title="跆拳道",08/11 01:25 🏅跆拳道多项复活赛、铜牌赛、金牌赛 清流DX30
-https://livednow.com/migu/926571025?sign=gAAAAABmtvR_6wZqQsQYXrLIEA94IgnE1rmms3RivyHx0XWso8Tt2k530OcFlXi98RLBZNtlLFasVpBx13VW2W6DfJCkNDDKE9Cdc8Uc73In2bVH84770eQHp8P7rIvSMg-mWKHqFochmnBDD1LCyezYehU2KtA0cosi5e2yzq_lQ48cCItatJH07EgjUI-vDOCkplLeZw3uy_MU0-K6ch9aB5Toeuk6dQ%3D%3D
+https://livednow.com/migu/926571025?sign=gAAAAABmuEjVIpAi3rZXQTL6UEvZ09N2viu9_yW8RBo0wJbgteygnj2H8BC77y5MgkHnVTCWZgqOK1era132uAWLiSNEbiVKj-48_LiJwAQYaPtDOssncPJ8peNubF2FsJ6tXohDn6781t-UsQAOPC5U7GsrhALO8j-zbmjZ71RqucuxxvLz923BfOvgZZDp69eOioWvjCgybmRdWYGtGpJvh2ov-BrzMQ%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/11 01:50 🏅霹雳舞男子多项1/4决赛、半决赛、铜牌赛、金牌赛 SuperDD 解说
-https://livednow.com/migu/926568050?sign=gAAAAABmtvR_RNOhnSwgp-Tfchnl-YaeQ-0f5bLJt--GKpoOsX90scZ02E79M1W-xSzwk91M__z_P1FYfuzBlTViv12THSAstmylHIkzul3TCchF3JytXSKKXvslrAyV3TFHBmxow6aMfu8JYrgIrjPxk4NftLVHkpytZw3YBJmUOu_OG2BT9hCJMlv1C8aYz1HiiJfEapz5cYX3T5606gvcyJk9TNPSiQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033372031.png" group-title="霹雳舞",08/11 01:50 🏅霹雳舞男子多项1/4决赛、半决赛、铜牌赛、金牌赛 清流DX19
-https://livednow.com/migu/926569321?sign=gAAAAABmtvR_hXBiILKzbbMG6KOCDAC1zZy18lrhCix6hAKMYpP4doPwdGaQgb7A_TeUObb-WRkd5pOEIF0yIUBjlJK9-z4oJscOhps1oRejuzGD-7tKEFUmzTqUgTtNk7Pu7VzYToIW-hpM-GSmL6xV2n7hMefBKPgFS71YrG00Urwyo-YH02x84EcRs4OwrAGuwb9jF8CMJXVP97Fb9MNUWxe-yCvChQ%3D%3D
+https://livednow.com/migu/926568050?sign=gAAAAABmuEjVxKodQvmGbB6Gig0b1nPZHYV3pgnhhqrVJOfQwxdZd9RYS8-TTE7fUrlPDV1TY3hHUW2hyE9GNnk5jcnh22I6PAB53UdyqiBRA-okVmjaox-MJjxRBuACfnLhm1VoQuIh8SU-_MBkD9DvEBPKuNOiI3CSlqRycAycLJmtFAwjBYIEbQdIVqpon1jHcJ0Nn6S1Pl49JsLJgHImlyGIF7obAg%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 02:25 🏅举重男子102公斤以上级决赛 张泽
-https://livednow.com/migu/926568764?sign=gAAAAABmtvR_Ca2nM0idWMO8IXW4e_gwa5w2zpiFamE0LuATGuZQwfGdQblOu9hGULYew765PTTb59ruXF222q3w7vS7IkZv2VRiaL5580qg5OYqyf1jUwKoB-_KFN9SYempCdgmtlcQo0eHzxaT-peDdkfsdTCnIJvHX66FAWDoXsxne1eAoP5yRPF-gJthUfNKhJUpn1Z3hvmMaCtxGWeNlQ-w4fvQ9w%3D%3D
+https://livednow.com/migu/926568764?sign=gAAAAABmuEjVqV3wVJ3lhkA7MnljyzDrdPdnxtNv-OuK25am_as83B1DgeLLythp1e4n2AZFmFQepCi6PoWqPVLc4MwIig95TjDC04-kJtfp2CjGMH16Pa476F2pfTR6-WPjRjsHkBHxmx3GzK7HDYCoxlCJQE6R9hUkQAHzuHYXDFWfS-yDukrnMFhogfWarJE30K6cMjXWkyG25_ksN_36m58iOtSVWw%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 02:25 🏅举重男子102公斤以上级决赛 清流
-https://livednow.com/migu/926567934?sign=gAAAAABmtvR_iiRLaax21UhokEkaNTJ5jovAQYoDPrDJKSSUYMgmN9DdoWxFhRX5vCzwV2xLHWls5XY_lCFlG970tDs_Zj-HLOiwAJq4RxH4LkXhYP6hTuYiy8vzwYHPzOyTWJNbrPppXpolStRoX_Gx08-i0-SK1qfJ9JXuUZrMNLDhPy1Mv4oME0d6aO16I6ewanoay41DHN8Hsv0YmqwW9NydYA66rA%3D%3D
+https://livednow.com/migu/926567934?sign=gAAAAABmuEjVynwkIG8IOwcUxOq22oNSIVBD7tjON5fJWV0UnvWrCHlfvf9C6Os16CEKuLoSNWKCM2wQ0TV0piZbLfprsbfstHQkippdBh1njUqcThQvN3pd3UU2LAhQK1aR3wyRIdLsCCeHCxOPc-IpYPxUFmrJRQ11U3tFHm151AWeqJNzBdeUBxC7fyZ18W8f4VeLMobPP1VxBW-pkfecouMaBhe_pA%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/11 02:50 🏅沙滩排球男子铜牌赛、金牌赛 乔迁
-https://livednow.com/migu/926569242?sign=gAAAAABmtvR_mvWLx29fFuJdY_jJHdBwf5klTuWGWHcqpgeoUGnbpv46NcesiMdB8u-o0IO_1j4INaLBCOU6xIUK3FuxEYwdaOe__MWz7eayFYuChqp9V1lhDyfYM7zmkRmb_dKPQjGu3GYXBTGMEF3Nj51CJUSkHLBczQvKMrBXjnZh7DoQzDJkVdnPY0log_Matw-YH_64n1u0-huCCzHLOLyivUSgQQ%3D%3D
+https://livednow.com/migu/926569242?sign=gAAAAABmuEjV_-qBMxaF4QyVJ_FO6QXe1IE-VhmCbM71HMIUYUo_AJ5Y8qAxE2hbpQW-cfSIIt9P4XMxZQrNlbB87fr3WKjKlEUnhLnPJGa-eGVGuwnUp1OJO3R-7N-f6uOKdC2bOcABBnfLeDH1Ha6n4vCIiUUfNEe755fv-talspbsAWHPpYV9TzQmP8vouWwGYEZgloCLV4zwiKh3ZrqnuM4rthcbOw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/11 02:50 🏅沙滩排球男子铜牌赛、金牌赛 CCTV16
+https://livednow.com/migu/861476216?sign=gAAAAABmuEjVhxgTpCniioRNhugVir-aJ8--YjW72pXAdNmFviYN8AUpDGJNwehknXe4BwLU4sImmaeBsQCUbDgAjocsGskBvsaQnwIWzlj8AjFfSBeLDgv8Nus_poC9vL5KK1BbC4I0pJHvWfnRr7o0c8J1td6p-zJydE25A7RcTNYkYCStGSSf4BCzeokVJO1P7ZZkJu3qEwnh1x3VwB_FwVRVgPXPjw%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333e55cf.png" group-title="沙滩排球",08/11 02:50 🏅沙滩排球男子铜牌赛、金牌赛 清流
-https://livednow.com/migu/926569761?sign=gAAAAABmtvR_3Dqt2jroBS6Th5bPoNYE71uFxPwwymdqkCG1eIx_J79V37Wn1SzQxVWaDPWyOkYUi4lwhBbelNXefchy_SCLzVucZ7JVAhIvjZXj4L9Pjv8CF3XTSEFApaOU8T3e6m1tc33yh6albhEhPIxFuo_tDtUJC2TGEWpli3A0uvGidbMkGLXUuKpRM7N6Ke8nWQj_E9kYyETAI435-iRHP8YaKg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 03:15 🏅篮球男子金牌赛：法国 VS 美国 （霍楠,杨鸣）
-https://livednow.com/migu/926566955?sign=gAAAAABmtvR_ak-RfuOhNVXloSomOOTM2ma8jPfV2FwNr1VGvV9a_sA5wOB40thu-JTD4Z-_90TfFY798nEK-og38ZdU1PCMdrTdAhUZJZfglQuFuBQXwIJORstOlJhw31PyUx8f2nljGlIIM841Hyk-P9epQKByv87tCeJTn7qdF4PqCvuJsKNuf29m069Vve-cm30t1BL2C_dw2Wm4Q6wJwdNdUfbBRQ%3D%3D
+https://livednow.com/migu/926569761?sign=gAAAAABmuEjVQCT1OHljUWQ949YxlasyK3Q2C4gf_VwDsN5sODR_zn0UsbEaCbYQtxNDWtQW1-rt500I4jtTFZGmQNq7mW_1CLVj8m7jOgK0bvSLmqzMNqRrnfyjHbnGrMHC0gRWO4cFWKEK3ZRoT5Ej4VmOa0P4kWeohSXsTUxU6XdP8-1bAZZzFeVb_-JHuYt8KpxxcsODca-_s-63ecxVsqkAAX977Q%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 03:15 🏅篮球男子金牌赛：法国 VS 美国 原声
-https://livednow.com/migu/926568087?sign=gAAAAABmtvR_1fcy7Dd4EmsHPZqyoCrnwjz0jxXIEmAWQAH-phn5J9oPCeHey8HT0hCPl61XsacneuxD2wXzUJfEmO7DwvAuJYYMuv-lecDmJEpRPnZdULAal0hcLZ5egPCCnntOAbpa2XhrNt0hAVQ3eOnPeVeVUuMppPwrfB3hYAdlnQrTeZspUGj0pb0NJZbohzwM6Op1jWRpJJaIyNEIxlNknqSCjQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/11 03:25 🏅🇨🇳拳击女子75公斤级等多项决赛 清流
-https://livednow.com/migu/926569669?sign=gAAAAABmtvR_n5_xXaKzNUuk22GsRlG_jmilWtEECvlVqubuySc2RT5atOKu57_x-kkGgZL36Z_iV3uDEuKg4rEqmAh84Qcy84HmYC5Cni-ievnZn3dVlDURehh0lfr8DuZuHlYp3qUVexjSZmwf60mwIT3MknyYj3poO2y_1B2k0lFw-SfZoLnM8heXtQ1AUrYMhZ5-vrBAeDK-RQbZeAq3vSZwMMpWlw%3D%3D
-
+https://livednow.com/migu/926568087?sign=gAAAAABmuEjVVXLRSXP4JpZFtYo1UzcfVGv2XzVyC7twa2uFywZNTh9F35NXSnl66nR9Q_D3lCzqolQgDDsoYmO7S6giaMNpw_scDRj6kxDrZq_puKJ0cSqsZxlUs_2LycbompN6TILPyUbzKkkn_wv2y7cUOM0rMypqvBTBmf8ccl_G8U99Y-C7Ou6V9q66xrRMvF9oW4BZwzY_sSQ_xPA_1ZYsLSy9bQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/11 03:30 🏅🇨🇳拳击女子75公斤级等多项决赛 王琰博
+https://livednow.com/migu/926777948?sign=gAAAAABmuEjVluE9sJsmlrlcOprPwY_5Vvm1Tr3equDbL26syWr6nG0RNOBq9cSIYGu2bM9TjpDSV7AMl8RWnBeGYqEDFd_1JkuJlMSJY75fRpv6uKx8Hu0RgXHQ7tuMviydVGi0MoqH5kBwGq4MVYndW37r5qDxVdBd_YRPXTczKEphmKc554ZXtmzAdt7SOySlXvy50cSIaVSPMkIrfaiOjpGebZOzDA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/11 03:30 🏅🇨🇳拳击女子75公斤级等多项决赛 CCTV5
+https://livednow.com/migu/750409819?sign=gAAAAABmuEjV4afv6Qb1zKXz4QEiaLc7GgLRvvm80TC27d0wfWzW0zXgINwNQHxFw5_BCsw3ynQMTq2ShkgpG7eLvbGEjiLQvloqGwLi_iyK-1ZtFjJXHa6AZB4gTJo0CDvVtBm19wZENNDA8yfXut4EjousZImBarYE_R0tZtpkSwtQFmg25wmcHnsvQW7lQLXFCZtoYwcx-w5hZ0klwH3wCf1oLxje-A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003332ae0d.png" group-title="拳击",08/11 03:30 🏅🇨🇳拳击女子75公斤级等多项决赛 清流
+https://livednow.com/migu/926569669?sign=gAAAAABmuEjVa1zkCTLokAf9To3wz2cKgVccTVanLZsYt9FsEeBi0T6dIx9Q7pkGkfnFtK116UaG_hQjfVCrSxRKvu3ey4XEIXGpnwCybb-fAQ1cNFIZVHCsWTYtJR6t2U13m69RrfwKqHv50JLIwqRV8KI0SWWuuVOjqtZCsWe0ukH-R1yHmg3avKSpepGOBUJReH4gOOEUF1ZobkLzS-yTfi956sBmCA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 13:45 🏅🇨🇳田径女子马拉松决赛 2024奥运会田径：田径第11比赛日女子马拉松决赛（陈晨）
+https://livednow.com/migu/926713307?sign=gAAAAABmuEjVZWS8frUQlCioa_Q3jc6rJNd9Ze_blziAvfn90aFZ3UxSNVnZoUotp7aoHH5ULLi1J9FnJdh00CLtLsE6DlrVAUMGlaB1Pfr-e9EFWb1NVFjttBLYhkjfoZeJvNnj_kMkbG3Z4kTp-IBJLIB8lX_kZ_FhazdM5mrHaFqAb2T-Ml5ulIkElO7FAJ7GhS1VY1CdUS6Yz_QIxMG25QNZYyF_Qg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003339fe99.png" group-title="田径",08/11 13:45 🏅🇨🇳田径女子马拉松决赛 原声
+https://livednow.com/migu/926712582?sign=gAAAAABmuEjVjvj6h9ohp_7HFedSF3m9LL1shpdZtu-lbbDcXPlf8dNcgb30vtqq_NU-L6pcwq_J7RCW7jbzA8jC_7EFE4EItRxf9E5xNl9Rk5Zeu-OYloem0zLdG9kGeI_TDOWbALwjgzKeEcU0nirfZaR3YxB6fmScGu2vhnvyyHtND1Yuzs2KYkt-DV37COrKlb34Yj3knUCpQl7YYKKXPRbnNG5htA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/11 14:50 手球男子铜牌赛 西班牙 VS 斯洛文尼亚 （远程解说）（徐依婷）
+https://livednow.com/migu/926711635?sign=gAAAAABmuEjVdoEL6a9HD62-dDoMMjuRWA2vAX09bPyU9jNOQggq_jO-abN4X8125G5etLI6lAYMt8PcDuren8oM9MO77UJHjHbORzwoLz33Nq9aPz1Rsh94rjF_kKb_SdMwibRwLrIRPw5ikLxEwdvHJbdS_qEmzTc8zzAa9ffSUOq4efpaDx9n9OxwoqcZ7ZuuUBSOwdoAbPhuiDaWis5jcipryX1LMQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/11 14:50 手球男子铜牌赛 西班牙 VS 斯洛文尼亚 原声
+https://livednow.com/migu/926711525?sign=gAAAAABmuEjVuqdBQIKwQiYXtCHJ_mEOig7iqZU6Wd3k_hcz77cMT_sinzjjkbjTqEue_6UFFS9IZqN0aXM1VZDjkyZEqiF9hYdWHGWecb6SvIo9F2E3riXcjm9l5USw8y65oX1uHzUEPtzC9CIlLAvAo4SbK6ZM2PjDNhBGMgpVAkzxuPz_LFFphQctnMNTXtRoQD8LZDL5jiVR3KxuJrXwcybR2eVudQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 14:50 水球男子5-6名排名赛：希腊 VS 西班牙 叶蕾 解说
+https://livednow.com/migu/926712165?sign=gAAAAABmuEjVvi_-2EUeJvRxUPXkcyMzzuL50nCV0-p8lcMtmHEHOXvO9YhM3YimlVKoEhYIPXcNhRwXcnAOCuMu32pBC2MrDanp9_5UiSOJ8J_lIy51euBI1amvLeap_cz-cZ6zDOOfUVNxM_mz6UROJaAjS1iAc1Kz5taNclMDn-IskZtfxE3xUdnpdSdAlZyyKO7Bmz8eailiVpqz51tWWITlPDFhjQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 14:50 水球男子5-6名排名赛：希腊 VS 西班牙 AVS3
+https://livednow.com/migu/926713249?sign=gAAAAABmuEjVQWZC-SvQj_8mY76732t9MHD-C6pikOrqQ25GKJCN37RT5v4uak1PHQdhBC8KPoS9qRbQcrq7RqiSnrcQcvmFLUwcIEASggRJFJKWquaNMjYm05koHw8h8PTjm8onfBLqFPOA4Y0aKrquczSFeqzywVifibh4HBgt0KoZztXflLqNrFvPIMLKL7a8t00CQ8xufoV7Gjm7sk2-kLGdnkp0Mw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 14:50 水球男子5-6名排名赛：希腊 VS 西班牙 2024奥运会水球：水球男子5-6名排位赛
+https://livednow.com/migu/926712102?sign=gAAAAABmuEjVmNPdTqO02PLoAAcWijf_3tLvnDVAkaKXeSff470OULq-mfZfOOZ4gt-wsiYJ0MQjigTMjBkfOO3W_0pg3jmv5umn485gRQPaMUMwAhsjeCoqislOrv7f0Q8wrhgNErMaTazRHnBpsv05-PryZWTjVzmfhA4HuS3NOT_7sHn-QucN7Z5HWgtsXPuiEL_mni4lwtluvgJR5wSSuaqUV_q0BA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 16:25 水球男子铜牌赛：美国 VS 匈牙利 叶蕾 解说
+https://livednow.com/migu/926712338?sign=gAAAAABmuEjVO9tVJSmyK1IJIKiLExWzf8ieyyb8YON3qhXUtBiK9LVE7kjED5mBtFE6fQxncm9sEE2bDf2wwTbOiWeDLJradZKN2yN9EqzY-s5XCN5xxP_E-YT5Vx2xeABml4qNsaLk1zdY1ORlrmUTQdk7SVWaCgLHyFFU9zd6yfXZ35hUpnWI19kb07uGpE5BUK36pHXD3q5-efkCKDTBeJE9_n7Oag%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 16:25 水球男子铜牌赛：美国 VS 匈牙利 2024奥运会：水球男子铜牌赛
+https://livednow.com/migu/926715614?sign=gAAAAABmuEjVbIjyWxt4nPptED0lTM15nrqNnmMA0BiHy9Nt-P1I1G84pJwr76IwIk_HeAojf2AOrIKd5wxcHv8i8Vow4Mgcji1dCd8XeJhQzJll5YNs95OmPU3KaY2n2sCheBXDUt0i9EDQMtM2OWXtSmKVFG3L0oOxFCJXYgEg7m-kbPjiuIT9YaOKMWCTCVBzuSF-v_Qmne28899JHYps6GOa6ELgSw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/11 16:55 🏅🇨🇳场地自行车多项捕捉赛1/4、半决赛、冲刺赛、淘汰赛、排位赛、积分赛 李陶 解说
+https://livednow.com/migu/926711076?sign=gAAAAABmuEjVAnfQg-NPpMqCskyZal_HWWG8qHOt2nBeQzCKhPcMOzVmNSCXrzlUZhL1xY39-WjdCi_If8LSBzrScdMHw2sGxOvibA4EJQTc6WPZp8O83sGaE8E0tD7yyTBdJ7ZZWDOODXtOvmHbPrtNKLOliHGRbkBrnJqUHlCu5u53Xh-T10UlEzgpqKq67fLFVdHdt6Wbj2TWwaRRc-HnHZXwlaT97g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333853d0.png" group-title="场地自行车",08/11 16:55 🏅🇨🇳场地自行车多项捕捉赛1/4、半决赛、冲刺赛、淘汰赛、排位赛、积分赛 2024奥运会场地自行车：场地自行车多项捕捉赛1/4、半决赛、冲刺赛、淘汰赛、排位赛、积分赛
+https://livednow.com/migu/926711047?sign=gAAAAABmuEjVppvnvprjQDOdZKXz8vr8G5qodVNuSkHJr6tEOTQAvaJYOoqg0C2TD5kHaXpX5IalczYJWCZneW210HBSdhtX9KPHWvrG4Jy4Woa68u-bBraAZdzNuRE2Mwj4LchUZ98b_oda9Eihvi3WWKYSJPpYK8pnpt6E3_411no9G5q0tSWZmv8bgunzizrDzvedvwN1g3-5YaM40SbcY1wQmCbmnQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 16:55 🏅摔跤男子自由式65公斤级等多项决赛 吴庭申
+https://livednow.com/migu/926711938?sign=gAAAAABmuEjVJ0Lafh62EVr3-Lg2IzXOsPgb-kDMpXWSQ5ZRFOLapVS4MYYITFNQrhUNtS5OzejrLdvPup6EVEzfNmxd4Uxjv-O1x6b5JLGZzVX5swYI-58QQpCrycGwzHbYORRWbX9JsKVSH6isIbpHTseqfqmswd3_x7NMiIRcHqun3FIDYgn7nHivcMNRkLy9aO7kbQivYpp3r3ya4RpuvIdVZBJxhw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 16:55 🏅摔跤男子自由式65公斤级等多项决赛 AVS3
+https://livednow.com/migu/926712975?sign=gAAAAABmuEjVF_zJu5hIXslbyfwO628NnQaLESPJ9NmYZnTCGXxinUjbUDeQWpfpjryuuRglE6BoahiATMzghGdmi8yCOl_nU5ndTcaYGKW3ESF0EQ5kbr7NKBiZ4kzTW8dvj0zp55aJrLEuVj8Ri3VQsBRt_sci04D06e6rHDxKdnPkYAZqm8yQ2LHrBH7T06TVn7gnWDLCqFFIKFmFla5N-uIQbCSDOw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003333ae4e.png" group-title="摔跤",08/11 16:55 🏅摔跤男子自由式65公斤级等多项决赛 清流
+https://livednow.com/migu/926711763?sign=gAAAAABmuEjVW_z8w6nUYLlzfShGg_1rZrNDQPgSWqC-5VO_ApZI60FfzYlY0jVkYy_9PJgVlC1YgLVTo83O3wQQUah4E9D8Ks7fx6TNDPDt0UcQ-a5XiauFPVt_2evB5pipAxNEOc3GCJCz2PKE-PkTrJhODPc-0NE_Qo8XJszS0JjgN6SepKqquYckYWW0kzMtInJ6ynSHlpypSqjGkOIyX56OPYeAlQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/11 16:55 🏅🇨🇳现代五项女子个人赛决赛 （远程高校）（佐伊）
+https://livednow.com/migu/926712809?sign=gAAAAABmuEjV318ilP5RyavmV-B2bNvXkNGs-tKw9na4iVFY3LoznTB4Am6Hva7Lz_6CyS-wSc7BhFuO4QBsUE07PIsMWfRVGJDzFBnSS7_H3nHT3OzkCZaPIn6ff6dMmWsGKWZFdVawL-kYFLxUTEsULUUpVLsoJHjkQ5lUcn9r2xq1cW2LNvkrnBmm0b323_U9SDulXpGWxGRGaIl-MeBI8SMvGGjKbQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/11 16:55 🏅🇨🇳现代五项女子个人赛决赛 （远程解说）（张潇）
+https://livednow.com/migu/926712747?sign=gAAAAABmuEjVLb0p8P0rIS7JIr0YtaGeexrorKlModHbdkzTfYYy6mJ2x01-C4CvNubqWM2zuqPmZaZnGXne4gKdybXct1Qsmo5_XHppGNwuC6LVzdKCj1b2bna8KKBcJmoo3LQ6ErHr9DLwCSkmeoNIu_hM7tm_pGi7gAnu_anYkNevV2RtOq-GNgCmeOFV0cVP3W4Ny1FgTY3Te9cxcVebMxMAY6glAA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033316db9.png" group-title="现代五项",08/11 16:55 🏅🇨🇳现代五项女子个人赛决赛 原声
+https://livednow.com/migu/926712627?sign=gAAAAABmuEjV89Lzt-nEgO7Z4T4wg-5haxdeuSbeXY1PhitaBnFkkr--9oSsX77fOILjPmdLKTW2-5Zr_yYM_DOuNQg3YGeyacrzruBNIeTFmZTaYqr-WP4v6d1wvvArKZYQgqppiPxASiqJ-C15nRgekqKoy6-JyJNK2gCEA5HpM82CEPBPYMeIFm90ZZurfFgF0isZCMU9MCS73mI5BHLkyn5_1dgNWQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 17:15 篮球女子铜牌赛：比利时 VS 澳大利亚 （姜帆,苏群）
+https://livednow.com/migu/926712415?sign=gAAAAABmuEjVS6_mPrC9iqqVyIDLMIOOPf_wxhBgd9fLyrbR_vdu5qgpOna_ltLSU2z_7RB-oYUYSlUflTx8nFNDnKeCfSlaI_050gp1R5kw4vCRi7bINv1LPFCZGcT2kb91wp9BdCGHFqDk-PuA41ddVhYpkWAhc9CNJpU-Fjmo3shOBOaoTMu_lW9ZPtCPjdKUIywtaHY3FrK0Cqhh7F8TyAlIf2wUFA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 17:15 篮球女子铜牌赛：比利时 VS 澳大利亚 原声
+https://livednow.com/migu/926711273?sign=gAAAAABmuEjVHG03LU6R3aas4vSxpU8dIOlMcJqSk_Z7cjJJu1eWKavYV445jc7j1_A9fBgUia6eINNpvvRW1uHXeAopZOiel27p-IuY34GGVypXFuHD4IE1GH4dwnnVBIDDl280PCLlT6p6wP7bOrAhg5ChhJWwdrrHjEUC6L5GGYMQsepoq9FczGeGiH5ZxpAzX0IcMwNrRBGxFgPf8hOA8Ht0-EMKcw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 17:25 🏅🇨🇳举重女子81公斤以上级决赛：李雯雯力争卫冕 解说 邢天宇、田涛
+https://livednow.com/migu/926712048?sign=gAAAAABmuEjVydYGADaRPnQetEwzaSRwRfYOxaWv_qYFSiNvBhEWWPERXnEwxeyDQwi8XrHtPjnGeqbHUbprQQNJivU8a_qmoIiX507jWwuvqJuB-BF31HYl-STOV16iEntgi4z9nP9q9YRRo7S8Kps3jI3D4iLKhwuqMgsCh-VRIkJFZKwnfSZXpWDl2F6CGoItynQcBcatm77LHopOZMYMzL_N8da9ZA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 17:25 🏅🇨🇳举重女子81公斤以上级决赛：李雯雯力争卫冕 AVS3
+https://livednow.com/migu/926712218?sign=gAAAAABmuEjVNShsRMBFhlG61Dj4Iooxtq22HbRQBSCid_7t33oXYXECbRF8xJBBPgrLVatZPE3makc06HIwKqhgTfLlg508Z1twZlVTVRP8RlbzvnbXQnI40Cq5Wzkfo4qQwOsohEAnErktUHcEH3V9pMICIXSOAss7rQrmCfdehnMDDqDC1v-i_E0xEnUG6PX1y4SUHi6PYrytfm6EZbrTZfEvrVQNAA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033383cef.png" group-title="举重",08/11 17:25 🏅🇨🇳举重女子81公斤以上级决赛：李雯雯力争卫冕 清流
+https://livednow.com/migu/926711134?sign=gAAAAABmuEjVISrOgwsLxyuS3mOflBykvomWIpGmEta-Ed4tsIoGG1XxHrljkMV-m0VCFj9nlYSJBQFVNyoHBcmPbwCHGFlhW3GeC2FBHG7l2QycCMUtkwtp11LF7u0Ww60CxoyXkRA6cK_48vIeWp4jVX6C5Qs29HK9SNEyIbJJ0-eBR5eKu1C4CneES6aexq4ZcHKucjXzIUSGcOp5saD8LGDTMeayQQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/11 18:50 🏅排球女子金牌赛：美国 VS 意大利 鸿昆
+https://livednow.com/migu/926711404?sign=gAAAAABmuEjVnHyHCpR-O_qgOWm53ZR_RfmCKWcFO-eMeNIKvxxiuNDM_mR_8QFZEdX3yn34JNQ7x0kpEVSAabxWZJl1PNL5y3VgekjrjI-gdNaUoTl3qS2Gv4PkF2Mm1EkrR5T4RYd47OyiFZwxs6kPolquBBbmPWk3h1zXIVQqYZpixUkMFqVfBOrJZ340Fdzyqprg7mpMmBER3PJFEFPMIyvpDfdneg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/10000333081cc.png" group-title="排球",08/11 18:50 🏅排球女子金牌赛：美国 VS 意大利 清流
+https://livednow.com/migu/926711343?sign=gAAAAABmuEjVURsB20wbo8AAxAIxQdaFOL0-b2WkPhlSsMcbi6ZB-rtCR0PdZbSNre0SU0BKT3A45yIpRmEDVPH8ISIXB2PAkxdk6nk6A8ZT5xUHmpJca5TrcVV0VnbGGE9afjbQInyBPbc50ud0PQlO_UA60UgzHXh_tBf62H1REFNno6iwyi6RwPmxL5hzYGIP2RtTKPJIXJYVRrqF-4sjy6yohV80qw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/11 19:20 🏅手球男子金牌赛 德国 VS 丹麦 （远程解说）（石伟）
+https://livednow.com/migu/926711687?sign=gAAAAABmuEjVLMMJ1aj6Z9r9iHmyc6eXKKZBthb-q5fI1Zj77MJjuxHNoFhEr4QMwbzXXDsLa7MO53W0JMER1rdMM9xNOOUfKx_D3uU0es1UC7sY9TLQROWU3frZvhYUrBMWl4JOZitFXy2170K4usqHIAy2327uHCmYRtef6_p5aJHFTM1YqVo6Z2rHFKBvw2eOS8ZoFdCZquUcX_C6iHluuL4ync5pzQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033364793.png" group-title="手球",08/11 19:20 🏅手球男子金牌赛 德国 VS 丹麦 原声
+https://livednow.com/migu/926711557?sign=gAAAAABmuEjVGwev28acNORLBBjSbdXUq-tCWoq9XboblS7-Yn6Ii-BdO6JRU4vmq8txaO4uo7HM06qmxuXqxlm6KVfixaW3OZ6zX-ZZzXjXHj07tG2eZI2ewvppw4ojzVs8biCLyw7QcxEdNp2xMmbSlV3CMSo_qJGDjx2_h1gJO8j9_f9vs6ENMUVthSCJWeQVqFXoeWaolYzwpJBQXn7wo3g-pxx6lQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 19:50 🏅水球男子金牌赛：塞尔维亚 VS 克罗地亚 叶蕾 解说
+https://livednow.com/migu/926712268?sign=gAAAAABmuEjVIS7u-ETMHs_2R-LxVqbaw12H-CYMQZcq9Dq_OzRW8glBEgKiIRohpeQwl4eGEP4CAC_CSH8Mui_66CyQGBTRTWdsS4drfC4daAF_BDrG2nGoTcIWea_lM9L5GockvSNIvOPpO0Wlgb8dPvRGAxbfci-SL76poKqLn55fo58VIaka6o-2FriMz2GYy9RoV-a6S4C5iuuwjjuHpDKsMy3RmQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/100003334c276.png" group-title="水球",08/11 19:50 🏅水球男子金牌赛：塞尔维亚 VS 克罗地亚 2024奥运会水球：水球男子金牌赛
+https://livednow.com/migu/926712221?sign=gAAAAABmuEjV2YN9L_AFMqMYYi3xXQkHXA1JBI548K1qqYY9yj-YxpxemUlQxad1lienhL13ZrZr_5qDwnU1AFBGjIbMpFFGRs8beZ07MC548k-KfutJRy9bq5Jz0INHho28HVfzdDHlndwLPAuWKE45U5nuM2DMIuZ86pPF0Zsf183TGIwZi5Psf3pD94x6cUsFHLeiFy6H_N8LZhrWzgTn9Uij23uOYQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 21:15 🏅篮球女子金牌赛：法国 VS 美国 （邵化谦,杨赞,陈楠）
+https://livednow.com/migu/926712457?sign=gAAAAABmuEjV3_t9dqg-PkVb-J0jUM98opTDa4UUm0uCdjbse2NeeX-K2nbXvHiEt_0A29NPz2-4PmVSi_ignKCXsCqCWVQDAo2Ex4HcBmY5FzWzoUJcfRGlmCR_f4IXejZf1b_UAgIUsLAG-3qhpDdHh2B1Rn1l3VPWF9AaGemfERU37unsiDVOEtuMe2PH5_y2rZkWN-AGyrlscHa3nVYGS9qzFFzwsw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 21:15 🏅篮球女子金牌赛：法国 VS 美国 （远程闽南语）（洪荒）
+https://livednow.com/migu/926712561?sign=gAAAAABmuEjV0IYcRGHQCydjsOlOtH84qx9xGGoyk5UFPMBZiFyEIqKo8i1ScIdU9OhG9YOi4vjJbEUXM9PsxkLZGZiIv7QbdDLqcSu9PjAT6AkO5WWe3GGgCujgq2dHpmM-Ma8H43tL08qnxMPFQxqHlj6wqfwJ6PPn2BkTsRSvLTzeBgNyE9nKe9kiSaKicQFt_zowKvC82yAXOEY92VEo4KzO67bm9g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 21:15 🏅篮球女子金牌赛：法国 VS 美国 AVS3
+https://livednow.com/migu/926712624?sign=gAAAAABmuEjV2OAbEHHM0Gzl0Uv7n-ispw5E9CGtLvcy9NyNflF-2A50u79KfnktVjYqWQDk_43LRTnGsyPhzYwVbEiVmIGY3TuL-TXfraPgf5tE4gDlkFOUpEzhFSstAylW2COxUYAaENGeXJL0ndodIsonXBHWO9hlJ-CjSNCxP0ZxneTAPeuI4wQ2k7SmyafSTkF5kxNwkOQX9Vsz4hbMxQBMlxp4tQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/7/16/1000033371c91.png" group-title="篮球",08/11 21:15 🏅篮球女子金牌赛：法国 VS 美国 原声
+https://livednow.com/migu/926711217?sign=gAAAAABmuEjV0C_ck2eldmU5tkutfJ37SpibFedbGXjI4RVMdz4ko_tZRE5DT3ZroPNOlSEG1dfsj_OghINT946IvDEV3Rg3WY-Ps-fo09mQ54Sg7CP-945rLhOT-EDu1vt04iFQtdLVbzF0ugum6RHHoDgXl8mh9Usp7tAt0V_xFx4oyBiX88xqgwnEKeLD5NhT1HaUqeKxO0Tzx2z4106Dc0LeJ7U6jw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/07/19/6LPKO9OK1Q2Q.png" group-title="闭幕式",08/12 03:00 2024年巴黎奥运会闭幕式 CCTV16
+https://livednow.com/migu/926881814?sign=gAAAAABmuEjVm67pAllKj_PQsEMSTacOwhnQLS4SV81_sWXZwBUChCGWbzSxX7eSZ0Krp4riZNjbuermFhwyvcmUUpOkzUhog2isXhWw9gBxLrVWb36jbyXIPfQbM86vMubYmN6qWyNskBhv7sFnd4TMmchjER4Oqiu5DLFG4Qbc5u1y9wCpDp4CoUbU3cR9LzK7ZnsWD27OUrtyFO2pkOXyYbxmNpYTuA%3D%3D
